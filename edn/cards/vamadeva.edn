@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "vamadeva"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :ai :deva]
+ :text "1[credit]: Break ice subroutine on a piece of ice with exactly 1 subroutine.\n1[credit]: +1 strength.\n2[credit]: Swap Vamadeva with a <strong>deva</strong> program from your grip."
+ :title "Vamadeva"
+ :type :program
+ :uniqueness true}

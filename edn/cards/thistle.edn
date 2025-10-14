@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "thistle"
+ :influence-cost 4
+ :side :corp
+ :text "When your turn begins, gain 1[credit].\nWhen the Runner trashes Thistle while installed (even unrezzed), do 1 net damage.\nWhen an agenda is scored, you may install Thistle from Archives."
+ :title "Thistle"
+ :flavor "No pesticide beats blood, sweat and tears."
+ :type :asset
+ :illustrator "DALL-E"
+ :font-fudge-factor 0.95
+ :trash-cost 1
+ :uniqueness true}

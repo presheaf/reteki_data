@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "chimera"
+ :influence-cost 0
+ :side :corp
+ :strength 1
+ :subtype [:mythic]
+ :text "When you rez Chimera, choose <strong>sentry</strong>, <strong>code gate</strong>, or <strong>barrier</strong>. Chimera gains that subtype until derezzed.\nWhen a turn ends, derez Chimera.\n[subroutine] End the run."
+ :title "Chimera"
+ :type :ice
+ :uniqueness false}

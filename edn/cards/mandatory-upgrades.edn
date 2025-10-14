@@ -1,0 +1,11 @@
+{:advancement-requirement 6
+ :agenda-points 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "mandatory-upgrades"
+ :side :corp
+ :subtype [:initiative]
+ :text "You have 1 additional [click] to spend during your turn (even during the turn this ability becomes active)."
+ :title "Mandatory Upgrades"
+ :type :agenda
+ :uniqueness false}

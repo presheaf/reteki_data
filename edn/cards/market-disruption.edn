@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :mako
+ :id "market-disruption"
+ :influence-cost 4
+ :side :runner
+ :subtype [:sabotage]
+ :text "Gain 2[credit]. The Corp loses 2[credit]."
+ :title "Market Disruption"
+ :flavor "By the time it passed her third cross-check, wariness had nearly given way to elation. The data was good enough that she seriously considered looping in the Director herself. So why had the freelancer not asked for more?"
+ :type :event
+ :uniqueness false}

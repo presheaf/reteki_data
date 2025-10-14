@@ -1,0 +1,16 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "hope"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ ;; :text "Whenever you access cards from R&D, access one additional card from the bottom of R&D."
+ ;; :text "When you make a successful run on R&D, move the bottom card of R&D to the top and access one additional card from R&D. When that run ends, move the top card of R&D to the bottom."
+ :text "Whenever you access cards from R&D, access 1 additional card from R&D.\nWhen you steal an agenda, trash Hope."
+ :title "Hope"
+ :flavor "\"You may encounter many defeats, but you must not <br> be defeated.\" <br> <ral00> -Maya Angelou"
+ :type :program
+ :illustrator "DALL-E"
+ :is-flip-side true
+ :uniqueness false}

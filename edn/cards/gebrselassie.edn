@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "gebrselassie"
+ :influence-cost 4
+ :side :runner
+ :subtype [:mod]
+ :text "[click]: Host Gebrselassie on an installed non-<strong>AI icebreaker</strong>.\nAbilities that increase host <strong>icebreaker's</strong> strength last for the remainder of the turn instead of any other duration.\n<errata>Errata from CR 1.4</errata>"
+ :title "Gebrselassie"
+ :type :hardware
+ :uniqueness true}

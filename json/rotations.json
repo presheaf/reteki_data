@@ -1,0 +1,18 @@
+[
+  {
+    "code": "rotation-2021",
+      "cycles": [
+	  "core",
+	  "genesis",
+	  "creation-and-control",
+	  "spin",
+	  "honor-and-profit",
+	  "lunar",
+	  "order-and-chaos",
+	  "sansan",
+	  "data-and-destiny"
+      ],
+      "name": "First Rotation",
+      "date_start": "2021-01-01"
+  }  
+]

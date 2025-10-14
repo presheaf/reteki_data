@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :adam
+ :id "gyrodrive-soles"
+ :influence-cost 3
+ :side :runner
+ :subtype [:cybernetic]
+ :text "When you install GyroDrive Soles, suffer 1 meat damage.\nDuring runs initiated with your first [click], the trash cost of all cards is reduced by 2."
+ :title "GyroDrive Soles"
+ :type :hardware
+ :uniqueness true}

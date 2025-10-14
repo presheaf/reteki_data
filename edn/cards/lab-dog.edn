@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "lab-dog"
+ :influence-cost 2
+ :side :corp
+ :strength 0
+ :subtype [:trap]
+ :text "[subroutine] The Runner trashes an installed piece of hardware. Trash Lab Dog."
+ :title "Lab Dog"
+ :flavor "\"Remember those FCC regulations about not creating harmful interference? No? Ah, before your time, I guess.\" <br> <ral00> -Cailan Heinrich, Senior Programmer"
+ :type :ice
+ :uniqueness false}

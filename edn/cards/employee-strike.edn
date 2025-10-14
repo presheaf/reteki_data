@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "employee-strike"
+ :influence-cost 1
+ :side :runner
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe Corp's identity text box is blank."
+ :title "Employee Strike"
+ :type :event
+ :uniqueness false}

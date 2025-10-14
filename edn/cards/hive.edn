@@ -1,0 +1,12 @@
+{:cost 5
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "hive"
+ :influence-cost 2
+ :side :corp
+ :strength 3
+ :subtype [:barrier]
+ :text "Hive loses an \"[subroutine] End the run.\" subroutine for each agenda point in the Corp's score area.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run."
+ :title "Hive"
+ :type :ice
+ :uniqueness false}

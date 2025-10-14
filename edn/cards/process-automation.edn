@@ -1,0 +1,10 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "process-automation"
+ :influence-cost 1
+ :side :runner
+ :text "Gain 3[credit] and draw 1 card."
+ :title "Process Automation"
+ :type :event
+ :uniqueness false}

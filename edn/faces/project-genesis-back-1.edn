@@ -1,0 +1,17 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "project-genesis"
+ :influence-cost 3
+ :side :corp
+ :text "When you rez this, shuffle two cards from Archives into R&D.\nWhen your turn begins, gain 1[credit]."
+ :flavor "\"We expected it to be short-lived and fragile. Bafflingly, the opposite has proven true.\" <br> <ral03> -Haruko Maruyama, VP Pharmacokinetics"
+ 
+
+ :illustrator "DALL-E"
+ :title "Acheron"
+ :trash-cost 5
+ :type :asset
+ :is-flip-side true
+
+ :uniqueness false}

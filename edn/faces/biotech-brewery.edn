@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :jinteki
+ :id "biotech-brewery"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "When you flip this identity, do 2 net damage."
+ :title "The Brewery: Jinteki Biotech"
+ :flavor "The vats in Building C can create - and destroy - life itself."
+ :illustrator "Emilio Rodriguez"
+ :type :identity
+ :uniqueness false}

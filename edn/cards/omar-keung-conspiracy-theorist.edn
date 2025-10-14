@@ -1,0 +1,12 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :anarch
+ :id "omar-keung-conspiracy-theorist"
+ :influence-limit 12
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:natural]
+ :text "[click]: Run Archives. If that run would be declared successful, instead change the attacked server to R&D or HQ. Then, the run is declared successful. Use this ability only once per turn.\n<errata>Errata from CR 1.4</errata>"
+ :title "Omar Keung: Conspiracy Theorist"
+ :type :identity
+ :uniqueness false}

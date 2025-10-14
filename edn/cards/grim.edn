@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "grim"
+ :influence-cost 0
+ :side :corp
+ :strength 5
+ :subtype [:sentry :destroyer :illicit]
+ :text "When you rez Grim, take 1 bad publicity.\n[subroutine] Trash 1 program."
+ :flavor "\"The Grim of legend was one of many so-called 'black dog' myths common to Gaelic and English-speaking communities. What's fascinating is that it has propagated to the network, where it lives on as a program that, or so the story goes, hunts for the unwary.\" <br> <ral00> -The Professor"
+ :title "Grim"
+ :type :ice
+ :uniqueness false}

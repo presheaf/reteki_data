@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "commercial-bankers-group"
+ :influence-cost 2
+ :side :corp
+ :subtype [:political]
+ :text "When your turn begins, gain 3[credit] if there is no ice protecting this server."
+ :title "Commercial Bankers Group"
+ :flavor "\"Money is speech and I am listening intently.\" <br> <ral02>-Krishnan Sareen"
+ :trash-cost 2
+ :type :asset
+ :uniqueness true}

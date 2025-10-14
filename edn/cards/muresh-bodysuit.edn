@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "muresh-bodysuit"
+ :influence-cost 1
+ :side :runner
+ :subtype [:gear]
+ :text "The first time each turn you would take meat damage, prevent 2 meat damage."
+ :title "Muresh Bodysuit"
+ :type :hardware
+ :uniqueness false}

@@ -1,0 +1,6 @@
+flask
+waitress
+fpdf
+werkzeug
+pillow
+pyyaml

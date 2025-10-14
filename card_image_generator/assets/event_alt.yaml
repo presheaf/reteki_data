@@ -1,0 +1,76 @@
+atoms:
+  influence-pip: atoms/influence_pip_small.png
+cost:
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+  - 185
+  - 132
+influence-1:
+  loc:
+  - 1664
+  - 2130
+influence-2:
+  loc:
+  - 1664
+  - 2063
+type:
+  font: fonts/typefont.ttf
+  fontsize: 59
+  loc:
+  - 128
+  - 1719
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 59
+  loc:
+  - 343
+  - 1733
+template_image:
+  # adam: event/event_adam.png
+  anarch: event/event_anarch_alt.png
+  apex: event/event_apex_alt.png
+  # apex: example_assets/transparent_bg.png
+  criminal: event/event_criminal_alt.png
+  neutral-runner: event/event_neutral_runner_alt.png
+  shaper: event/event_shaper_alt.png
+  # shaper: example_assets/transparent_bg.png
+  # sunny-lebeau: event/event_sunny.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 60
+  height: 500
+  loc:
+  - 126
+  - 1852
+  width: 1050
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 0
+    - 0
+    - 0
+
+  fontsize: 43
+  loc:
+    - 120
+    - 2330
+
+title:
+  center: true
+  font: fonts/titlefont.otf
+  fontsize: 68
+  loc:
+  - 1303
+  - 133
+

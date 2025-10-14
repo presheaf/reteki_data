@@ -1,0 +1,12 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "priority-requisition"
+ :influence-cost 0
+ :side :corp
+ :subtype [:security]
+ :text "When you score Priority Requisition, you may rez up to two pieces of ice, ignoring all costs."
+ :title "Priority Requisition"
+ :type :agenda
+ :uniqueness false}

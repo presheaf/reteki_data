@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "microtransactions"
+ :influence-cost 2
+ :side :corp
+ :subtype [:transaction]
+ :text "Gain 8[credit], then lose 1[credit] for each card in the Runner's grip."
+ :title "Microtransactions"
+ ;; :flavor "Memvault denizens are free to explore an endless utopia and create anything they imagine. Unless, of course, they imagine a limited edition SanSan Outlaws jersey."
+ :flavor "Memvault denizens are free to explore an endless utopia and create anything they imagine. Unless, of course, they imagine official SanSan Outlaws apparel."
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "fester"
+ :influence-cost 1
+ :side :runner
+ :subtype [:virtual]
+ :text "Whenever the Corp purges virus counters, they lose 2[credit], if able."
+ :title "Fester"
+ :flavor "\"You should have known better than to scratch it\u2026\" <br> <ral00> -Quetzal"
+ :type :resource
+ :uniqueness false}

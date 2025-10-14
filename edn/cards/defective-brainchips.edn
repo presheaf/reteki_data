@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "defective-brainchips"
+ :influence-cost 1
+ :side :corp
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nThe first time each turn the Runner would suffer brain damage, increase the amount of damage by 1."
+ :title "Defective Brainchips"
+ :type :operation
+ :uniqueness false}

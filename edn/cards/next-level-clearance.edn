@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "next-level-clearance"
+ :influence-cost 4
+ :side :corp
+ :subtype [:gray-ops]
+ :text "Trash up to 3 rezzed <strong>NEXT</strong> ice. Place that many advancement tokens on an installed card."
+ :title "NEXT Level Clearance"
+ :flavor "\"Businesses the world over rely on the NEXT suite to guard their secrets. This includes our competitors.\""
+ :type :operation
+ :illustrator "DALL-E"
+ :font-fudge-factor 0.88
+ :uniqueness false}

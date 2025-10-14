@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "rex-campaign"
+ :influence-cost 2
+ :side :corp
+ :subtype [:advertisement]
+ :text "Place 3 power counters on Rex Campaign when it is rezzed. When there are no power counters left on Rex Campaign, trash it and either remove 1 bad publicity or gain 7[credit].\nWhen your turn begins, remove 1 power counter from Rex Campaign."
+ :font-fudge-factor 0.95
+ :title "Rex Campaign"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

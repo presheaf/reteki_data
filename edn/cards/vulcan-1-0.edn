@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "vulcan-1-0"
+ :influence-cost 3
+ :side :corp
+ :strength 5
+ :subtype [:sentry :ap :bioroid]
+ :text "<strong>Front face (Vulcan 1.0 - STR 5 - Sentry - AP - Bioroid)</strong>: The Runner may spend [click] to break any subroutine on Vulcan 1.0. When the Runner passes Vulcan 1.0, if they broke all subroutines on it, flip Vulcan 1.0.\n[subroutine] Do 1 brain damage.\n[subroutine] Do 1 brain damage.\n
+<strong>Back face (Mind Maze - STR 9 - Code Gate)</strong>: The strength of Mind Maze is reduced by 1 for each card in the Runner's grip.\n[subroutine] End the run."
+ :title "Vulcan 1.0"
+ :type :ice
+ :uniqueness false}

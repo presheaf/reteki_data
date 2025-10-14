@@ -1,0 +1,11 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "uncanny-compulsion"
+ :side :corp
+ :text "When you score this agenda, choose 4 cards in Archives and turn them face down. Shuffle 2 of these cards into R&D, add 1 to the bottom of R&D, and add 1 to the top of R&D."
+ :title "Uncanny Compulsion"
+ :font-fudge-factor 0.94
+ :type :agenda
+ :uniqueness false}

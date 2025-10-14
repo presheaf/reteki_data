@@ -1,0 +1,13 @@
+{:cost 6
+ :deck-limit 3
+ :faction :anarch
+ :id "yog-0"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker :decoder]
+ :text "0[credit]: Break <strong>code gate</strong> subroutine."
+ :title "Yog.0"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "data-mine"
+ :influence-cost 2
+ :side :corp
+ :strength 2
+ :subtype [:trap :ap]
+ :text "[subroutine] Do 2 net damage. Trash Data Mine."
+ :title "Data Mine"
+ :type :ice
+ :uniqueness false}

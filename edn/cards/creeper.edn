@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "creeper"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :killer :cloud]
+ :text "If you have at least 2[link], the memory cost of Creeper is 0, even if it is not installed.\n2[credit]: Break <strong>sentry</strong> subroutine.\n1[credit]: +1 strength."
+ :flavor "\"The itsy bitsy spider went up the data spout\u2026\" <br> <ral00> -Chaos Theory"
+ :title "Creeper"
+ :type :program
+ :uniqueness false}

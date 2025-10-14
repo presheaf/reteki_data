@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "sundew"
+ :influence-cost 3
+ :side :corp
+ :text "The first time the Runner spends 1 or more [click] during their turn, gain 2[credit] unless the Runner just initated a run on this server."
+ :title "Sundew"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

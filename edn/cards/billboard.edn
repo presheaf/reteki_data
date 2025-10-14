@@ -1,0 +1,15 @@
+{:cost 5
+ :deck-limit 3
+ :faction :nbn
+ :id "billboard"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :subtype [:barrier :advertisement]
+ :text "If there is a rezzed <strong>advertisement</strong>, the rez cost of Billboard is decreased by 2.\n[subroutine] The Corp gains 1[credit]. End the run."
+ :title "Billboard"
+ :flavor "\"I had no idea what language it spoke, much less what it was saying. I just felt... hungry.\"-Nasir Meidan "
+ :font-fudge-factor 0.90
+
+ :type :ice
+ :uniqueness false}

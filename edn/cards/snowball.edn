@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "snowball"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :fracter]
+ :text "1[credit]: Break <strong>barrier</strong> subroutine.\n1[credit]: +1 strength.\nWhenever you use Snowball to break a subroutine, it has +1 strength for the remainder of the run."
+ :title "Snowball"
+ :type :program
+ :uniqueness false}

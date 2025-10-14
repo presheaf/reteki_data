@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "aesop-s-pawnshop"
+ :influence-cost 2
+ :side :runner
+ :subtype [:location :connection]
+ :text "When your turn begins, you may trash another of your installed cards to gain 3[credit]."
+ :title "Aesop's Pawnshop"
+ ;; :illustrator "Matt Zeilinger"
+ :type :resource
+ :uniqueness true}

@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "termite"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :subtype [:virus]
+ :text "The first time you access a card from R&D each run, you must trash it at no cost (even if it could not normally be trashed).\n
+Trash Termite if the Corp purges virus counters."
+ :title "Termite"
+ :type :program
+ :uniqueness false}

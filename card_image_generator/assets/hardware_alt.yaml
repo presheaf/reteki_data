@@ -1,0 +1,71 @@
+atoms:
+  influence-pip: atoms/influence_pip_small.png
+cost:
+  center: true
+  font: fonts/numeralfont_v2.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+  - 185
+  - 132
+influence-1:
+  loc:
+  - 1664
+  - 2129
+influence-2:
+  loc:
+  - 1664
+  - 2062
+type:
+  font: fonts/typefont.ttf
+  fontsize: 60
+  loc:
+  - 48
+  - 1416
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 60
+  loc:
+  - 391
+  - 1430
+template_image:
+  anarch: hardware/hardware_anarch_alt.png
+  criminal: hardware/hardware_criminal_alt.png
+  neutral-runner: hardware/hardware_neutral_runner_alt.png
+  shaper: hardware/hardware_shaper_alt.png
+  # shaper: example_assets/transparent_bg.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 64
+  height: 729
+  loc:
+  - 43
+  - 1530
+  width: 760
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 0
+    - 0
+    - 0
+
+  fontsize: 40
+  loc:
+    - 43
+    - 2340
+
+title:
+  font: fonts/titlefont.otf
+  fontsize: 68
+  loc:
+  - 44
+  - 1358

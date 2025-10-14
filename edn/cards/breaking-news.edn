@@ -1,0 +1,10 @@
+{:advancement-requirement 2
+ :agenda-points 1
+ :deck-limit 3
+ :faction :nbn
+ :id "breaking-news"
+ :side :corp
+ :text "When you score Breaking News, give the Runner 1 tag.\nWhen the turn on which you scored Breaking News ends, the Runner loses 1 tag."
+ :title "Breaking News"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "deus-x"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 10
+ :subtype [:icebreaker]
+ :text "[trash]: Break any number of <strong>AP</strong> subroutines.\n[trash]: Prevent any amount of net damage."
+ :title "Deus X"
+ :type :program
+ :uniqueness false}

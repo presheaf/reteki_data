@@ -1,0 +1,11 @@
+{:advancement-requirement 3
+ :agenda-points 2
+ :deck-limit 3
+ :faction :nbn
+ :id "rebranding-team"
+ :side :corp
+ :subtype [:initiative]
+ :text "All assets gain <strong>advertisement</strong>."
+ :title "Rebranding Team"
+ :type :agenda
+ :uniqueness false}

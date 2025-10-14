@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "alix-t4lb07"
+ :influence-cost 1
+ :side :corp
+ :subtype [:bioroid]
+ :text "Place 1 power counter on Alix T4LB07 whenever you install a card.\n[click],[trash]: Gain 2[credit] for each power counter on Alix T4LB07."
+ :title "Alix T4LB07"
+ :trash-cost 4
+ :type :asset
+ :uniqueness true}

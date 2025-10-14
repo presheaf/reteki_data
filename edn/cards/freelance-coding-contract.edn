@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "freelance-coding-contract"
+ :influence-cost 1
+ :side :runner
+ :subtype [:job]
+ :text "Trash up to 5 programs from your grip. Gain 2[credit], and an additional 2[credit] for each program trashed."
+ :title "Freelance Coding Contract"
+ :flavor "\"Idealism's great, but it don't keep you in soybeef tacos.\" <br> <ral01> -Matt \"TheMerc\" Thomas"
+ :type :event
+ :uniqueness false}

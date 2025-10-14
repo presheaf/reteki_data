@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "for-the-laughs"
+ :influence-cost 3
+ :side :runner
+ :subtype [:run :sabotage]
+ :text "Make a run on HQ. You may trash the first card you access from HQ at no cost, even if it could not normally be trashed.\nWhen the Corp scores an agenda, add For the Laughs to your grip from your heap."
+ :title "For the Laughs"
+ :type :event
+ :uniqueness false}

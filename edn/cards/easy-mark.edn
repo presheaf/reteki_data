@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "easy-mark"
+ :influence-cost 1
+ :side :runner
+ :subtype [:job]
+ :text "Gain 3[credit]."
+ :title "Easy Mark"
+ :type :event
+ :uniqueness false}

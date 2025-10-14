@@ -1,0 +1,10 @@
+{:cost 0
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "archived-memories"
+ :influence-cost 2
+ :side :corp
+ :text "Add 1 card from Archives to HQ."
+ :title "Archived Memories"
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "shi-kyu"
+ :influence-cost 4
+ :side :corp
+ :subtype [:ambush]
+ :text "If you pay X[credit] when the Runner accesses Shi.Kyū from anywhere except in R&D, the Runner must take either X net damage or add Shi.Kyū to their score area as an agenda worth -1 agenda point."
+ :title "Shi.Kyū"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "savoir-faire"
+ :influence-cost 3
+ :memory-cost 1
+ :side :runner
+ :text "You cannot use Savoir-faire more than once each turn.\n1[credit]: Install a program from your grip, paying the install cost."
+ :title "Savoir-faire"
+ :type :program
+ :uniqueness false}

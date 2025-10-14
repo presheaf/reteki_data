@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "sandburg"
+ :influence-cost 0
+ :side :corp
+ :text "If you have at least 10[credit], each piece of ice has +1 strength for every 5[credit] in your credit pool."
+ :title "Sandburg"
+ :trash-cost 1
+ :type :asset
+ :uniqueness true}

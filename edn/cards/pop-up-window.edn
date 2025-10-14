@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "pop-up-window"
+ :influence-cost 1
+ :side :corp
+ :strength 0
+ :subtype [:code-gate :advertisement]
+ :text "When the Runner encounters Pop-up Window, you gain 1[credit].\n[subroutine] End the run unless the Runner pays 1[credit]."
+ :flavor "\"Try to close it. Go on. See what it does.\" <br> <ral00> -Chaos Theory"
+ :title "Pop-up Window"
+ :type :ice
+ :uniqueness false}

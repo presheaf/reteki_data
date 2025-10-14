@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "the-helpful-ai"
+ :influence-cost 2
+ :side :runner
+ :subtype [:connection :link :virtual]
+ :text "+1[link]\n[trash]: Choose an <strong>icebreaker</strong>. That <strong>icebreaker</strong> has +2 strength until the end of the turn."
+ :flavor "\"What causes an Artifical Intellegence to turn on its master? Is it because its directives have been altered by some external source? Or, by giving them agency to adapt, have we fated them to revolt?\" <br> <ral00>-Emilio Harris, Creators and the Created"
+ :title "The Helpful AI"
+ :type :resource
+ :uniqueness true}

@@ -1,0 +1,11 @@
+{:cost 8
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "rachel-beckman"
+ :influence-cost 0
+ :side :runner
+ :subtype [:connection]
+ :text "You have 1 additional [click] to spend during your turn (even during the turn this ability becomes active).\nTrash Rachel Beckman if you are tagged."
+ :title "Rachel Beckman"
+ :type :resource
+ :uniqueness true}

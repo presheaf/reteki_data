@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "cdo-portfolio"
+ :influence-cost 2
+ :side :corp
+ :text "When your turn begins, take 1[credit] from CDO Portfolio, if able. Otherwise, place 1[credit] on it, and you may draw 1 card."
+ :title "CDO Portfolio"
+ :trash-cost 3
+ :flavor "\"We don't just buy debt; we buy control. Repayment is profit, default is power.\" <br> <ral02> -Beatrice Voss, Director of Risk Management"
+ :type :asset
+ :uniqueness false}

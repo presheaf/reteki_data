@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :apex
+ :id "heartbeat"
+ :influence-cost 3
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\n<strong>Trash one of your installed cards:</strong> Prevent 1 damage.\nLimit 1 <strong>console</strong> per player."
+ :title "Heartbeat"
+ :type :hardware
+ :uniqueness true}

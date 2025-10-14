@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "observe-and-destroy"
+ :influence-cost 1
+ :side :corp
+ :subtype [:gray-ops]
+ :text "Play only if the Runner has fewer than 6[credit].\nAs an additional cost to play this operation, remove 1 tag.\nTrash 2 installed cards."
+ :title "Observe and Destroy"
+ :type :operation
+ :uniqueness false}

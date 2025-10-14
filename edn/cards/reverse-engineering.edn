@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "reverse-engineering"
+ :influence-cost 3
+ :side :runner
+ :subtype [:run]
+ :text "Make a run on R&D. When the run ends, if it was successful, search your stack for a piece of hardware and install it, reducing the cost by 1 for each card you accessed from R&D."
+ :title "Reverse Engineering"
+ :font-fudge-factor 0.98
+ :flavor "\"The secret to creativity is knowing how to hide your sources.\" -Sonia Nahar"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "the-maker-s-eye"
+ :influence-cost 2
+ :side :runner
+ :subtype [:run]
+ :text "Make a run on R&D. If successful, access 2 additional cards from R&D."
+ :title "The Maker's Eye"
+ :flavor "\"Some of the professionals have good instincts, but they can't see beyond the data. They can't see the matrix.\" <br> <ral01> -Ele \"Smoke\" Scovak"
+ :type :event
+ :uniqueness false}

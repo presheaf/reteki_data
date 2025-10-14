@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "overmind"
+ :influence-cost 0
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :ai]
+ :text "Place 1 power counter on Overmind when it is installed for each unused MU.\n<strong>Hosted power counter:</strong> Break ice subroutine.\n1[credit]: +1 strength."
+ :title "Overmind"
+ :type :program
+ :uniqueness false}

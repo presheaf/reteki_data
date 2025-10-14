@@ -1,0 +1,11 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "genetic-resequencing"
+ :side :corp
+ :subtype [:research]
+ :text "When you score Genetic Resequencing, you may place 1 agenda counter on each agenda in your score area."
+ :title "Genetic Resequencing"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,15 @@
+{:advancement-requirement 5
+ :deck-limit 3
+ :agenda-points 3
+ :faction :neutral-corp                 ;hb/jinteki
+ :id "psychomagnetic-pulse"
+ :side :corp
+ :subtype [:collaboration :initiative]
+ :text "When Psychomagnetic Pulse is scored, the Corp divides the following effects into 2 groups. The Runner chooses 1 group to resolve.\n<li> The Runner trashes 1 installed program.
+<li> The Runner suffers 1 brain damage.
+<li> The Runner suffers 2 net damage.
+<li> The Runner has 2 fewer [click] to spend next turn."
+ :title "Psychomagnetic Pulse"
+ :type :agenda
+ :uniqueness false
+ :font-fudge-factor 0.77}

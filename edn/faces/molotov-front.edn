@@ -1,0 +1,16 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "molotov"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :text "The rez cost of all ice is increased by 2[credit].\n
+When the corp rezzes a piece of ice, host Molotov on that ice and flip Molotov."
+ :title "Molotov"
+ :flavor "In the splendid glow of the fire, there was anarchy - vibrant, alive, raging; and ever spreading."
+ ;; Do not be disappointed that the flames missed their target. Be happy that something is on fire.
+ :type :program
+ :illustrator "DALL-E"
+ :backside-title "Blaze"
+ :uniqueness false}

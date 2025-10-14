@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "political-dealings"
+ :influence-cost 4
+ :side :corp
+ :subtype [:seedy]
+ :text "Whenever you draw an agenda, you may reveal and install it."
+ :flavor "\"Politics is a dirty business. But so is business.\" <br> <ral00> -Krishnan Sareen"
+ :title "Political Dealings"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

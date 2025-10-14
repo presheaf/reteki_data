@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "zdnet-access"
+ :influence-cost 2
+ :side :runner
+ :subtype [:virtual]
+ :text "Place 15[credit] on ZDNet Access when it is installed. When there are no credits left on ZDNet Access, trash it.\n[click]: Take 3[credit] from ZDNet Access. Use this ability only if you made a successful run on a central server this turn, and only once per turn.",
+ :title "ZDNet Access"
+ :flavor "Selling secrets is a lucrative business, but the market for vulnerabilities isn't bad either. "
+ :type :resource
+ :uniqueness false}

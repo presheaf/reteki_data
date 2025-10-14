@@ -1,0 +1,12 @@
+{:cost 7
+ :deck-limit 1
+ :faction :jinteki
+ :id "carrington-flare"
+ :influence-cost 5
+ :side :corp
+ :subtype [:gray-ops]
+ :text "Play only if the Runner made a run during their last turn.\nDo 2 net damage. Remove this operation from the game instead of trashing it.\nLimit 1 per deck."
+ :title "Carrington Flare"
+ :flavor "Most Jinteki employees knew not to pry into anything marked Shuusei Incident Response. The rest learned."
+ :type :operation
+ :uniqueness false}

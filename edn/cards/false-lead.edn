@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "false-lead"
+ :influence-cost 0
+ :side :corp
+ :subtype [:security]
+ :text "<strong>Forfeit this agenda:</strong> The Runner loses [click][click], if able."
+ :title "False Lead"
+ :type :agenda
+ :uniqueness false}

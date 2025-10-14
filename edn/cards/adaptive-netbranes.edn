@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "adaptive-netbranes"
+ :side :corp
+ :subtype [:collaboration :research]
+ :text "The advancement requirement of Adaptive Netbranes is decreased by 1 if there is another installed card with 4 hosted advancement tokens.\nWhen the Runner makes a run, you may move an advancement token from an installed card to another installed card."
+ :title "Adaptive Netbranes"
+ :type :agenda
+ :uniqueness false
+ :font-fudge-factor 0.87}

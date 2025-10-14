@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "connect-the-dots"
+ :influence-cost 2
+ :side :runner
+ :subtype [:run]
+ :text "Draw a card and make a run on R&D. When the run ends, gain 1[credit] for each card you accessed from R&D.\n
+When the Corp scores an agenda, add Connect the Dots to your grip from your heap."
+ :title "Connect the Dots"
+ :flavor "Great minds revel in adversity."
+ :illustrator "DALL-E"
+ :type :event
+ :uniqueness false}

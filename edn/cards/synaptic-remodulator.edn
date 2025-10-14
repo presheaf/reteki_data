@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :adam
+ :id "synaptic-remodulator"
+ :influence-cost 3
+ :side :runner
+ :subtype [:cybernetic]
+ :text "When you install Synaptic Remodulator, suffer 1 meat damage.\nWhenever a successful run ends, gain 1[credit] for each [click] lost or spent during that run."
+ :title "Synaptic Remodulator"
+ :flavor "Bioroid thoughtforms spontaneously reshape themselves to learn from experience. When the process turns on itself, the results can be unpredictable."
+ :type :hardware
+ :uniqueness true}

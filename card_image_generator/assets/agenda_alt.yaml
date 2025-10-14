@@ -1,0 +1,99 @@
+advancement-requirement:
+  backdrop:
+    color:
+    - 0
+    - 0
+    - 0
+    offset:
+    - 3
+    - 2
+    width: 8
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 150
+  loc:
+  - 1417
+  - 1692
+agenda-points:
+  backdrop:
+    color:
+    - 0
+    - 0
+    - 0
+    offset:
+    - 3
+    - 2
+    width: 7
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 203
+  - 222
+  - 247
+  fontsize: 158
+  loc:
+  - 168
+  - 2168
+atoms:
+  influence-pip: atoms/influence_pip_small.png
+influence-1:
+  loc:
+  - 1640
+  - 1992
+influence-2:
+  loc:
+  - 1640
+  - 1921
+template_image:
+  haas-bioroid: agenda/agenda_hb_alt.png
+  jinteki: agenda/agenda_jinteki_alt.png
+  nbn: agenda/agenda_nbn_alt.png
+  neutral-corp: agenda/agenda_neutral_corp_alt.png
+  weyland-consortium: agenda/agenda_weyland_alt.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 58
+  height: 425
+  loc:
+  - 352
+  - 1933
+  width: 1180
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 48
+  loc:
+    below-of: text
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 0
+    - 0
+    - 0
+  fontsize: 46
+  loc:
+    - 355
+    - 2338
+
+
+title:
+  font: fonts/titlefont.otf
+  fontsize: 65
+  loc:
+  - 350
+  - 1752
+type:
+  font: fonts/typefont.ttf
+  fontsize: 57
+  loc:
+  - 355
+  - 1811
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 57
+  loc:
+  - 606
+  - 1825

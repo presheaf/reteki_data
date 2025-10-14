@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :sunny-lebeau
+ :id "cloudburst"
+ :influence-cost 2
+ :side :runner
+ :text "Search your stack for a <strong>cloud icebreaker</strong> and install it, paying all costs. Attach Cloudburst to it as a condition counter with the text \"Host <strong>icebreaker</strong> has +1 strength.\""
+ :title "Cloudburst"
+ :type :event
+ :flavor "\"Amateurs delight in absurd hand-coded daemon trees. Professionals have jobs to do.\" -Sunny Lebeau"
+ :uniqueness false}

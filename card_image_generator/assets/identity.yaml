@@ -1,0 +1,257 @@
+base-link:
+  backdrop:
+    color:
+    - 0
+    - 0
+    - 0
+    offset:
+    - 4.4
+    - 6.2
+    width: 3.2
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  center: true
+  fontsize: 180
+  loc:
+  - 176
+  - 122
+influence-limit:
+  backdrop:
+    color:
+    - 0
+    - 0
+    - 0
+    offset:
+    - 3.6
+    - 1
+    width: 5.0
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 102
+  loc:
+    anarch: &rinfpos
+    - 1544
+    - 2226
+    criminal: *rinfpos
+    neutral-runner:  *rinfpos
+    shaper:  *rinfpos
+    mako:  *rinfpos
+    haas-bioroid: &cinfpos
+    - 173
+    - 2222
+    jinteki:   *cinfpos
+    nbn:   *cinfpos
+    neutral-corp:   *cinfpos
+    weyland-consortium:  *cinfpos
+minimum-deck-size:
+  center: true
+  font: fonts/numeralfont.otf
+  fontsize: 102
+  loc:
+    anarch: &rdeckpos
+    - 1544
+    - 2095
+    criminal:  *rdeckpos
+    haas-bioroid: &cdeckpos
+    - 173
+    - 2092
+    jinteki:  *cdeckpos
+    nbn:  *cdeckpos
+    neutral-corp:  *cdeckpos
+    neutral-runner:  *rdeckpos
+    shaper:  *rdeckpos
+    mako:  *rdeckpos
+    weyland-consortium: *cdeckpos
+subtitle:
+  font: fonts/titlefont.otf
+  fontsize:
+    anarch: &rsubtitlefontsize 46
+    criminal: *rsubtitlefontsize
+    neutral-runner: *rsubtitlefontsize
+    shaper: *rsubtitlefontsize
+    mako: *rsubtitlefontsize
+    haas-bioroid: &csubtitlefontsize 58
+    jinteki: *csubtitlefontsize
+    nbn: *csubtitlefontsize
+    neutral-corp: *csubtitlefontsize
+    weyland-consortium: *csubtitlefontsize
+  loc:
+    anarch: &rsubtitlepos
+    - 820
+    - 224
+    criminal: *rsubtitlepos
+    haas-bioroid: &csubtitlepos
+    - 130
+    - 302
+    jinteki: *csubtitlepos
+    nbn: *csubtitlepos
+    neutral-corp: *csubtitlepos
+    neutral-runner: *rsubtitlepos
+    shaper: *rsubtitlepos
+    mako: *rsubtitlepos
+    weyland-consortium: *csubtitlepos
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 72
+  loc:
+    anarch: &rsubtypepos
+    - 641
+    - 1798
+    criminal: *rsubtypepos
+    neutral-runner: *rsubtypepos
+    shaper: *rsubtypepos
+    mako: *rsubtypepos
+    haas-bioroid: &csubtypepos
+    - 578
+    - 1800
+    jinteki: *csubtypepos
+    nbn: *csubtypepos
+    neutral-corp: *csubtypepos
+    weyland-consortium:
+      - 578
+      - 1791
+template_image:
+  adam: identity/identity_neutral_runner.png
+  anarch: identity/identity_anarch.png
+  apex: identity/identity_neutral_runner.png
+  criminal: identity/identity_criminal.png
+  haas-bioroid: identity/identity_hb.png
+  jinteki: identity/identity_jinteki.png
+  nbn: identity/identity_nbn.png
+  neutral-corp: identity/identity_neutral_corp.png
+  neutral-runner: identity/identity_neutral_runner.png
+  shaper: identity/identity_shaper.png
+  mako: identity/identity_mako.png
+  sunny-lebeau: identity/identity_neutral_runner.png
+  weyland-consortium: identity/identity_weyland.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 77
+  height: 404
+  loc:
+    anarch:
+      &rtextpos
+      - 308
+      - 1940
+    criminal:
+      *rtextpos
+    haas-bioroid:
+      &ctextpos
+    - 345
+    - 1948
+    jinteki: *ctextpos
+    nbn: *ctextpos
+    neutral-corp: *ctextpos
+    neutral-runner: *rtextpos
+    shaper: *rtextpos
+    mako: *rtextpos
+    weyland-consortium: *ctextpos
+
+  width:
+    anarch: &rtextwidth 1111    # 1081
+    criminal: *rtextwidth
+    neutral-runner: *rtextwidth
+    shaper: *rtextwidth
+    mako: *rtextwidth
+    haas-bioroid: &ctextwidth 1305
+    jinteki: *ctextwidth
+    nbn: *ctextwidth
+    neutral-corp: *ctextwidth
+    weyland-consortium: *ctextwidth
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+
+illustrator:
+  # TODO: These should be aligned from the bottom of the card, not the top
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 200
+    - 200
+    - 200
+  rotation: 90
+  fontsize: 47
+  loc:
+    anarch: &rillusloc
+      - 1620
+      - 583
+    criminal: *rillusloc
+    shaper: *rillusloc
+    mako: *rillusloc
+    neutral-runner: *rillusloc
+    haas-bioroid:
+      &cillusloc
+      - 1632
+      - 990
+    jinteki: *cillusloc
+    nbn: *cillusloc
+    neutral-corp: *cillusloc
+    weyland-consortium: *cillusloc
+
+set-sym-num:
+  # TODO: These should be aligned from the bottom of the card, not the top
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 200
+    - 200
+    - 200
+  rotation: 90
+  fontsize: 47
+  loc:
+    anarch: &rsetsymloc
+      - 1620
+      - 345
+    criminal: *rsetsymloc
+    shaper: *rsetsymloc
+    mako: *rsetsymloc
+    neutral-runner: *rsetsymloc
+    haas-bioroid:
+      &csetsymloc
+      - 1632
+      - 105
+    jinteki: *csetsymloc
+    nbn: *csetsymloc
+    neutral-corp: *csetsymloc
+    weyland-consortium: *csetsymloc
+
+    
+title:
+  font: fonts/titlefont.otf
+  fontsize: 
+    anarch: &rtitlefontsize 72
+    criminal: *rtitlefontsize
+    neutral-runner: *rtitlefontsize
+    shaper: *rtitlefontsize
+    mako: *rtitlefontsize
+    haas-bioroid: &ctitlefontsize 87
+    jinteki: *ctitlefontsize
+    nbn: *ctitlefontsize
+    neutral-corp: *ctitlefontsize
+    weyland-consortium: *ctitlefontsize
+  loc:
+    anarch:
+      &rtitlepos
+    - 576
+    - 97
+    criminal:
+      *rtitlepos
+    haas-bioroid:
+      &ctitlepos
+    - 337
+    - 151
+    jinteki: *ctitlepos
+    nbn: *ctitlepos
+    neutral-corp: *ctitlepos
+    neutral-runner: *rtitlepos
+    shaper: *rtitlepos
+    mako: *rtitlepos
+    weyland-consortium: *ctitlepos

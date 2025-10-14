@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "project-camb"
+ :side :corp
+ :subtype [:public]
+ :text "Install this agenda faceup. It cannot be advanced unless you have at least 5 scored agenda points.\nWhen your turn ends, if this agenda is installed, gain 1[credit] and place 1 advancement token on it. Then, if it has at least 3, remove 1 bad publicity."
+ :title "Project CAMB"
+ :flavor "The pundits consider the search a ridiculous waste of money. <br> The board considers it a cheap way to pacify Jack."
+ :type :agenda
+ :font-fudge-factor 0.87
+ :uniqueness false}

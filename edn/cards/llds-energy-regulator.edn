@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "llds-energy-regulator"
+ :influence-cost 1
+ :memory-cost 0
+ :side :runner
+ :text "3[credit] or [trash]: Prevent an installed piece of hardware from being trashed."
+ :title "LLDS Energy Regulator"
+ :type :program
+ :uniqueness false}

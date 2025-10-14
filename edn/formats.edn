@@ -1,0 +1,15 @@
+[{:id "reboot"
+  :name "Reboot"
+  :sets ["core-set"
+         "creation-and-control"
+         "honor-and-profit"
+         "order-and-chaos"
+         "data-and-destiny"]
+  :cycles ["genesis"
+           "spin"
+           "lunar"
+           "sansan"
+           "reboot-boosters"]
+  :mwl nil}
+
+ ]

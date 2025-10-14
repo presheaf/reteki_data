@@ -1,0 +1,11 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "ice-carver"
+ :influence-cost 3
+ :side :runner
+ :subtype [:virtual]
+ :text "All ice is encountered with -1 strength."
+ :title "Ice Carver"
+ :type :resource
+ :uniqueness true}

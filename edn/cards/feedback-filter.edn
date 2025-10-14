@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "feedback-filter"
+ :influence-cost 1
+ :side :runner
+ :subtype [:gear]
+ :text "3[credit]: Prevent 1 net damage.\n[trash]: Prevent up to 2 brain damage."
+ :title "Feedback Filter"
+ :type :hardware
+ :uniqueness false}

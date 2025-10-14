@@ -1,0 +1,12 @@
+{:cost nil
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "angel-arena"
+ :influence-cost 0
+ :side :runner
+ :subtype [:location]
+ :text "When Angel Arena is installed, place X power counters on it twice. When there are no power counters left on Angel Arena, trash it.\n<strong>Hosted power counter:</strong> Reveal the top card of your stack. You may add that card to the bottom of your stack."
+ :title "Angel Arena"
+ :flavor "\"Low gravity sports are wildly popular, so match-fixing has proven wildly profitable.\" <br> <ral04> -Leela Patel"
+ :type :resource
+ :uniqueness true}

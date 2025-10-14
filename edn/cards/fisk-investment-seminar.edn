@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 1
+ :faction :criminal
+ :id "fisk-investment-seminar"
+ :influence-cost 2
+ :side :runner
+ :subtype [:priority]
+ :text "Play only as your first [click].\nEach player draws 3 cards.\nLimit 1 per deck."
+ :title "Fisk Investment Seminar"
+ :type :event
+ :uniqueness false}

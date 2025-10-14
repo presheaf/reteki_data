@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "oaktown-grid"
+ :influence-cost 2
+ :side :corp
+ :subtype [:region]
+ :text "The trash cost of cards installed in this server is increased by 4.\nLimit 1 <strong>region</strong> per server."
+ :title "Oaktown Grid"
+ :trash-cost 1
+ :type :upgrade
+ :uniqueness false}

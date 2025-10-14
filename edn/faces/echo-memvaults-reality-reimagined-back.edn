@@ -1,0 +1,11 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "echo-memvaults-reality-reimagined"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division :digital]
+ :text "The Runner cannot be flatlined.\n(If they would be flatlined, instead they take damage equal to the number of cards in their grip.)"
+ :title "Echo Memvaults: Reality Reimagined"
+ :type :identity
+ :uniqueness false}

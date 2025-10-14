@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "progenitor"
+ :influence-cost 2
+ :memory-cost 0
+ :side :runner
+ :subtype [:daemon]
+ :text "Progenitor can host a single <strong>virus</strong> program of 1[mu] or less.\nThe memory cost of the hosted program does not count against your memory limit.\nWhenever virus counters would be purged, prevent 1 virus counter on host program from being removed."
+ :title "Progenitor"
+ :type :program
+ :uniqueness false}

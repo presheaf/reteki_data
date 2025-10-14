@@ -1,0 +1,19 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "project-genesis"
+ :influence-cost 3
+ :side :corp
+ :strength 6
+ :subtype [:sentry :ap]
+ :text "[subroutine] Do 2 net damage."
+ :illustrator "DALL-E"
+ :flavor "\"Though long believed to be a dead end, the Cocytus strain fortuitously started exhibiting the requisite aggression just before its termination. \" <br> <ral00> -Lena Imhof, Genomic Alignment Engineer"
+;; The strain exhibits self-preservative behavior that's proactive to the point of being precognitive. 
+ :font-fudge-factor 0.99
+
+ :title "Cocytus"
+ :is-flip-side true
+
+ :type :ice
+ :uniqueness false}

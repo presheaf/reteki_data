@@ -1,0 +1,12 @@
+{:cost 8
+ :deck-limit 3
+ :faction :sunny-lebeau
+ :id "security-nexus"
+ :influence-cost 3
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu] +1[link]\nOnce per turn, when you encounter a piece of ice, you may force the Corp to \"<trace>trace 5</trace> <br> If successful, give the Runner 1 tag and <br> end the run. If unsuccessful, the Runner bypasses the currently encountered ice.\"\nLimit 1 <strong>console</strong> per player."
+ :font-fudge-factor 0.97
+ :title "Security Nexus"
+ :type :hardware
+ :uniqueness true}

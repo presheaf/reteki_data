@@ -1,0 +1,13 @@
+{:cost 5
+ :deck-limit 3
+ :faction :nbn
+ :id "anklebiter"
+ :influence-cost 4
+ :side :corp
+ :strength 4
+ :subtype [:sentry :illicit]
+ :text "When you rez Anklebiter, take 1 bad publicity.\n[subroutine]Add an installed Runner card to the grip.\n[subroutine] End the run."
+ :title "Anklebiter"
+ :flavor "WHARRGARBL!!"
+ :type :ice
+ :uniqueness false}

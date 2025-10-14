@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "subsidized-processor"
+ :influence-cost 2
+ :side :runner
+ :subtype [:chip]
+ :text "The install cost of non-installed programs is reduced by 1.\nIf you have no unused MU, flip Subsidized Processor."
+ :title "Subsidized Processor"
+ :flavor "\"Most people don't know that budget PADs can only do high-fidelity VR by offloading rendering work to FriendNet's server farm. \" -Chaos Theory"
+ :type :hardware
+ :backside-title "Borrowed Storage"
+ :uniqueness false}

@@ -1,0 +1,20 @@
+({:id :identity
+  :name "Identity"}
+ {:id :agenda
+  :name "Agenda"}
+ {:id :asset
+  :name "Asset"}
+ {:id :upgrade
+  :name "Upgrade"}
+ {:id :operation
+  :name "Operation"}
+ {:id :ice
+  :name "ICE"}
+ {:id :event
+  :name "Event"}
+ {:id :hardware
+  :name "Hardware"}
+ {:id :resource
+  :name "Resource"}
+ {:id :program
+  :name "Program"})

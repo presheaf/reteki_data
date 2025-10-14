@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "gila-hands-arcology"
+ :influence-cost 0
+ :side :corp
+ :subtype [:expansion]
+ :text "[click], [click]: Gain 3[credit]."
+ :title "Gila Hands Arcology"
+ :type :agenda
+ :uniqueness false}

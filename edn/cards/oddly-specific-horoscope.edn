@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :deck-limit 3
+ :agenda-points 2
+ :faction :neutral-corp                 ;hb/nbn
+ :id "oddly-specific-horoscope"
+ :side :corp
+ :subtype [:collaboration]
+ :text "When Oddly Specific Horoscope is scored, name a card. As an additional cost to play or install that card, the Runner must spend 3[credit].\nThe Runner plays with their grip revealed."
+ :title "Oddly Specific Horoscope"
+ :type :agenda
+ :uniqueness false
+ :flavor "\"Genetic markers, media historiography, sentimetrics: the R&D budget for user profiling is massive. Did you really think it was all for adtech?\" <br> <ral04> -Keegan Lane"
+ :font-fudge-factor 0.96}

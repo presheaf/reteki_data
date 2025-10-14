@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "lockpick"
+ :influence-cost 3
+ :side :runner
+ :subtype [:chip :stealth]
+ :text "1[recurring-credit]\nUse this credit to pay for using <strong>decoders</strong>."
+ :flavor "\"I originally designed it for someone else, but it was so useful I decided to keep it for myself.\" <br> <ral01> -Kate \"Mac\" McCaffrey"
+ :title "Lockpick"
+ :type :hardware
+ :uniqueness false}

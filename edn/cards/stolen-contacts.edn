@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "stolen-contacts"
+ :influence-cost 1
+ :side :runner
+ :text "Create 3 copies of Easy Mark and add them to your grip. (When a created card would be moved to your stack or heap, remove it from the game instead.)"
+ :title "Stolen Contacts"
+  :font-fudge-factor 0.99
+ :type :event
+ :uniqueness false
+ :flavor "\"A stranger is just a fund you haven't tapped yet.\" <br> <ral03> -Dionysus Bagbiter"}

@@ -1,0 +1,74 @@
+atoms:
+  influence-pip: atoms/influence_pip_small.png
+cost:
+  center: true
+  font: fonts/numeralfont_v2.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+  - 185
+  - 132
+influence-1:
+  loc:
+  - 1662
+  - 2132
+influence-2:
+  loc:
+  - 1662
+  - 2065
+  # 98
+  # 331
+type:
+  font: fonts/typefont.ttf
+  fontsize: 60
+  loc:
+  - 146
+  - 1747
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 60
+  loc:
+  - 489
+  - 1761
+template_image:
+  anarch: resource/resource_anarch_alt.png
+  criminal: resource/resource_criminal_alt.png
+  neutral-runner: resource/resource_neutral_runner_alt.png
+  shaper: resource/resource_shaper_alt.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 64
+  height: 468
+  loc:
+  - 141
+  - 1861
+  width: 1322
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 0
+    - 0
+    - 0
+
+  fontsize: 40
+  loc:
+    - 141
+    - 2340
+
+title:
+  center: True
+  font: fonts/titlefont.otf
+  fontsize: 68
+  loc:
+  - 1217
+  - 136
+

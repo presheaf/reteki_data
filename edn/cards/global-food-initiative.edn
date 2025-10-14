@@ -1,0 +1,14 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 1
+ :faction :neutral-corp
+ :id "global-food-initiative"
+ :influence-cost 1
+ :side :corp
+ :subtype [:initiative]
+ :font-fudge-factor 0.94
+ :text "Global Food Initiative is worth 1 fewer agenda point while in the Runner's score area.\nLimit 1 per deck."
+ :title "Global Food Initiative"
+ :flavor "\"Corporations are made up of people. It's ridiculous to <br> think they'd be either all good or all bad.\" <br> <ral00> -Sunny Lebeau"
+ :type :agenda
+ :uniqueness true}

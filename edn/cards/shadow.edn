@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "shadow"
+ :influence-cost 1
+ :side :corp
+ :strength 1
+ :subtype [:sentry :tracer]
+ :text "Shadow can be advanced and has +1 strength for each advancement token on it.\n[subroutine] The Corp gains 2[credit].\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag."
+ :flavor "Who knows what evil lurks in the memory diamonds of men? Weyland knows. <br> <ral01>-unsigned"
+ :title "Shadow"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "will-o-the-wisp"
+ :influence-cost 0
+ :side :corp
+ :text "Whenever there is a successful run on this server, you may trash Will-o'-the-Wisp. <br> If you do, choose an <strong>icebreaker</strong> that was used to break at least 1 subroutine during this run. The Runner adds that <strong>icebreaker</strong> to the bottom of their stack."
+ :font-fudge-factor 0.95
+ :title "Will-o'-the-Wisp"
+ :trash-cost 1
+ :type :upgrade
+ :uniqueness false}

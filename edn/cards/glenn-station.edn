@@ -1,0 +1,11 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "glenn-station"
+ :side :corp
+ :subtype [:expansion]
+ :text "Glenn Station can host a single card.\n[click]: Host a card from HQ facedown on Glenn Station.\n[click]: Add a card on Glenn Station to HQ."
+ :title "Glenn Station"
+ :type :agenda
+ :uniqueness false}

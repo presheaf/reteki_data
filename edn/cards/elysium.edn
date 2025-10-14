@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "elysium"
+ :influence-cost 3
+ :side :runner
+ :subtype [:console]
+ :text "+2[mu], X[recurring-credit]\nUse these credits during runs. X is half the number of agenda points you have, rounded down.\nLimit 1 <strong>console</strong> per player."
+ :title "Elysium"
+ :type :hardware
+ :uniqueness true
+ :flavor "Their pain, your gain."}

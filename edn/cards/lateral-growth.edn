@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "lateral-growth"
+ :influence-cost 1
+ :side :corp
+ :subtype [:transaction]
+ :text "Gain 4[credit]. You may install 1 card (paying the install cost)."
+ :title "Lateral Growth"
+ :flavor "\"Practical effects are expensive, but worth it. I had to smash seventeen stunt bioroids to get this shot.\" <br> <ral00> -Parvati Kapoor, director"
+ :type :operation
+ :uniqueness false}

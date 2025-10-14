@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "human-rights-riot"
+ :influence-cost 4
+ :side :runner
+ :text "The first time you trash a card being accessed from a central server each turn, gain 1[credit] and force the Corp to trash 1 card from HQ."
+ :title "Human Rights Riot"
+ :flavor "\"When hopes and dreams are loose in the streets, the timid had better lie low.\" -Eric Hoffer"
+ :type :resource
+ :illustrator "DALL-E"
+ :uniqueness true}

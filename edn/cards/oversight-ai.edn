@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "oversight-ai"
+ :influence-cost 2
+ :side :corp
+ :subtype [:condition]
+ :text "Rez a piece of ice, ignoring all costs, and install Oversight AI on that ice as a hosted condition counter with the text \"Trash host ice if all its subroutines are broken during a single encounter.\""
+ :title "Oversight AI"
+ :type :operation
+ :uniqueness false}

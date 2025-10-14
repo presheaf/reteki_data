@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "credit-crash"
+ :influence-cost 1
+ :side :runner
+ :subtype [:run]
+ :text "Make a run. Trash the first non-agenda card you access during this run at no cost. The Corp can spend credits equal to the rez or play cost of the accessed card to prevent this trash."
+ :title "Credit Crash"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,10 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "biotic-labor"
+ :influence-cost 5
+ :side :corp
+ :text "Gain [click][click]."
+ :title "Biotic Labor"
+ :type :operation
+ :uniqueness false}

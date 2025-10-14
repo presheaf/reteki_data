@@ -1,0 +1,5 @@
+flask
+pyyaml
+pillow
+edn_format
+waitress

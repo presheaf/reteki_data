@@ -1,0 +1,12 @@
+{:cost 5
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "tyrant"
+ :influence-cost 2
+ :side :corp
+ :strength 4
+ :subtype [:barrier]
+ :text "Tyrant can be advanced only while rezzed and gains \"[subroutine] End the run.\" for each advancement token on it."
+ :title "Tyrant"
+ :type :ice
+ :uniqueness false}

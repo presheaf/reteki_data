@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "resistor"
+ :influence-cost 2
+ :side :corp
+ :strength 0
+ :subtype [:barrier :tracer]
+ :text "Resistor has +1 strength for each tag the Runner has.\n[subroutine] <trace>Trace 4</trace> If successful, end the run."
+ :title "Resistor"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "draco"
+ :influence-cost 0
+ :side :corp
+ :strength 0
+ :subtype [:sentry :tracer]
+ :text "When you rez Dracō, you may pay X[credit] to place X power counters on it.\nDracō has +1 strength for each power counter on it.\n[subroutine] <trace>Trace 3</trace> If successful, give the Runner 1 tag and end the run."
+ :title "Dracō"
+ :type :ice
+ :uniqueness false}

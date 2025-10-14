@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "genetics-pavilion"
+ :influence-cost 5
+ :side :corp
+ :subtype [:facility :ritzy]
+ :text "The Runner cannot draw more than 2 cards during their turn."
+ :title "Genetics Pavilion"
+ :trash-cost 5
+ :type :asset
+ :uniqueness true}

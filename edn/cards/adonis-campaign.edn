@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "adonis-campaign"
+ :influence-cost 2
+ :side :corp
+ :subtype [:advertisement]
+ :text "Place 12[credit] on Adonis Campaign when it is rezzed. When there are no credits left on Adonis Campaign, trash it.\nWhen your turn begins, take 3[credit] from Adonis Campaign."
+ :title "Adonis Campaign"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "infiltration"
+ :influence-cost 0
+ :side :runner
+ :text "Gain 2[credit] or expose 1 card."
+ :title "Infiltration"
+ :flavor "\"Bring back any memories, Monica?\" <br> <ral01> -John \"Animal\" McEvoy"
+ :type :event
+ :uniqueness false}

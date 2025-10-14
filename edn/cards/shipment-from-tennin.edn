@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "shipment-from-tennin"
+ :influence-cost 3
+ :side :corp
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\n [click]: Place two advancement counters on an installed card. Remove this operation from the game. Use only if the Runner did not make a successful run last turn."
+ :title "Shipment from Tennin"
+ :type :operation
+ :uniqueness false}

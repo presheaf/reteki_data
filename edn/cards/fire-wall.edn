@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "fire-wall"
+ :influence-cost 2
+ :side :corp
+ :strength 5
+ :subtype [:barrier]
+ :text "Fire Wall can be advanced and gains +1 strength for each advancement token on it.\n[subroutine] End the run."
+ :flavor "\"Definitely a literalist.\" <br> <ral00> -Liz Campbell, VP Project Security"
+ :title "Fire Wall"
+ :type :ice
+ :uniqueness false}

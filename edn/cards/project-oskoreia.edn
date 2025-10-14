@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :deck-limit 3
+ :agenda-points 2
+ :faction :neutral-corp                 ;hb/nbn
+ :id "project-oskoreia"
+ :side :corp
+ :subtype [:collaboration :security]
+ :text "Whenever an agenda (including Project Oskoreia) is scored, choose a server.\nWhenever a run on the most recently <br>  chosen server begins, the Runner must spend [click] or lose 3[credit]."
+ :title "Project Oskoreia"
+ :type :agenda
+ :uniqueness false
+ :flavor "\"Few admit to believing in the 'wild hunt of the Net'. Many bring an offering just in case, though.\" <br> <ral02>-The Professor"
+ :font-fudge-factor 0.97}

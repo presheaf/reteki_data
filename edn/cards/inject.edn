@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "inject"
+ :influence-cost 2
+ :side :runner
+ :text "Reveal the top 4 cards of your stack and trash all programs revealed. Gain 1[credit] for each program trashed, and add the rest of the revealed cards to your grip."
+ :flavor "\"Knowledge comes in many different shapes and sizes.\" <br> <ral01> -Quetzal"
+ :title "Inject"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "e3-feedback-implants"
+ :influence-cost 2
+ :side :runner
+ :subtype [:mod]
+ :text "Whenever you break a subroutine on a piece of ice, you may pay 1[credit] to break 1 subroutine on that ice."
+ :title "e3 Feedback Implants"
+ :type :hardware
+ :uniqueness false}

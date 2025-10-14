@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "spoilers"
+ :influence-cost 3
+ :side :runner
+ :subtype [:virtual]
+ :text "Whenever the Corp scores an agenda, they trash the top card of R&D."
+ :title "Spoilers"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "echo-memvaults-reality-reimagined"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "When the Runner’s turn ends, do 2 brain damage (cannot be prevented) and flip this identity."
+ :title "Echo Memvaults: Reality Reimagined"
+ :flavor "Where dreams transcend the flesh."
+ :type :identity
+ :uniqueness false}

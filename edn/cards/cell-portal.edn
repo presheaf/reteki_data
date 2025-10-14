@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "cell-portal"
+ :influence-cost 2
+ :side :corp
+ :strength 7
+ :subtype [:code-gate :deflector]
+ :text "[subroutine] The Runner approaches the outermost piece of ice protecting the attacked server. Derez Cell Portal."
+ :title "Cell Portal"
+ :type :ice
+ :font-fudge-factor 0.95
+ :uniqueness false}

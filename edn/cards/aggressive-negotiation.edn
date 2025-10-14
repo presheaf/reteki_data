@@ -1,0 +1,10 @@
+{:cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "aggressive-negotiation"
+ :influence-cost 1
+ :side :corp
+ :text "Play only if you scored an agenda this turn.\nSearch R&D for 2 cards and add them to HQ. Shuffle R&D."
+ :title "Aggressive Negotiation"
+ :type :operation
+ :uniqueness false}

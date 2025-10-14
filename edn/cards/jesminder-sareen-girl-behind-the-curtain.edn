@@ -1,0 +1,12 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :shaper
+ :id "jesminder-sareen-girl-behind-the-curtain"
+ :influence-limit 17
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:natural]
+ :text "Avoid the first tag you would take during each run."
+ :title "Jesminder Sareen: Girl Behind the Curtain"
+ :type :identity
+ :uniqueness false}

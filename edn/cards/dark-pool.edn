@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "dark-pool"
+ :influence-cost 4
+ :side :corp
+ :strength 2
+ :subtype [:code-gate]
+ :text "Dark Pool has +1 strength for every 10[credit] in the Corp's credit pool.\n[subroutine] You may search R&D for a <strong>transaction</strong> operation and play it (paying all costs). Shuffle R&D.\n[subroutine] End the run if the Corp has at least 20[credit]."
+ :font-fudge-factor 0.9
+ :flavor " \"There's nothing 'nefarious' about helping your clients make money away from the public eye.\" <br> <ral00> -Michael Muhama, professonal expert"
+ :title "Dark Pool"
+ :type :ice
+ :uniqueness false}

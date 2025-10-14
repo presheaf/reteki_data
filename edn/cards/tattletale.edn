@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "tenuki"
+ :influence-cost 2
+ :side :corp
+ :strength 5
+ :subtype [:sentry]
+ :text "[subroutine] Resolve a subroutine on another piece of rezzed <strong>AP</strong> ice."
+ :title "Tenuki"
+ :flavor "Runners should worry less about their preparations being foiled, and more about all the things they didn't prepare for."
+ :type :ice
+ :uniqueness false}

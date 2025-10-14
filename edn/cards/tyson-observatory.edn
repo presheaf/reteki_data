@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "tyson-observatory"
+ :influence-cost 2
+ :side :runner
+ :subtype [:location]
+ :text "[click], [click]: Search your stack for a piece of hardware, reveal it, and add it to your grip. Shuffle your stack."
+ :title "Tyson Observatory"
+ :flavor "\"There are whole generations of people who never move out of a megalopolis center. You should see the look on their face the first time they see the stars.\" <br> <ral00> -Professor Darren Fin, Astronomy"
+ :type :resource
+ :uniqueness true}

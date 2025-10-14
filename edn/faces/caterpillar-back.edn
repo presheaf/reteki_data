@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "caterpillar"
+ :influence-cost 3
+ :side :corp
+ :strength 3
+ :subtype [:barrier :ap]
+ :text "The strength of this ice cannot be lowered.\n[subroutine] Do 1 net damage.\n[subroutine] End the run.\n[subroutine] Do 1 net damage."
+ :title "Monarch"
+ :type :ice
+ :is-flip-side true
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 1
+ :faction :nbn
+ :id "keegan-lane"
+ :influence-cost 3
+ :side :corp
+ :subtype [:sysop]
+ :text "[trash], <strong>remove 1 tag:</strong> Trash 1 program. Use this ability only during a run on this server.\nLimit 1 per deck."
+ :title "Keegan Lane"
+ :trash-cost 3
+ :font-fudge-factor 0.92
+
+ :type :upgrade
+ :uniqueness true}

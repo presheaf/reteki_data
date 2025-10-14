@@ -1,0 +1,10 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "windfall"
+ :influence-cost 0
+ :side :runner
+ :text "Shuffle your stack. Trash the top card of your stack. Gain X[credit] where X is equal to the install cost of that card."
+ :title "Windfall"
+ :type :event
+ :uniqueness false}

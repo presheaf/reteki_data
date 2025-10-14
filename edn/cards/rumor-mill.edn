@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "rumor-mill"
+ :influence-cost 2
+ :side :runner
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe text box of each unique non-<strong>region</strong> asset is blank."
+ :title "Rumor Mill"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "aurora"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :fracter]
+ :text "2[credit]: Break up to 2 <strong>barrier</strong> subroutines.\n2[credit]: +3 strength."
+ :title "Aurora"
+ :type :program
+ :uniqueness false}

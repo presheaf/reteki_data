@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "corporate-defector"
+ :influence-cost 0
+ :side :runner
+ :subtype [:connection]
+ :text "Whenever the Corp would draw a card with a basic action, reveal that card."
+ :title "Corporate Defector"
+ :type :resource
+ :uniqueness false}

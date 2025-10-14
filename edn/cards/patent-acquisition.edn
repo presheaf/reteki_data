@@ -1,0 +1,11 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "patent-acquisition"
+ :side :corp
+ :text "<strong>Front side (Patent Acquisition, 3/1 Agenda):</strong> When you score Patent Acquisition, flip it, install and rez it (ignoring all costs).\n<strong>Back side (Injunction, STR 5 ICE - Barrier)</strong> [click]: Flip this and add it to your score area.\n[subroutine] End the run.\n[subroutine] End the run."
+ :title "Patent Acquisition"
+ :type :agenda
+ :is-flip-side true
+ :uniqueness false}

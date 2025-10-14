@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "cybersolutions-mem-chip"
+ :influence-cost 2
+ :side :runner
+ :subtype [:chip]
+ :text "+2[mu]"
+ :title "CyberSolutions Mem Chip"
+ :type :hardware
+ :uniqueness false}

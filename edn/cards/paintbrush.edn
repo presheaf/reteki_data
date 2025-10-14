@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "paintbrush"
+ :influence-cost 4
+ :memory-cost 1
+ :side :runner
+ :text "[click]: Choose a rezzed piece of ice. That ice gains <strong>sentry</strong>, <strong>code gate</strong> or <strong>barrier</strong> until the end of the next run this turn."
+ :flavor "\"Hand-made code is like hand-made art. You can see the brush strokes, which lets you see the artist. And then you can see everything in a new way.\" <br> <ral00> -Kate \"Mac\"  McCaffrey"
+ :title "Paintbrush"
+ :type :program
+ :uniqueness false}

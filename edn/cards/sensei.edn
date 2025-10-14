@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "sensei"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :subtype [:code-gate]
+ :text "[subroutine] For the remainder of this run, each piece of ice encountered except Sensei gains \"[subroutine] End the run\" after all its other subroutines."
+ :title "Sensei"
+ :type :ice
+ :uniqueness false}

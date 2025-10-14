@@ -1,0 +1,13 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "patent-aquisition"
+ :side :corp
+ :text "When you score Patent Acquisition, flip it, install and rez it (ignoring all costs)."
+ :title "Patent Acquisition"
+ :flavor "Patent. Noun. A device for turning innovation into litigation. <br> <ral00> -The Anarch's Dictionary, Volume Who's Counting?"
+ :illustrator "DALL-E"
+ :font-fudge-factor 0.9
+ :type :agenda
+ :uniqueness false}

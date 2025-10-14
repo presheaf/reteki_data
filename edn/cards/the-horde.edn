@@ -1,0 +1,15 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :anarch
+ :id "the-horde"
+ :influence-limit 15
+ :minimum-deck-size 50
+ :side :runner
+ :subtype [:natural :g-mod :cyborg]
+ :font-fudge-factor 0.82
+ ;; :text "The first time each turn you make a successful run on HQ or R&D, place 1 power counter on The Horde, then resolve the above effect corresponding to the number of hosted power counters."
+  :text "The first time each turn you make a successful run on HQ or R&D, place 1 power counter on The Horde, then resolve the following effect corresponding to the number of hosted power counters:
+1 - Gain 2[credit].\n2 - Draw 1 card.\n3 - Take 1 net damage and gain [click].\n4 - Force the corp to lose 1[credit].\n5 - Trash the next card you access this run.\n6 - Resolve any of the above abilities. Remove all hosted power counters."
+ :title "The Horde: Defiant Disenfrancistos"
+ :type :identity
+ :uniqueness false}

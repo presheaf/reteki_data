@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "curator"
+ :influence-cost 1
+ :side :corp
+ :strength 1
+ :subtype [:code-gate]
+ :text "When the Runner encounters Curator, increase the trash cost of assets by 2 for the remainder of the run.\n[subroutine] The Runner loses [click], if able. Otherwise, end the run."
+ :title "Curator"
+ :flavor "Admire with your eyes, not with your hands."
+ :type :ice
+ :font-fudge-factor 0.97
+ :uniqueness false}

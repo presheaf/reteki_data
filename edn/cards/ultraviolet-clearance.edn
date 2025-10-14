@@ -1,0 +1,11 @@
+{:cost 6
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "ultraviolet-clearance"
+ :influence-cost 4
+ :side :corp
+ :subtype [:transaction :triple]
+ :text "As an additional cost to play this operation, spend [click][click].\nGain 10[credit] and draw 4 cards. You may install 1 card."
+ :title "Ultraviolet Clearance"
+ :type :operation
+ :uniqueness false}

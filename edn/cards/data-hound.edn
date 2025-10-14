@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "data-hound"
+ :influence-cost 1
+ :side :corp
+ :strength 2
+ :subtype [:sentry :tracer :observer]
+ :text "[subroutine] <trace>Trace 6</trace> If successful, look at a number of cards from the top of the Runner's stack equal to the amount by which your trace strength exceeded their link strength. Trash 1 of those cards, and arrange the rest in any order."
+ :title "Data Hound"
+ :type :ice
+ :uniqueness false}

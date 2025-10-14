@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "futureproofing"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :text "Use hosted credits to install and use <strong>icebreakers</strong> (you cannot use Epiph4ny to install a program that trashes Epiph4ny)." 
+ :title "Epiph4ny"
+ :flavor "<JMastah> omg didn't that ice drop like yesterday\n<JMastah> how do u do it???\n<Sm0ke> just a genius lol"
+ :type :program
+ :is-flip-side true
+ :uniqueness false}

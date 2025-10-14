@@ -1,0 +1,10 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "build-script"
+ :influence-cost 1
+ :side :runner
+ :text "Gain 2[credit] and draw 2 cards."
+ :title "Build Script"
+ :type :event
+ :uniqueness false}

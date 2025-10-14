@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "consolidation"
+ :influence-cost 1
+ :side :corp
+ :text "Consolidation cannot be accessed, derezzed, trashed or uninstalled, and can host up to 2 non-<strong>ambush</strong>, non-<strong>executive</strong> assets. \n Reduce the rez cost of hosted assets by 1."
+ :title "Consolidation"
+ :flavor "\"Keeping track of our holdings is hard enough for our sysops. Most journalists who try seem to burn out.\" <br> <ral02> -Beatrice Voss, Director of Risk Management"
+ :illustrator "DALL-E"
+ :trash-cost 0
+ :type :upgrade
+ :uniqueness true
+ :font-fudge-factor 0.90}

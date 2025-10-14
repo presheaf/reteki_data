@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "freelancer"
+ :influence-cost 0
+ :side :corp
+ :subtype [:gray-ops]
+ :text "Play only if the Runner is tagged.\nTrash up to 4 resources."
+ :title "Freelancer"
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,11 @@
+{:cost 3
+ :deck-limit 3
+ :faction :nbn
+ :id "city-surveillance"
+ :influence-cost 4
+ :side :corp
+ :text "When the Runner's turn begins, give the Runner 1 tag unless they pay 1[credit]."
+ :title "City Surveillance"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

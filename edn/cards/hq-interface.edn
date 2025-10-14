@@ -1,0 +1,10 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "hq-interface"
+ :influence-cost 2
+ :side :runner
+ :text "Whenever you access cards from HQ, access 1 additional card from HQ."
+ :title "HQ Interface"
+ :type :hardware
+ :uniqueness false}

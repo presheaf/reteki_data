@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "edge-of-world"
+ :influence-cost 2
+ :side :corp
+ :subtype [:ambush]
+ :text "If you pay 3[credit] when the Runner accesses Edge of World while it is installed, do 1 brain damage for each piece of ice protecting this server."
+ :title "Edge of World"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

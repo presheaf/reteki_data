@@ -1,0 +1,10 @@
+{:cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "sea-source"
+ :influence-cost 2
+ :side :corp
+ :text "Play only if the Runner made a successful run during their last turn.\n<trace>Trace 3</trace> If successful, give the Runner 1 tag."
+ :title "SEA Source"
+ :type :operation
+ :uniqueness false}

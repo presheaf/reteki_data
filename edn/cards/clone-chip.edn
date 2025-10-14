@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "clone-chip"
+ :influence-cost 3
+ :side :runner
+ :subtype [:chip]
+ :text "[trash]: Install a program from your heap (paying the install cost)."
+ :title "Clone Chip"
+ :type :hardware
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "foxtrot"
+ :influence-cost 3
+ :side :corp
+ :strength 5
+ :subtype [:barrier]
+ :text "[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] End the run."
+ :title "Blockade"
+ :flavor "\"'Shipping early'? That just means you can make it better.\" -Liz Campbell, VP Project Security"
+ :type :ice
+ :is-flip-side true
+ :uniqueness false}

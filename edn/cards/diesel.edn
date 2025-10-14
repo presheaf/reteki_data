@@ -1,0 +1,10 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "diesel"
+ :influence-cost 2
+ :side :runner
+ :text "Draw 3 cards."
+ :title "Diesel"
+ :type :event
+ :uniqueness false}

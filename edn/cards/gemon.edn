@@ -1,0 +1,15 @@
+{:cost 6
+ :deck-limit 3
+ :faction :criminal
+ :id "gemon"
+ :influence-cost 3
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :fracter :ritzy]
+ :text "0[credit]: Break <strong>barrier</strong> subroutine.\n2[credit]: +3 strength.\nWhen a successful run in which you used Gemon to break a subroutine ends, lose 2[credit]."
+ :title "Gemon"
+ :flavor "\"The key to the finer things in life is hard work. Of course, a lockpick works too.\" -Dionysus Bagbiter "
+ :type :program
+ :uniqueness false
+ :font-fudge-factor 0.96}

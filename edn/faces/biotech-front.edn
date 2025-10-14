@@ -1,0 +1,12 @@
+{:deck-limit 1
+ :faction :jinteki
+ :id "biotech-front"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "Before taking your first turn, you may switch this card with any copy of Jinteki Biotech.\n[click],[click],[click]: Flip this identity."
+ :title "Jinteki Biotech: Life Imagined"
+ :illustrator "Emilio Rodriguez"
+ :type :identity
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 3
+ :faction :mako
+ :id "moha"
+ :influence-cost 3
+ :memory-cost 2
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :decoder :klesha]
+ :text "0[credit]: Break <strong>code gate</strong> subroutine on a piece of ice with a hosted virus counter.\n2[credit]: Place 1 virus counter on a <strong>code gate</strong> currently being encountered.\n2[credit]: +2 strength."
+ :flavor "At first, freedom felt exhilarating. Eventually, it felt like nothing at all."
+ :title "Moha"
+ :type :program
+ :uniqueness false}

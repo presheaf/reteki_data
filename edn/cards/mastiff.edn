@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "mastiff"
+ :influence-cost 2
+ :side :corp
+ :strength 3
+ :subtype [:sentry :ap]
+ :text "[subroutine] Do 1 net damage unless the Runner pays 1[credit].\n[subroutine] Do 1 net damage unless the Runner pays 1[credit].\n[subroutine] Do 1 net damage unless the Runner pays 1[credit]."
+ :title "Mastiff"
+ :flavor "Pupgrades."
+ :type :ice
+ :uniqueness false}

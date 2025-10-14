@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "boom"
+ :influence-cost 3
+ :side :corp
+ :subtype [:double :black-ops]
+ :text "Play only if the Runner has at least 3 tags.\nAs an additional cost to play this operation, spend [click].\nDo 7 meat damage."
+ :title "BOOM!"
+ :trash-cost 1
+ :type :operation
+ :uniqueness false}

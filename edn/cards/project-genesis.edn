@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "project-genesis"
+ :influence-cost 3
+ :side :corp
+ :text "Before the game begins, reveal all copies of Project Genesis from your deck. Secretly choose any one version of Project Genesis to replace them with.\nWhen you rez Project Genesis, place 3 power counters on it. When your turn begins, remove a hosted power counter. Then, if there are none, flip, install and rez this, ignoring all costs."
+
+ :font-fudge-factor 0.83
+
+ :title "Project Genesis"
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

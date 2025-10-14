@@ -1,0 +1,10 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "spot-the-prey"
+ :influence-cost 2
+ :side :runner
+ :text "Expose 1 non-ice card, then make a run."
+ :title "Spot the Prey"
+ :type :event
+ :uniqueness false}

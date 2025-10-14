@@ -1,0 +1,123 @@
+atoms:
+  influence-pip: atoms/influence_pip.png
+  trashcan: atoms/trashcan.png
+cost:
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+    haas-bioroid:
+      &cillusloc2
+      - 205
+      - 168
+      # - 208
+      # - 164
+
+    jinteki:
+      *cillusloc2
+    nbn: *cillusloc2
+    neutral-corp:
+      - 212
+      - 168
+    weyland-consortium: *cillusloc2
+
+influence-1:
+  loc:
+  - 298
+  - 2270
+influence-2:
+  loc:
+  - 389
+  - 2270
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 73
+  loc:
+  - 638
+  - 1439
+template_image:
+  haas-bioroid: operation/operation_hb.png
+  jinteki: operation/operation_jinteki.png
+  nbn: operation/operation_nbn.png
+  neutral-corp: operation/operation_neutral_corp.png
+  weyland-consortium: operation/operation_weyland.png
+text:
+  center: true
+  font: fonts/textfont.ttf
+  fontsize: 76
+  height: 585
+  loc:
+  - 210
+  - 1584
+  width: 1300
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 185
+    - 185
+    - 185
+  fontsize: 47
+  loc:
+    haas-bioroid:
+      &cillusloc
+      - 752
+      - 2268
+    jinteki:
+      *cillusloc
+    nbn: *cillusloc
+    neutral-corp:
+      *cillusloc
+    weyland-consortium: *cillusloc
+set-sym-num:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 185
+    - 185
+    - 185
+  fontsize: 47
+  loc:
+    haas-bioroid:
+      &csetsymloc
+      - 1472
+      - 2268
+    jinteki:
+      *csetsymloc
+    nbn: *csetsymloc
+    neutral-corp:
+      *csetsymloc
+    weyland-consortium: *csetsymloc
+title:
+  font: fonts/titlefont.otf
+  fontsize: 73
+  loc:
+  - 438
+  - 103
+trash-cost:
+  font: fonts/impact.ttf
+  fontcolor:
+  - 152
+  - 130
+  - 119
+  fontsize: 103
+  loc:
+  - 1432
+  - 2016
+trashcan:
+  loc:
+  - 1351
+  - 2000
+type:
+  font: fonts/typefont.ttf
+  fontsize: 79
+  loc:
+  - 178
+  - 1414

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "paper-wall"
+ :influence-cost 0
+ :side :corp
+ :strength 1
+ :subtype [:barrier]
+ :text "If all subroutines on Paper Wall are broken during a single encounter, trash Paper Wall.\n[subroutine] End the run."
+ :title "Paper Wall"
+ :type :ice
+ :uniqueness false}

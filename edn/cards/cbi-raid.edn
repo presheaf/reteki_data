@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "cbi-raid"
+ :influence-cost 2
+ :side :runner
+ :subtype [:run :sabotage]
+ :text "Make a run on HQ. If successful, instead of accessing cards, the Corp adds all cards in HQ to the top of R&D in the order of his or her choice."
+ :title "CBI Raid"
+ :type :event
+ :uniqueness false}

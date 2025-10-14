@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "refragmenter"
+ :influence-cost 1
+ :side :runner
+ :text "Place 3 power counters on Refragmenter when it is installed. When there are no power counters left on Refragmenter, trash it and draw 2 cards.\nWhenever you access a card from R&D and do not steal or trash it, you may remove a hosted power counter to set that card aside and move it to the bottom of R&D when this run ends."
+ :title "Refragmenter"
+ :font-fudge-factor 0.88
+ :type :hardware
+ :uniqueness false}

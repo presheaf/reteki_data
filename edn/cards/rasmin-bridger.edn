@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "rasmin-bridger"
+ :influence-cost 1
+ :side :corp
+ :subtype [:sysop]
+ :text "Whenever the Runner passes a piece of ice protecting this server, they must pay 1[credit] or end the run."
+ :title "Rasmin Bridger"
+ :trash-cost 2
+ :flavor "\"Don't lecture me about old dogs. Old tricks suffice.\""
+ :type :upgrade
+ :uniqueness true}

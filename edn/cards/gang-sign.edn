@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 1
+ :faction :criminal
+ :id "gang-sign"
+ :influence-cost 3
+ :side :runner
+ :subtype [:virtual]
+ :text "Whenever the Corp scores an agenda, access 1 card from HQ.\nLimit 1 per deck."
+ :title "Gang Sign"
+ :type :resource
+ :uniqueness false}

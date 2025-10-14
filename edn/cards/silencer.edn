@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "silencer"
+ :influence-cost 3
+ :side :runner
+ :subtype [:chip :stealth]
+ :text "1[recurring-credit]\nUse this credit to pay for using <strong>killers</strong>."
+ :flavor "Take Moore's Law, iterate it over a century or two, and mix in quantum computing. You get to the point where you're developing the software on a hardware platform that you design at the same time. Tailor-made for each other. Exciting time to be alive! <br> <ral02> -William Knuth, The Tower of Babbage"
+ :title "Silencer"
+ :type :hardware
+ :uniqueness false}

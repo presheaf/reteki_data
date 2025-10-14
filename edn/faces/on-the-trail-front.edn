@@ -1,0 +1,15 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "on-the-trail"
+ :influence-cost 1
+ :side :runner
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nThe first time you make a successful run on a central server each turn, place 1[credit] on On the Trail. Then, if it has 3[credit] on it, take all credits from it and flip it."
+ :title "On the Trail"
+ :flavor "Buying secrets is expensive. Commissioning them is exorbitant."
+ :font-fudge-factor 0.83
+ :type :event
+ :illustrator "DALL-E"
+ :backside-title "Moment of Truth"
+ :uniqueness false}

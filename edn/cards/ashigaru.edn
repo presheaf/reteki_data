@@ -1,0 +1,12 @@
+{:cost 7
+ :deck-limit 3
+ :faction :jinteki
+ :id "ashigaru"
+ :influence-cost 3
+ :side :corp
+ :strength 4
+ :subtype [:barrier]
+ :text "Ashigaru gains \"[subroutine] End the run.\" for each card in HQ."
+ :title "Ashigaru"
+ :type :ice
+ :uniqueness false}

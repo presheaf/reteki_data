@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "mise-en-place"
+ :influence-cost 1
+ :side :corp
+ :text "Resolve two of the following in any order:\n<li>Draw a card. Shuffle a card from HQ into R&D.<li>Trash a rezzed piece of ice, then install and rez it, ignoring all costs.<li>Look at the top 3 cards of R&D and put them back in any order.<li>Pay 1[credit] to purge virus counters."
+ :font-fudge-factor 0.82
+ :title "Mise en Place"
+ :type :operation
+ :uniqueness false}

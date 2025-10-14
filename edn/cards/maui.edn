@@ -1,0 +1,11 @@
+{:cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "maui"
+ :influence-cost 2
+ :side :runner
+ :subtype [:console]
+ :text "+2[mu]\nX[recurring-credit]\nUse these credits during runs on HQ. X is the number of pieces of ice protecting HQ.\nLimit 1 <strong>console</strong> per player."
+ :title "Māui"
+ :type :hardware
+ :uniqueness true}

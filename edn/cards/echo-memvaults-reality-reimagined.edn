@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "echo-memvaults-reality-reimagined"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "<strong>Front face:</strong> When the Runner’s turn ends, do 2 brain damage (cannot be prevented) and flip this identity.\n<strong>Back face:</strong> The Runner cannot be flatlined.\n (If they would be flatlined, instead they take damage equal to the number of cards in their grip.)"
+ :title "Echo Memvaults: Reality Reimagined"
+ :type :identity
+ :uniqueness false}
+
+

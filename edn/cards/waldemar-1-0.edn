@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "waldemar-1-0"
+ :influence-cost 1
+ :side :corp
+ :strength 2
+ :subtype [:barrier :bioroid]
+ :text "The Runner may spend [click] to break any subroutine on Waldemar 1.0.\n Waldemar 1.0 gains \"[subroutine] End the run.\" for each rezzed piece of <strong>bioroid</strong> ice (max 6)."
+ :flavor "\"Your greatest asset is your ability to cooperate. We are no different, merely better.\""
+ :title "Waldemar 1.0"
+ :type :ice
+ :illustrator "DALL-E"
+ :uniqueness false}

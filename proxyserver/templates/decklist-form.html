@@ -1,0 +1,107 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@2.1.0/build/pure-min.css" integrity="sha384-yHIFVG6ClnONEA5yB5DJXfW2/KC173DIQrYoZMEtBvGzmf0PKiGyNEqe9N6BNDBH" crossorigin="anonymous">
+<style>
+.bg {
+    /* The image used */
+    background-image: url({{ url_for('static', filename='Interns.jpg') }});
+
+    /* Full height */
+    height: 100%;
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.monocolor-bg {
+    background-color: rgba(200,200,220,0.8);
+    /* opacity: 60%; */
+    padding: 20px ;
+    border: 1px solid blue ;
+}
+input.larger {
+    width: 17px;
+    height: 17px;
+}
+</style>
+<div class="bg">
+  <form method="POST" class="pure-form pure-form-stacked">
+<div class="monocolor-bg" style="font-size:1.0vw">
+
+  <div class="pure-u-1">
+    Please paste a decklist exported from RetekiDB (choose "Jinteki.net Format") below. Remember that the deck's identity must be manually added.
+  </div>
+
+  <div class="pure-u-1">
+    <label for="decklist-form">Decklist:</label>
+    <textarea
+      cols="40" 
+      rows="20" 
+      name="decklist"
+      id="decklist-form"
+      placeholder="3 Cyberfeeder
+1 Darwin
+1 D4		   
+1 Kate"></textarea>
+  </div>
+
+  <div class="pure-u-1 pure-u-md-1-3">
+    <label for="min-change-level">Which cards to proxy</label>
+    <select name="min-change-level" id="min-change-level">
+      <option value="unchanged" selected="selected">All cards</option>
+      <option value="changed">Changed cards only (I have a full FFG collection)</option>
+      <option value="ingame-changed">Changes with ingame effects only (not influence changes)</option>
+    </select>
+  </div>
+
+  <div class="pure-g">
+    <div class="pure-u-1-5">
+      <label for="use-full-arts">
+        <input type="checkbox" name="use-full-arts" class="larger" id="use-full-arts"/>
+        Prefer full-art cards
+      </label>
+    </div>
+    <div class="pure-u-1-5">
+      <label for="include-bleeds">
+        <input type="checkbox" name="include-bleeds" class="larger" id="include-bleeds"/>
+        Image bleed
+      </label>
+    </div>
+  </div>
+
+  <div class="pure-g">
+    <div class="pure-u-1-5">
+      <label for="generate-type">Output type</label>
+      <select name="generate-type" id="generate-type">
+        <option value="pdf" selected="selected">PDF</option>
+        <option value="zip">ZIP</option>
+        <option value="txt">Changelist</option>
+      </select>
+    </div>
+
+    <div class="pure-u-1-5">
+      <label for="paper-type">Paper type (if PDF)</label>
+      <select name="paper-type" id="paper-type">
+        <option value="A4" selected="selected">A4</option>
+        <option value="Letter">US Letter</option>
+        <option value="Legal">US Legal</option>
+      </select>
+    </div>
+  </div>
+
+  <div class="pure-u-1" style="margin-top: 20px; margin-bottom:2cm;">
+    <input type="submit" value="Generate proxies" class="pure-button pure-button-primary">
+  </div>
+
+  <div class="pure-u-1">
+    (To download the full set of images, click <a href="/full_set_explanation">here.</a>)
+  </div>
+
+</div>
+    
+
+  </form>
+<p>
+<p> Explanation:
+<p> Bleed: Small extra boundary around image. Mainly required for print services.
+<p> Full-arts: Some cards have alternative versions (e.g. Freelance Coding Contract, Deep Red, Caprice Nisei), with the same text but nicer artwork. This option causes these versions to be used instead for the cards where one exists.
+
+</div>

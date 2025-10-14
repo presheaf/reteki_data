@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "sunset"
+ :influence-cost 1
+ :side :corp
+ :text "Choose a server. Arrange the ice protecting that server in any order."
+ :flavor "\"You haven't run until you've seen the cybersun drift down behind the Great City, the space around you rippling with colors you can't imagine.\" <br> <ral00> -Kate \"Mac\" McCaffrey"
+ :title "Sunset"
+ :type :operation
+ :uniqueness false}

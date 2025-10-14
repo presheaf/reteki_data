@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :nbn
+ :id "retrospective"
+ :influence-cost 3
+ :side :corp
+ :text "Gain 7[credit] and an additional 1[credit] for each differently named agenda in your score area."
+ :title "Retrospective"
+ ;; :flavor "Those who cannot remember the past are condemned to repost it."
+ :flavor "\"An unshared life is not worth living.\" -Lily Lockwell"
+ :type :operation
+ :uniqueness false
+ :font-fudge-factor 0.95}

@@ -1,0 +1,12 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 1
+ :faction :jinteki
+ :id "the-future-perfect"
+ :side :corp
+ :subtype [:initiative :psi]
+ :text "When the Runner accesses The Future Perfect from a central server, you and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, prevent The Future Perfect from being stolen.\nLimit 1 per deck."
+ :font-fudge-factor 0.95
+ :title "The Future Perfect"
+ :type :agenda
+ :uniqueness true}

@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "zaibatsu-loyalty"
+ :influence-cost 1
+ :side :corp
+ :text "When a card would be exposed, you may rez Zaibatsu Loyalty.\n1[credit] or [trash]: Prevent 1 card from being exposed."
+ :title "Zaibatsu Loyalty"
+ :trash-cost 7
+ :type :asset
+ :uniqueness false}

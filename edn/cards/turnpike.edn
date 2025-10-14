@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "turnpike"
+ :influence-cost 2
+ :side :corp
+ :strength 3
+ :subtype [:sentry :tracer]
+ :text "When the Runner encounters Turnpike, they lose 1[credit].\n[subroutine] <trace>Trace 5</trace> If successful, give the Runner 1 tag."
+ :title "Turnpike"
+ :type :ice
+ :uniqueness false}

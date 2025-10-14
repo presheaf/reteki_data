@@ -1,0 +1,125 @@
+advancement-requirement:
+  backdrop:
+    color:
+    - 0
+    - 0
+    - 0
+    offset:
+    - 3
+    - 2
+    width: 8
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 190
+  loc:
+  - 1550
+  - 54
+agenda-points:
+  backdrop:
+    color:
+    - 0
+    - 0
+    - 0
+    offset:
+    - 3
+    - 2
+    width: 7
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 203
+  - 222
+  - 247
+  fontsize: 194
+  loc:
+  - 205
+  - 1200
+atoms:
+  influence-pip: atoms/influence_pip.png
+influence-1:
+  loc:
+  - 295
+  - 2271
+influence-2:
+  loc:
+  - 387
+  - 2271
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 71
+  loc:
+  - 530
+  - 1539
+template_image:
+  haas-bioroid: agenda/agenda_hb.png
+  jinteki: agenda/agenda_jinteki.png
+  nbn: agenda/agenda_nbn.png
+  neutral-corp: agenda/agenda_neutral_corp.png
+  weyland-consortium: agenda/agenda_weyland.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 76
+  height: 520
+  loc:
+  - 217
+  - 1685
+  width: 1308
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 185
+    - 185
+    - 185
+  fontsize: 47
+  loc:
+    haas-bioroid:
+      &cillusloc
+      - 735
+      - 2264
+    jinteki:
+      *cillusloc
+    nbn: *cillusloc
+    neutral-corp:
+      - 742
+      - 2264
+    weyland-consortium: *cillusloc
+set-sym-num:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 185
+    - 185
+    - 185
+  fontsize: 47
+  loc:
+    haas-bioroid:
+      &csetsymloc
+      - 1507
+      - 2264
+    jinteki:
+      *csetsymloc
+    nbn: *csetsymloc
+    neutral-corp:
+      - 1507
+      - 2264
+    weyland-consortium: *csetsymloc
+title:
+  font: fonts/titlefont.otf
+  fontsize: 76
+  loc:
+  - 135
+  - 130
+type:
+  font: fonts/typefont.ttf
+  fontsize: 78
+  loc:
+  - 191
+  - 1515

@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :mako
+ :id "bad-seed"
+ :influence-cost 2
+ :side :runner
+ :subtype [:sabotage]
+ :text "Gain 4[credit] and place a virus counter on a <br> Corp card."
+ :title "Bad Seed"
+ :flavor " \"I just wanted to warn you, sister. Make of it what you will.\" <br> <ral02> -Mako Shuusei"
+ :font-fudge-factor 0.91
+ :type :event
+ :uniqueness false}

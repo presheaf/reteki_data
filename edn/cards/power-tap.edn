@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "power-tap"
+ :influence-cost 1
+ :side :runner
+ :text "Gain 1[credit] whenever a trace is initiated."
+ :title "Power Tap"
+ :flavor "\"Public network kiosks, vending machines – there's all sorts of poorly-secured power sources in the city. Tap in to one of these and you've got plenty of juice when you need it. A little advance warning when the power grid starts misbehaving, too.\" <br> <ral00> -Gabriel Santiago"
+ :type :resource
+ :uniqueness true}

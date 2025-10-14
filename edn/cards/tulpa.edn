@@ -1,0 +1,15 @@
+{:cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "tulpa"
+ :influence-cost 1
+ :side :corp
+ :strength 2
+ :subtype [:code-gate]
+ :text "If the Runner has spent or lost [click] this run, this ice has +2 strength.\n[subroutine] End the run."
+ :title "Tulpa"
+ :flavor "It lurks at the edge of thought, yearning to be known."
+ :font-fudge-factor 0.92
+
+ :type :ice
+ :uniqueness false}

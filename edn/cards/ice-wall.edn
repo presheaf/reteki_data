@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "ice-wall"
+ :influence-cost 1
+ :side :corp
+ :strength 1
+ :subtype [:barrier]
+ :font-fudge-factor 1.01
+ :text "Ice Wall can be advanced and has +1 strength for each advancement token on it.\n[subroutine] End the run."
+ :flavor "\"I asked for ice as impenetrable as a wall. I can't  decide if  someone  down in R&D has a  warped sense of humor or just a very literal mind.\" <br> <ral01>-Liz Campbell, VP Project Security"
+ :title "Ice Wall"
+ :type :ice
+ :uniqueness false}

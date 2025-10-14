@@ -1,0 +1,15 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "lamis"
+ :influence-cost 3
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :killer :ritzy]
+ :text "1[credit]: Break up to 2 <strong>sentry</strong> subroutines.\n1[credit]: +1 strength.\nWhen a successful run in which you used Lamis to break a subroutine ends, lose 2[credit]."
+ :title "Lamis"
+ :type :program
+ :flavor "\"Nobody should be denied the relief a beautiful sonata brings to their mundane existence.\" -Dionysus Bagbiter"
+ :uniqueness false
+ :font-fudge-factor 0.96}

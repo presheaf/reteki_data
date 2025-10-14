@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :mako
+ :id "neutralizing-agent"
+ :influence-cost 3
+ :side :runner
+ :subtype []
+ :text "When you install Neutralizing Agent, name a card.\nWhen accessing the named card from a server other than Archives, you may trash it (even if it cannot normally be trashed). If you do, place a power counter on this resource.\n
+[click], <strong>3 hosted power counters:</strong> Add Neutralizing Agent to your score area as an agenda worth 1 point."
+ :title "Neutralizing Agent"
+ :type :resource
+ :font-fudge-factor 0.95
+ :illustrator "DALL-E"
+ :uniqueness false}

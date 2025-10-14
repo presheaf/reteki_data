@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "faust"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :ai]
+ :text "<strong>Trash a card from your grip:</strong> Break ice subroutine.\n<strong>Trash 3 cards from your grip:</strong> +2 strength."
+ :title "Faust"
+ :type :program
+ :uniqueness false}

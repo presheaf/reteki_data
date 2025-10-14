@@ -1,0 +1,89 @@
+atoms:
+  influence-pip: atoms/influence_pip_small.png
+cost:
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+  - 185
+  - 132
+  # - 208
+  # - 156
+influence-1:
+  loc:
+  - 1590
+  - 1999
+influence-2:
+  loc:
+  - 1590
+  - 1927
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 59
+  loc:
+  - 678
+  - 1735
+template_image:
+  haas-bioroid: operation/operation_hb_alt.png
+  jinteki: operation/operation_jinteki_alt.png
+  nbn: operation/operation_nbn_alt.png
+
+  neutral-corp: operation/operation_neutral_corp_alt.png
+  weyland-consortium: operation/operation_weyland_alt.png
+  # weyland-consortium: example_assets/transparent_bg.png
+
+text:
+  font: fonts/textfont.ttf
+  fontsize: 60
+  height: 590
+  loc:
+  - 340
+  - 1850
+  width: 1119
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 50
+  loc:
+    below-of: text
+
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 0
+    - 0
+    - 0
+  fontsize: 47
+  loc:
+    - 347
+    - 2327
+title:
+  center: true
+  font: fonts/titlefont.otf
+  fontsize: 68
+  loc:
+    - 1246
+    - 123
+
+  # - 425
+  # - 1670
+trash-cost:
+  center: true
+  font: fonts/impact.ttf
+  fontcolor:
+  - 141
+  - 133
+  - 112
+  fontsize: 112
+  loc:
+    - 1583
+    - 2223
+type:
+  font: fonts/typefont.ttf
+  fontsize: 59
+  loc:
+  - 342
+  - 1721

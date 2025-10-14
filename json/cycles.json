@@ -1,0 +1,79 @@
+[
+    {
+        "code": "draft",
+        "name": "Draft",
+        "position": 0,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "core",
+        "name": "Core Set",
+        "position": 1,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "genesis",
+        "name": "Genesis",
+        "position": 2,
+        "rotated": false,
+        "size": 6
+    },
+    {
+        "code": "creation-and-control",
+        "name": "Creation and Control",
+        "position": 3,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "spin",
+        "name": "Spin",
+        "position": 4,
+        "rotated": false,
+        "size": 6
+    },
+    {
+        "code": "honor-and-profit",
+        "name": "Honor and Profit",
+        "position": 5,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "lunar",
+        "name": "Lunar",
+        "position": 6,
+        "rotated": false,
+        "size": 6
+    },
+    {
+        "code": "order-and-chaos",
+        "name": "Order and Chaos",
+        "position": 7,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "sansan",
+        "name": "SanSan",
+        "position": 8,
+        "rotated": false,
+        "size": 6
+    },
+    {
+        "code": "data-and-destiny",
+        "name": "Data and Destiny",
+        "position": 9,
+        "rotated": false,
+        "size": 1
+    },
+    {
+        "code": "reboot-boosters",
+        "name": "Reboot Boosters",
+        "position": 10,
+        "rotated": false,
+        "size": 5
+    }
+]

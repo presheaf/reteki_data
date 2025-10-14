@@ -1,0 +1,10 @@
+{:cost 0
+ :deck-limit 3
+ :faction :apex
+ :id "repurpose"
+ :influence-cost 1
+ :side :runner
+ :text "As an additional cost to play Repurpose, trash 3 of your installed cards.\nDraw 7 cards."
+ :title "Repurpose"
+ :type :event
+ :uniqueness false}

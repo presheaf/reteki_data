@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "marilyn-campaign"
+ :influence-cost 1
+ :side :corp
+ :subtype [:advertisement]
+ :text "Place 8[credit] on Marilyn Campaign when it is rezzed. When there are no credits left on Marilyn Campaign, trash it.\nTake 2[credit] from Marilyn Campaign when your turn begins.\nWhen this asset would be trashed, you may shuffle it into R&D instead of adding it to Archives."
+ :title "Marilyn Campaign"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

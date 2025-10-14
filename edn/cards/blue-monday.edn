@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "blue-monday"
+ :influence-cost 1
+ :side :runner
+ :text "Lose all credits in your credit pool. Gain 3[credit].\nIf your credit pool is empty when your turn begins, add Blue Monday to your grip from your heap."
+ :title "Blue Monday"
+ :flavor "\"Poor Theophilius... I just wish I had the means to help him <br> somehow, you know?\" <br> <ral04> -Dionysus Bagbiter"
+ :illustrator "DALL-E"
+ :font-fudge-factor 0.86
+
+ :type :event
+ :uniqueness false}

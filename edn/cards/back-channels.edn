@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "back-channels"
+ :influence-cost 1
+ :side :corp
+ :subtype [:transaction]
+ :text "Choose a card installed in a server. Gain 4[credit] for each advancement token on that card, then trash it."
+ :title "Back Channels"
+ :type :operation
+ :uniqueness false}

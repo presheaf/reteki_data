@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :jinteki
+ :id "biotech-greenhouse"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "When you flip this identity, place 5 advancement tokens on a card that can be advanced."
+ :flavor "The Greenhouse was built to enhance natural beauty."
+ :title "The Greenhouse: Jinteki Biotech"
+ :illustrator "Emilio Rodriguez"
+ :type :identity
+ :uniqueness false}

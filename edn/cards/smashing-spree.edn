@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "smashing-spree"
+ :influence-cost 3
+ :side :runner
+ :subtype [:sabotage]
+ :text "Create 3 copies of Demolition Run and add them to your grip. (When a created card would be moved to your stack or heap, remove it from the game instead.)"
+ :title "Smashing Spree"
+ :type :event
+ :uniqueness false}

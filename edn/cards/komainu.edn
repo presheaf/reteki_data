@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 3
+ :faction :jinteki
+ :id "komainu"
+ :influence-cost 4
+ :side :corp
+ :strength 1
+ :subtype [:sentry :ap]
+ :text "When the Runner encounters Komainu, it gains \"[subroutine] Do 1 net damage.\" for each card in the Runner's grip for the remainder of this run."
+ :title "Komainu"
+ :type :ice
+ :uniqueness false}

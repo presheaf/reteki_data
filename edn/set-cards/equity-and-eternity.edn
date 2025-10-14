@@ -1,0 +1,213 @@
+[{:card-id "curator"
+  :code "53001"
+ :illustrator "DALL-E"
+  :position 1
+  :quantity 3
+  :flavor "Admire with your eyes, not with your hands."
+  :set-id "equity-and-eternity"}
+ {:card-id "fairchild-2-0"
+  :code "53002"
+  :illustrator "Liiga Smilshkalne"
+  :position 2
+  :quantity 3
+  :flavor "To threaten my treasures is to incur my wrath. "
+  :set-id "equity-and-eternity"}
+ {:card-id "carrington-flare"
+  :code "53003"
+ :illustrator "DALL-E"
+  :position 3
+  :quantity 3
+  :flavor "Most Jinteki employees knew not to pry into anything marked Shuusei Incident Response. The rest learned."
+  :set-id "equity-and-eternity"}
+ {:card-id "tenuki"
+  :code "53004"
+ :illustrator "DALL-E"
+  :flavor "\"When you see a good move, look for a better one.\" -Emmanuel Lasker"
+  :position 4
+  :quantity 3
+  :set-id "equity-and-eternity"}
+ {:card-id "engagement-metrics"
+  :code "53005"
+ :illustrator "DALL-E"
+  :position 5
+  :quantity 3
+  :flavor "Making people pay attention isn't nearly as useful as knowing who pays attention to what."
+  :set-id "equity-and-eternity"}
+ {:card-id "iris-capital-trading-tomorrow"
+  :code "53006"
+ :illustrator "DALL-E"
+  :position 6
+  :quantity 3
+  :flavor "Your Path To Solvency."
+  :set-id "equity-and-eternity"}
+ {:card-id "patent-acquisition"
+  :code "53007"
+ :illustrator "DALL-E"
+  :position 7
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "Patent. Noun. A device for turning innovation into litigation. -The Anarch's Dictionary, Volume Who's Counting?"}
+ {:card-id "project-camb"
+  :code "53008"
+ :illustrator "DALL-E"
+  :position 8
+  :quantity 3
+  :flavor "The pundits consider the search a ridiculous waste of money. The board considers it a cheap way to pacify Jack."
+  :set-id "equity-and-eternity"} 
+ {:card-id "double-down"
+  :code "53009"
+ :illustrator "DALL-E"
+  :position 9
+  :quantity 3
+  :flavor "Iris employees all eventually learn the value of accountability."
+  :set-id "equity-and-eternity"}
+ {:card-id "natural-monopoly"
+  :code "53010"
+ :illustrator "DALL-E"
+  :position 10
+  :quantity 3
+  :flavor "The Weyland Consortium takes conflicts of interest very seriously, generally resulting in their victory."
+  :set-id "equity-and-eternity"}
+ {:card-id "rate-hike"
+  :code "53011"
+ :illustrator "DALL-E"
+  :position 11
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "\"Unfortunately, Ms. Kaplan, we cannot offer student loan forbearance with the economy as it is. We can, however, discuss... unconventional repayment plans.\""}
+ {:card-id "dark-pool"
+  :code "53012"
+ :illustrator "DALL-E"
+  :position 12
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor " \"There's nothing 'nefarious' about helping your clients make money away from the public eye.\" -Michael Muhama, professonal expert"}
+ {:card-id "rasmin-bridger"
+  :code "53013"
+  :illustrator "Brice Parker"
+  :position 13
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "\"Don't lecture me about old dogs. Old tricks suffice.\""}
+ {:card-id "project-oskoreia"
+  :code "53014"
+ :illustrator "DALL-E"
+  :position 14
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "\"Few admit to believing in the 'wild hunt of the Net'. Many bring an offering just in case, though.\" -The Professor"}
+ {:card-id "oddly-specific-horoscope"
+  :code "53015"
+ :illustrator "DALL-E"
+  :position 15
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "\"Genetic markers, media historiography, sentimetrics: the R&D budget for user profiling is massive. Did you really think it was all for adtech?\" -Keegan Lane"}
+ {:card-id "smashing-spree"
+  :code "53016"
+ :illustrator "DALL-E"
+  :position 16
+  :quantity 3
+  :set-id "equity-and-eternity"}
+ {:card-id "p3tri"
+  :code "53017"
+ :illustrator "DALL-E"
+  :position 17
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "\"Ever cleaned your desk to help you think? Me neither.\" -Princess Space Kitten"}
+ {:card-id "company-mixer"
+  :code "53018"
+ :illustrator "DALL-E"
+  :position 18
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "\"Wow, logistics sounds fascinating. Please, tell me more.\" -Dionysus Bagbiter"}
+ {:card-id "exploit"
+  :code "53019"
+  :illustrator "Nasrul Hakim"
+  :position 19
+  :quantity 3
+  :flavor "1) Find the weakness.\n2) Exploit the weakness.\n3) Repeat."
+  :set-id "equity-and-eternity"}
+ {:card-id "sonia-nahar-steadfast-salvager"
+  :code "53020"
+ :illustrator "DALL-E"
+  :position 20
+  :quantity 3
+  :set-id "equity-and-eternity"}
+ {:card-id "chronicle"
+  :code "53021"
+ :illustrator "DALL-E"
+  :position 21
+  :quantity 3
+  :flavor "\"The ravages of time are merciless, but I was never one for groveling anyway.\" -Sonia Nahar "
+  :set-id "equity-and-eternity"}
+ {:card-id "refragmenter"
+  :code "53022"
+ :illustrator "DALL-E"
+  :position 22
+  :quantity 3
+  :set-id "equity-and-eternity"}
+ {:card-id "cartographer"
+  :code "53023"
+ :illustrator "DALL-E"
+  :position 23
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "The Network is a product of algorithms incomprehensible even to their developers, and arguably mostly unexplored." }
+ {:card-id "hype"
+  :code "53024"
+ :illustrator "DALL-E"
+  :flavor "The greatest risk is not taking any."
+  :position 24
+  :quantity 3
+  :set-id "equity-and-eternity"}
+ {:card-id "trailblazer"
+  :code "53025"
+ :illustrator "DALL-E"
+  :position 25
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "\"You can't find yourself where everyone else already is.\" -Sonia Nahar"}
+ {:card-id "karim-hamdan"
+  :code "53026"
+ :illustrator "DALL-E"
+  :position 26
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "\"Consumerists call Karim a junk dealer, but to the resourceful, his store is a treasure trove of possibility.\" -Sonia Nahar"}
+ {:card-id "fuzzing"
+  :code "53027"
+  :illustrator "DALL-E"
+  :position 27
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "\"The most exciting phrase to hear is not 'Eureka!', but 'That's funny...'.\" -Isaac Asimov"}
+ {:card-id "furnace"
+  :code "53028"
+ :illustrator "DALL-E"
+  :position 28
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "\"Of course nobody's breached the client mindmap buffers. Who would cross three airgaps just to reach unstructured thought?\" -Māra Elbaz, former Memvaults technician"}
+ {:card-id "gyrodrive-soles"                ; TODO: disable the effect if the card is trashed
+  :code "53029"
+ :illustrator "DALL-E"
+  :position 29
+  :quantity 3
+  :set-id "equity-and-eternity"}
+ {:card-id "multitasking"
+  :code "53030"
+ :illustrator "DALL-E"
+  :position 30
+  :quantity 3
+  :set-id "equity-and-eternity"
+  :flavor "\"The sooner we finish here, the sooner we can all go home.\" -Sunny Lebeau"}
+ {:card-id "consolidation"              ; not actually in the set - can this just be the flip side of iris? maybe?
+  :code "53031"
+ :illustrator "DALL-E"
+  :position 31
+  :quantity 3
+  :set-id "equity-and-eternity"}]
+

@@ -1,0 +1,10 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "window"
+ :influence-cost 1
+ :side :runner
+ :text "[click]: Draw 1 card from the bottom of your stack."
+ :title "Window"
+ :type :hardware
+ :uniqueness false}

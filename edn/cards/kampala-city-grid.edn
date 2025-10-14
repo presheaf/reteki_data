@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "kampala-city-grid"
+ :influence-cost 3
+ :side :corp
+ :text "As an additional cost to initiate a run on this server, the Runner must pay 4[credit]. If they do, trash this upgrade.\nWhen your turn begins, if the Runner is tagged, you may add Kampala City Grid to HQ from Archives.\nLimit 1 <strong>region</strong> per server."
+ :title "Kampala City Grid"
+ :type :upgrade
+ :subtype [:region]
+ :trash-cost 1
+ :font-fudge-factor 0.97
+ :illustrator "DALL-E"
+ :uniqueness false}

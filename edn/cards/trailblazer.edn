@@ -1,0 +1,15 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "trailblazer"
+ :influence-cost 3
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :killer]
+ :text "1[credit]: Break <strong>sentry</strong> subroutine.\n1[credit]: +1 strength.\nThis program can only be used during 1 run on each central server and only during 1 run on a remote server."
+ :title "Trailblazer"
+ :flavor "\"You can't find yourself where everyone else already is.\" <br> <ral00> -Sonia Nahar"
+ :type :program
+ :font-fudge-factor 0.9
+ :uniqueness false}

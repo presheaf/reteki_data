@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "futureproofing"
+ :influence-cost 2
+ :side :runner
+ :subtype [:run]
+ :text "<strong>Front face (Futureproofing - Event):</strong> Make a run on HQ or R&D. When that run ends, if it was successful, flip Futureproofing and install it (ignoring all costs) with 7[credit] placed on it.\n<strong>Back face (Epiph4ny - Program, 1MU):</strong> Use hosted credits to install and use <strong>icebreakers</strong> (you cannot use Epiph4ny to install a program that trashes Epiph4ny)." 
+ :title "Futureproofing"
+ :type :event
+ :uniqueness false}

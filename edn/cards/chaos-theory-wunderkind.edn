@@ -1,0 +1,12 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :shaper
+ :id "chaos-theory-wunderkind"
+ :influence-limit 15
+ :minimum-deck-size 40
+ :side :runner
+ :subtype [:g-mod]
+ :text "+2[mu]"
+ :title "Chaos Theory: Wünderkind"
+ :type :identity
+ :uniqueness false}

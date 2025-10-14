@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "futureproofing"
+ :influence-cost 2
+ :side :runner
+ :subtype [:run]
+ :text "Make a run on HQ or R&D. When that run ends, if it was successful, flip Futureproofing and install it (ignoring all costs) with 7[credit] placed on it."
+ :title "Futureproofing"
+ :type :event
+ :flavor "With intranet security this dismal, who could resist a quick scrape of the developers' workstations?"
+ :backside-title "Epiph4ny"
+ :uniqueness false}

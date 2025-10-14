@@ -1,0 +1,17 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "project-genesis"
+ :influence-cost 3
+ :side :corp
+ :text "When the Runner initiates a run on this server, do 2 net damage."
+
+ :flavor "\"Defensive behavior appeared to ramp sharply when exposed to live traffic. We have yet to understand how it delineates between friend and foe.\" <br> <ral00> -M.N, Ex-analyst"
+ ;; :font-fudge-factor 0.83
+  :illustrator "Abram Jopp via DALL-E"
+
+ :title "Phlegethon"
+ :trash-cost 5
+ :type :upgrade
+ :is-flip-side true
+ :uniqueness false}

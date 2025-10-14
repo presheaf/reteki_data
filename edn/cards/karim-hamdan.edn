@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "karim-hamdan"
+ :influence-cost 2
+ :side :runner
+ :subtype [:connection]
+ :text "When your turn begins, you may trash a program or hardware from your grip. If you do, draw a card and gain 1[credit]."
+ :flavor "\"Consumerists call Karim a junk dealer, but to the resourceful, his store is a treasure trove of possibility.\" <br> <ral01> -Sonia Nahar"
+ :title "Karim Hamdan"
+ :type :resource
+ :uniqueness true
+ :font-fudge-factor 0.99}

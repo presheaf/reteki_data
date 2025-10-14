@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "social-engineering"
+ :influence-cost 2
+ :side :runner
+ :subtype [:priority]
+ :text "Play only as your first [click].\nChoose an unrezzed piece of ice. If the Corp rezzes that piece of ice this turn, gain credits equal to its rez cost."
+ :title "Social Engineering"
+ :type :event
+ :uniqueness false}

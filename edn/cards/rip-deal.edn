@@ -1,0 +1,11 @@
+{:cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "rip-deal"
+ :influence-cost 1
+ :side :runner
+ :subtype [:run]
+ :text "Run HQ. If successful, each time you would access a card from HQ this run, add a card from your heap to your grip instead of accessing that card. You cannot access cards in the root of HQ this run. Remove this event from the game instead of trashing it.\n<errata>Errata from CR 1.4</errata>"
+ :title "Rip Deal"
+ :type :event
+ :uniqueness false}

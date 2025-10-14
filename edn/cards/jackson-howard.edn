@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "jackson-howard"
+ :influence-cost 1
+ :side :corp
+ :subtype [:executive]
+ :text "[click]: Draw 2 cards.\n<strong>Remove Jackson Howard from the game:</strong> Shuffle up to 3 cards from Archives into R&D."
+ :title "Jackson Howard"
+ :font-fudge-factor 0.98
+ :trash-cost 2
+ :type :asset
+ :uniqueness true}

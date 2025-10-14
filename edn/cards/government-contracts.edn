@@ -1,0 +1,10 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "government-contracts"
+ :side :corp
+ :text "[click], [click]: Gain 5[credit]."
+ :title "Government Contracts"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :mako
+ :id "raga"
+ :influence-cost 4
+ :memory-cost 1
+ :side :runner
+ :strength 0
+ :subtype [:icebreaker :killer :klesha]
+ :text "0[credit]: Break <strong>sentry</strong> subroutine on a piece of ice with a hosted virus counter.\n4[credit]: Place 1 virus counter on a <strong>sentry</strong> currently being encountered.\n1[credit]: +2 strength."
+ :title "Raga"
+ :flavor "Wherever she went, the quiet remembered."
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "predictive-algorithm"
+ :influence-cost 1
+ :side :corp
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nAs an additional cost to steal an agenda, the Runner must pay 3[credit]."
+ :title "Predictive Algorithm"
+ :type :operation
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 3
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "almenara"
+ :influence-cost 3
+ :side :corp
+ :strength 2
+ :subtype [:barrier]
+ :text "When you rez Almenara, place 1 power counter on it.\nWhen the Runner passes Almenara, you may remove 1 hosted power counter on it and pay 1[credit] to give the Runner 1 tag.\n[subroutine] End the run."
+ :title "Almenara"
+ :flavor "\"Now all of the Consortium knows you're here.\" <br> <ral00> -Simone Diego"
+ :type :ice
+ :uniqueness true}

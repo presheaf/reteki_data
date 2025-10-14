@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "rate-hike"
+ :influence-cost 3
+ :side :corp
+ :text "The Runner chooses a number. You may pay that many credits. If you do, search R&D for a card, add it to HQ, and shuffle R&D. If you do not, the Runner loses that many credits."
+ :title "Rate Hike"
+ :flavor "\"Unfortunately, Ms. Kaplan, we cannot offer student loan forbearance with the economy as it is. We can, however, discuss... unconventional repayment plans.\""
+ :font-fudge-factor 0.92
+ :type :operation
+ 
+ :uniqueness false}

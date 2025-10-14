@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "company-mixer"
+ :influence-cost 3
+ :side :runner
+ :text "Draw a card. Place any number of cards from your grip on the bottom of your stack, then draw that many cards.\nWhen the Corp scores an agenda, add Company Mixer to your grip from your heap."
+ :title "Company Mixer"
+ :font-fudge-factor 0.97
+ :flavor "\"Wow, logistics sounds fascinating. Please, tell me more.\" <br> <ral00> -Dionysus Bagbiter"
+ :type :event
+ :uniqueness false}

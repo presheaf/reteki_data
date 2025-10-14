@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :deck-limit 3
+ :agenda-points 2
+ :faction :haas-bioroid
+ :id "chronal-retrofitting"
+ :side :corp
+ :text "When you score Chronal Retrofitting, gain 1[credit] for each rezzed <strong>bioroid</strong>.\nWhen your turn begins, gain [click] if the Runner spent or lost [click] during a run last turn."
+ :title "Chronal Retrofitting"
+ :type :agenda
+ :flavor "\"No, I never found the time. I wonder where it went\u2026\" <br> <ral00> -Kate \"Mac\" McCaffrey"
+ :uniqueness false
+ :font-fudge-factor 0.94}

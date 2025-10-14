@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "khondi-plaza"
+ :influence-cost 0
+ :side :corp
+ :subtype [:ritzy]
+ :text "X[recurring-credit]\nUse these credits to rez ice protecting this server. X is the number of remote servers."
+ :title "Khondi Plaza"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness true}

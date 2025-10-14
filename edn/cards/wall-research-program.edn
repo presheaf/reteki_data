@@ -1,0 +1,11 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "wall-research-program"
+ :side :corp
+ :text "<strong>Front face (Wall Research Program - 3/1 Agenda)</strong>: When you score this, flip it, install it, and rez it (ignoring all costs).
+\n<strong>Back face (Surprice - STR 4 - Barrier)</strong>: [Click] Flip this and add it to your score area.\n[subroutine] End the run.\n[subroutine] End the run."
+ :title "Wall Research Program"
+ :type :agenda
+ :uniqueness false}

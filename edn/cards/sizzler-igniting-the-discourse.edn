@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :nbn
+ :id "sizzler-igniting-the-discourse"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "Whenever you score an agenda, if it does not share a name with any other agenda in your score area, gain 1[credit] and remove 1 bad publicity."
+ :title "Sizzler: Igniting the Discourse"
+ :flavor "You won't BELIEVE number 38!"
+ :type :identity
+ :uniqueness false
+ :font-fudge-factor 0.90}

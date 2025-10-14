@@ -1,0 +1,121 @@
+atoms:
+  influence-pip: atoms/influence_pip.png
+cost:
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+  - 206
+  - 145
+influence-1:
+  loc:
+  - 293
+  - 2273
+influence-2:
+  loc:
+  - 385
+  - 2273
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 70
+  loc:
+  - 604
+  - 1400
+template_image:
+  haas-bioroid: upgrade/upgrade_hb.png
+  jinteki: upgrade/upgrade_jinteki.png
+  nbn: upgrade/upgrade_nbn.png
+  neutral-corp: upgrade/upgrade_neutral_corp.png
+  weyland-consortium: upgrade/upgrade_weyland.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 76
+  height: 620
+  loc:
+  - 249
+  - 1543
+  width: 1227
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 185
+    - 185
+    - 185
+  fontsize: 47
+  loc:
+    haas-bioroid:
+      &cillusloc
+      - 752
+      - 2257
+    jinteki:
+      - 752
+      - 2265
+    nbn: *cillusloc
+    neutral-corp:
+      - 752
+      - 2252
+    weyland-consortium: *cillusloc
+set-sym-num:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 185
+    - 185
+    - 185
+  fontsize: 47
+  loc:
+    haas-bioroid:
+      &csetsymloc
+      - 1512
+      - 2257
+    jinteki:
+      - 1512
+      - 2265
+    nbn: *csetsymloc
+    neutral-corp:
+      - 1502
+      - 2252
+    weyland-consortium: *csetsymloc
+title:
+  font: fonts/titlefont.otf
+  fontsize: 70
+  loc:
+  - 157
+  - 1238
+trash-cost:
+  center: true
+  font: fonts/impact.ttf
+  fontcolor:
+  - 152
+  - 130
+  - 119
+  fontsize: 117
+  loc:
+    weyland-consortium: &ctrashloc
+      - 1566
+      - 2012
+    haas-bioroid:
+      *ctrashloc
+    jinteki: *ctrashloc
+    nbn: *ctrashloc
+    neutral-corp:
+      - 1559
+      - 2005
+
+
+
+type:
+  font: fonts/typefont.ttf
+  fontsize: 76
+  loc:
+  - 227
+  - 1378

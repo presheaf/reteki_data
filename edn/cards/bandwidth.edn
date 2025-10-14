@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "bandwidth"
+ :influence-cost 1
+ :side :corp
+ :strength 5
+ :subtype [:code-gate]
+ :text "[subroutine] Give the Runner 1 tag. If this run is successful, the Runner removes 1 tag."
+ :title "Bandwidth"
+ :font-fudge-factor 0.95
+ :flavor "\"It tracks you and logs you. If you get in you can just delete the log. But first you have to get in.\" <br> <ral00> -Gabriel Santiago"
+ :type :ice
+ :uniqueness false}

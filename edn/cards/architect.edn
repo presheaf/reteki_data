@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "architect"
+ :influence-cost 2
+ :side :corp
+ :strength 3
+ :subtype [:sentry]
+ :text "Players cannot trash this ice.\n[subroutine] The Corp looks at the top 5 cards of R&D and may install 1 of those cards, ignoring all install costs.\n[subroutine] The Corp may install a card from Archives or HQ (paying all costs).\n<errata>Errata from CR 1.4</errata>"
+ :title "Architect"
+ :flavor "<champion>Designed by 2012 World Champion</champion> <br> <champion>Jeremy Zwirn</champion>"
+
+ :type :ice
+ :uniqueness false}

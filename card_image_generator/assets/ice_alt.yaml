@@ -1,0 +1,102 @@
+atoms:
+  influence-pip: atoms/influence_pip_small_ccw_rotate.png
+cost:
+  center: true
+  font: fonts/numeralfont_v2.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 114
+  loc:
+  - 190
+  - 215
+  rotation: 90
+influence-1:
+  loc:
+  - 1654
+  - 2108
+influence-2:
+  loc:
+  - 1654
+  - 2038
+strength:
+  center: true
+  font: fonts/numeralfont.otf
+  fontsize: 114
+  loc:
+  - 1624
+  - 105
+  rotation: 90
+
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 58
+  loc:
+  - 595
+  - 785
+  rotation: 90
+  align_by_bottom_left_corner: true
+type:
+  font: fonts/typefont.ttf
+  fontsize: 62
+  loc:
+    - -18
+    - 10
+  rotation: 90
+template_image:
+  haas-bioroid: ice/ice_hb_alt.png
+  jinteki: ice/ice_jinteki_alt.png
+  nbn: ice/ice_nbn_alt.png
+  neutral-corp: ice/ice_neutral_corp_alt.png
+  weyland-consortium: ice/ice_weyland_alt.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 61
+  width: 738
+  height: 883
+  loc:
+  - 691
+  - 907
+  rotation: 90
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 50
+  loc:
+    below-of: text
+
+illustrator:
+  # TODO: These should be aligned from the bottom of the card, not the top
+  font: fonts/illustratorfont.ttf
+  align_by_bottom_left_corner: true
+  fontcolor:
+    - 55
+    - 55
+    - 55
+  rotation: 90
+  fontsize: 43
+  loc:
+    - 1646
+    - 876
+title:
+  font: fonts/titlefont.otf
+  fontsize: 62
+  loc:
+  - 205
+  - 610
+  rotation: 90
+  center: true
+# trash-cost:
+#   font: fonts/impact.ttf
+#   fontcolor:
+#   - 152
+#   - 130
+#   - 119
+#   fontsize: 103
+#   loc:
+#   - 1400
+#   - 1065
+# trashcan:                       # TODO: fix this
+#   loc:
+#   - 1324
+#   - 1043

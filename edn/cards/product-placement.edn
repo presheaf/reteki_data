@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "product-placement"
+ :influence-cost 1
+ :side :corp
+ :subtype [:advertisement]
+ :text "If Product Placement is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses Product Placement from HQ, R&D or while installed, the Corp gains 2[credit]."
+ :title "Product Placement"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness false}

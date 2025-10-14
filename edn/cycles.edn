@@ -1,0 +1,55 @@
+[{:id "draft"
+  :name "Draft"
+  :position 0
+  :rotated false
+  :size 1}
+ {:id "core"
+  :name "Core"
+  :position 1
+  :rotated false
+  :size 1}
+ {:id "genesis"
+  :name "Genesis"
+  :position 2
+  :rotated false
+  :size 6}
+ {:id "creation-and-control"
+  :name "Creation and Control"
+  :position 3
+  :rotated false
+  :size 1}
+ {:id "spin"
+  :name "Spin"
+  :position 4
+  :rotated false
+  :size 6}
+ {:id "honor-and-profit"
+  :name "Honor and Profit"
+  :position 5
+  :rotated false
+  :size 1}
+ {:id "lunar"
+  :name "Lunar"
+  :position 6
+  :rotated false
+  :size 6}
+ {:id "order-and-chaos"
+  :name "Order and Chaos"
+  :position 7
+  :rotated false
+  :size 1}
+ {:id "sansan"
+  :name "SanSan"
+  :position 8
+  :rotated false
+  :size 6}
+ {:id "data-and-destiny"
+  :name "Data and Destiny"
+  :position 9
+  :rotated false
+  :size 1}
+ {:id "reboot-boosters"
+  :name "Reboot Boosters"
+  :position 10
+  :rotated false
+  :size 5}]

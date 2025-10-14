@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :nbn
+ :id "casting-call"
+ :influence-cost 2
+ :side :corp
+ :subtype [:condition]
+ :text "Install an agenda from HQ faceup and install Casting Call on that agenda as a hosted condition counter with text \"Whenever the Runner accesses this agenda, they take 2 tags.\""
+ :title "Casting Call"
+ :type :operation
+ :uniqueness false}

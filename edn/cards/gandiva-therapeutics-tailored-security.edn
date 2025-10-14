@@ -1,0 +1,12 @@
+{:deck-limit 1
+ :faction :jinteki
+ :id "gandiva-therapeutics-tailored-security"
+ :influence-limit 17
+ :minimum-deck-size 50
+ :side :corp
+ :subtype [:division]
+ :text "The advancement requirement of non-<strong>initiative</strong> 2-point agendas is reduced by 1.\nYou cannot score 2-point agendas the turn they are installed.\nAll 2-point agendas gain “Limit 2 per deck”."
+ :title "Gandiva Therapeutics: Tailored Security"
+ :type :identity
+ :font-fudge-factor 0.88
+ :uniqueness false}

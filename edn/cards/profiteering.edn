@@ -1,0 +1,11 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "profiteering"
+ :influence-cost 0
+ :side :corp
+ :text "When you score Profiteering, take up to 3 bad publicity. Gain 5[credit] for each bad publicity taken."
+ :title "Profiteering"
+ :type :agenda
+ :uniqueness false}

@@ -1,0 +1,128 @@
+atoms:
+  influence-pip: atoms/influence_pip.png
+cost:
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+  - 205
+  - 146
+influence-1:
+  loc:
+  - 297
+  - 2271
+influence-2:
+  loc:
+  - 389
+  - 2271
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 70
+  loc:
+  - 470
+  - 1396
+template_image:
+  haas-bioroid: asset/asset_hb.png
+  jinteki: asset/asset_jinteki.png
+  nbn: asset/asset_nbn.png
+  neutral-corp: asset/asset_neutral_corp.png
+  weyland-consortium: asset/asset_weyland.png
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 52
+  loc: [-1, -1]                 # ignored
+text:
+  font: fonts/textfont.ttf
+  fontsize: 76
+  height: 592
+  loc:
+  - 213
+  - 1548
+  width: 1266
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 175
+    - 175
+    - 175
+  fontsize: 47
+  loc:
+    haas-bioroid:
+      &cillusloc
+      - 752
+      - 2257
+    jinteki: *cillusloc
+    nbn: *cillusloc
+    neutral-corp: *cillusloc
+    weyland-consortium: *cillusloc
+set-sym-num:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 175
+    - 175
+    - 175
+  fontsize: 47
+  loc:
+    haas-bioroid:
+      &csetsymloc
+      - 1502
+      - 2257
+    jinteki: *csetsymloc
+    nbn: *csetsymloc
+    neutral-corp: *csetsymloc
+    weyland-consortium: *csetsymloc
+title:
+  font: fonts/titlefont.otf
+  fontsize: 72
+  loc:
+  - 158
+  - 1234
+trash-cost:
+  center: true
+  font: fonts/impact.ttf
+  fontcolor:
+  - 152
+  - 130
+  - 119
+  fontsize: 117
+  loc:
+    haas-bioroid:
+      &ctrashloc
+      - 1541
+      - 2000
+    jinteki: *ctrashloc
+    nbn:
+      - 1537
+      - 2003
+    neutral-corp:
+      - 1536
+      - 2000
+    weyland-consortium:
+      - 1536
+      - 2003
+type:
+  font: fonts/typefont.ttf
+  fontsize: 76
+  loc:
+  - 200
+  - 1373
+backside-title:
+  center: true
+  font: fonts/titlefont.otf
+  fontsize: 49
+  fontcolor:
+    - 255
+    - 255
+    - 255
+  loc:
+  - 1159
+  - 1100

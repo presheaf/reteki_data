@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :nbn
+ :id "due-diligence"
+ :influence-cost 3
+ :side :corp
+ :text "Play only if the Runner is tagged.\nSearch R&D for a <strong>gray ops</strong> operation and play it, paying all costs. Shuffle R&D."
+ :title "Due Diligence"
+ :flavor "Measure twice, cut once."
+ :type :operation
+ :uniqueness false}

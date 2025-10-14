@@ -1,0 +1,12 @@
+{:cost 7
+ :deck-limit 3
+ :faction :nbn
+ :id "flare"
+ :influence-cost 3
+ :side :corp
+ :strength 6
+ :subtype [:sentry :tracer :ap]
+ :text "[subroutine] <trace>Trace 6</trace> If successful, trash 1 piece of hardware, do 2 meat damage (cannot be prevented), and end the run."
+ :title "Flare"
+ :type :ice
+ :uniqueness false}

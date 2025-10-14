@@ -1,0 +1,139 @@
+atoms:
+  influence-pip: atoms/influence_pip.png
+cost:
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+    # - 192
+    # - 142
+    - 208
+    - 165
+influence-1:
+  loc:
+  - 1633
+  - 2126
+influence-2:
+  loc:
+  - 1633
+  - 2033
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 72
+  loc:
+  - 546
+  - 1190
+template_image:
+  adam: resource/resource_adam.png
+  anarch: resource/resource_anarch.png
+  apex: resource/resource_apex.png
+  criminal: resource/resource_criminal.png
+  neutral-runner: resource/resource_neutral_runner.png
+  shaper: resource/resource_shaper.png
+  sunny-lebeau: resource/resource_sunny.png
+  mako: resource/resource_mako3.png
+
+text:
+  font: fonts/textfont.ttf
+  fontsize: 76
+  height: 778
+  loc:
+  - 140
+  - 1334
+  width: 1249
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 195
+    - 195
+    - 195
+
+  fontsize: 47
+  loc:
+    anarch: &illusloc
+      - 35
+      - 2260
+    criminal:
+      - 35
+      - 2270
+    shaper: *illusloc
+    neutral-runner: *illusloc
+    apex: *illusloc
+    adam: *illusloc
+    sunny-lebeau: *illusloc
+    mako: *illusloc
+
+set-sym-num:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 195
+    - 195
+    - 195
+
+  fontsize: 47
+  loc:
+    anarch: &setsymloc
+      - 1273
+      - 2260
+    criminal:
+      - 1273
+      - 2270
+    shaper: *setsymloc
+    neutral-runner: *setsymloc
+    apex: *setsymloc
+    adam: *setsymloc
+    sunny-lebeau: *setsymloc
+    mako: *setsymloc
+
+title:
+  font: fonts/titlefont.otf
+  fontsize: 70
+  loc:
+    # - 394
+    # - 66
+    - 410
+    - 89
+type:
+  font: fonts/typefont.ttf
+  fontsize: 77
+  loc:
+  - 116
+  - 1169
+
+late_lunar_changes:
+  cost:
+    center: true
+    font: fonts/numeralfont.otf
+    fontcolor:
+    - 255
+    - 255
+    - 255
+    fontsize: 124
+    loc:
+      - 192
+      - 142
+  template_image:
+    adam: resource/resource_adam_sansan.png
+    anarch: resource/resource_anarch_sansan.png
+    apex: resource/resource_apex_sansan.png
+    criminal: resource/resource_criminal_sansan.png
+    neutral-runner: resource/resource_neutral_runner_sansan.png
+    shaper: resource/resource_shaper_sansan.png
+    sunny-lebeau: resource/resource_sunny_sansan.png
+    mako: resource/resource_mako3.png
+  title:
+    font: fonts/titlefont.otf
+    fontsize: 70
+    loc:
+      - 394
+      - 66

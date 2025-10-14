@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "security-subcontract"
+ :influence-cost 1
+ :side :corp
+ :subtype [:transaction]
+ :text "[click], <strong>trash a rezzed piece of ice:</strong> Gain 6[credit]."
+ :title "Security Subcontract"
+ :flavor "\"Feed the Feds our scraps, and they'll come back begging for more.\" <br> <ral01> -Richard Polasco, VP of Cyber-Security"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

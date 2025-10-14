@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "anglerfish"
+ :influence-cost 1
+ :side :corp
+ :strength 4
+ :subtype [:sentry :ap]
+ :text "Anglerfish can be advanced.\nWhen the Runner encounters Anglerfish, if it is advanced, remove all hosted advancement tokens and do 1 net damage.\n[subroutine] Do 1 net damage. Place 1 advancement token on Anglerfish."
+ :title "Anglerfish"
+ :illustrator "DALL-E"
+ :font-fudge-factor 0.98
+ :type :ice
+ :uniqueness false}

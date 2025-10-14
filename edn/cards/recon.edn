@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "recon"
+ :influence-cost 2
+ :side :runner
+ :subtype [:run]
+ :text "Make a run. You may jack out when you encounter the first piece of ice."
+ :title "Recon"
+ :type :event
+ :uniqueness false}

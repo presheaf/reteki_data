@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "sharpshooter"
+ :influence-cost 1
+ :memory-cost 1
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker]
+ :text "[trash]: Break any number of <strong>destroyer</strong> subroutines.\n1[credit]: +2 strength."
+ ;; :flavor "\"One-shot icebreakers are popular among many of my prot\xE9g\xE9s. They don't have the patience for the hunt.\" <br> <ral00> -The Professor"
+ :title "Sharpshooter"
+ :type :program
+ :uniqueness false}

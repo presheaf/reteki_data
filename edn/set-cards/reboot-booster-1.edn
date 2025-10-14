@@ -1,0 +1,197 @@
+[{:card-id "molotov"
+  :code "50001"
+  :flavor "In the splendid glow of the fire, there was anarchy - vibrant, alive, raging; and ever spreading."
+ :illustrator "DALL-E"
+  :position 1
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "human-rights-riot"
+  :code "50002"
+  :flavor "When hopes and dreams are loose in the streets, the timid had better lie low."
+  :position 2
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "bhagat"
+  :code "50003"
+  :flavor "\"They don''t want to listen, so we''ll just have to crank up the volume.\""
+  :illustrator "Kate Laird"
+  :position 3
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "on-the-trail"
+  :code "50004"
+  :flavor "Buying secrets is expensive. Commissioning them is exorbitant."
+ :illustrator "DALL-E"
+  :position 4
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "sniper"
+  :code "50005"
+  :flavor "Fortune favors the prepared mind."
+ :illustrator "DALL-E"
+  :position 5
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "crowdfunding"
+  :code "50006"
+  :flavor "<champion>Designed by 2017 GenCon Champion Sam Suied</champion>"
+  :illustrator "Mariusz Siergiejew"
+  :position 6
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "high-stakes-job"
+  :code "50007"
+  :illustrator "Adam S. Doyle"
+  :position 7
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "connect-the-dots"
+  :code "50008"
+  :position 8
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "subsidized-processor"
+  :code "50009"
+  :position 9
+  :quantity 3
+ :illustrator "DALL-E"
+  :flavor "\"Most people don't know that budget PADs can only do high-fidelity VR by offloading rendering work to FriendNet's server farm. \" -Chaos Theory"
+  :set-id "reboot-booster-1"}
+ {:card-id "akiko-nisei-head-case"
+  :code "50010"
+  :illustrator "M. Zeillinger, A. Christensen"
+  :position 10
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "nyashia"
+  :code "50011"
+  :flavor "Speed gets you in, intuition gets you out."
+  :illustrator "Liiga Smilshkalne"
+  :position 11
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "psych-mike"
+  :code "50012"
+  :flavor "\"Breathe, girl. Breathe.\" Mike flickered into focus as she brushed Akiko''s tears away. \"What did you see?\" \"I...\" Akiko hesitated. \"Everything.\""
+  :illustrator "Zefanya Langkan Maega"
+  :position 12
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "build-script"
+  :flavor "Sometimes efficiency is as easy as offloading routine work to a dedicated handler."
+  :code "50013"
+  :illustrator "Ed Mattinian"
+  :position 13
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "sports-hopper"
+  :code "50014"
+  :flavor "\"Check out my new ride.\" -2xTiger"
+  :illustrator "BalanceSheet"
+  :position 14
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "next-level-clearance"
+  :code "50015"
+  :flavor "\"Businesses the world over rely on the NEXT suite to guard their secrets. This includes our competitors.\""
+ :illustrator "DALL-E"
+  :position 15
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "waldemar-1-0"
+  :code "50016"
+  :flavor "\"Your greatest asset is your ability to cooperate. We are no different, merely better.\""
+ :illustrator "DALL-E"
+  :position 16
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "ikawah-project"
+  :code "50017"
+  :flavor "\"The average citizen of Nairobi speaks six languages. Every culture, language, ethnicity of the east of Africa collides here, collapses together. What happens slowly by nature can happen quickly in our lab. We will bring peace.\" - Dr. Muchina, Project Lead"
+  :illustrator "Michał Miłkowski"
+  :position 17
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "ravana-1-0"
+  :code "50018"
+  :illustrator "Ethan Patrick Harris"
+  :position 18
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "thistle"
+  :code "50019"
+  :flavor "No pesticide beats blood, sweat and tears."
+ :illustrator "DALL-E"
+  :position 19
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "anglerfish"
+  :code "50020"
+ :illustrator "DALL-E"
+  :position 20
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "political-dealings"
+  :code "50021"
+  :illustrator "VIKO"
+  :position 21
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "ben-musashi"
+  :code "50022"
+  :illustrator "Alexandr Elichev"
+  :position 22
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "snickerdoodle"
+  :code "50023"
+  :flavor "\"They sure were hungry back in the oughties...\" -John Masanori"
+ :illustrator "DALL-E"
+  :position 23
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "kampala-city-grid"
+  :code "50024"
+ :illustrator "DALL-E"
+  :position 24
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "fly-on-the-wall"
+  :code "50025"
+  :flavor "Twice as annoying as the real thing."
+  :illustrator "Martin de Diego Sádaba"
+  :position 25
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "exchange-of-information"
+  :code "50026"
+  :illustrator "Del Borovic"
+  :position 26
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "bouncer"
+  :code "50027"
+  :position 27
+  :quantity 3
+ :illustrator "DALL-E"
+  :set-id "reboot-booster-1"}
+ {:card-id "kwolek"
+  :code "50028"
+  :position 28
+  :quantity 3
+ :illustrator "DALL-E"
+  :flavor "Stronger under pressure."
+  :set-id "reboot-booster-1"}
+ {:card-id "commercial-bankers-group"
+  :code "50029"
+  :flavor "\"Money is speech and I am listening intently.\" -Krishnan Sareen"
+  :illustrator "Timur Shevtsov"
+  :position 29
+  :quantity 3
+  :set-id "reboot-booster-1"}
+ {:card-id "ipo"
+  :code "50030"
+  :illustrator "Mark Molnar"
+  :position 30
+  :quantity 3
+  :set-id "reboot-booster-1"}]

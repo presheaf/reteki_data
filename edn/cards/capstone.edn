@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "capstone"
+ :influence-cost 3
+ :side :runner
+ :text "[click]: Trash any number of cards from your grip. For each trashed card of which you have another copy installed, draw 3 cards."
+ :title "Capstone"
+ :flavor "\"Once you have achieved perfection, what's next?\" <br> <ral01> -The Professor"
+ :type :hardware
+ :uniqueness true}

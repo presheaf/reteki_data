@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "chronicle"
+ :influence-cost 2
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\nReduce the cost of cards in your heap by 1.\nLimit 1 <strong>console</strong> per player."
+ :title "Chronicle"
+ :flavor "\"The ravages of time are merciless, but I was never one for groveling anyway.\" <br> <ral01> -Sonia Nahar "
+ :font-fudge-factor 0.91
+ :type :hardware
+ :uniqueness true}

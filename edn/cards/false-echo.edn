@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "false-echo"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :text "Whenever you pass a piece of unrezzed ice, you may trash False Echo. If you do, the Corp must rez that ice or add it to HQ."
+ :title "False Echo"
+ :type :program
+ :uniqueness false}

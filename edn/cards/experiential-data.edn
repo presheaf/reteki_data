@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "experiential-data"
+ :influence-cost 1
+ :side :corp
+ :text "All ice protecting this server has +2 strength."
+ :title "Experiential Data"
+ :trash-cost 2
+ :type :upgrade
+ :uniqueness false}

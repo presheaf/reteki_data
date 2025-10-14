@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "recycling-plant"
+ :influence-cost 2
+ :side :corp
+ :text "When your turn begins, you may trash 1 card from HQ. If you do, gain 1[credit] and draw 1 card."
+ :title "Recycling Plant"
+ :flavor "When 94096 dropped the pen a third time, the stern woman sighed and dismissed him. \"Who the hell decanted this batch?\" she barked into her earpiece as he exited the room. \"That's the fifth one I've scrapped today!\""
+ :trash-cost 3
+ :type :asset
+ :uniqueness false
+ :font-fudge-factor 0.91}

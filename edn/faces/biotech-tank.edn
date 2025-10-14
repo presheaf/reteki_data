@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :jinteki
+ :id "biotech-tank"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "When you flip this identity, shuffle Archives into R&D."
+ :title "The Tank: Jinteki Biotech"
+ :flavor "The best and brightest genengineers spend their days in the Tank dreaming up a better world."
+ :illustrator "Emilio Rodriguez"
+ :type :identity
+ :uniqueness false}

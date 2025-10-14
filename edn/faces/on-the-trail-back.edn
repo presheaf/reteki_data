@@ -1,0 +1,14 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "moment-of-truth"
+ :influence-cost 1
+ :side :runner
+ :subtype [:current]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhen you steal an agenda, trash Moment of Truth and gain 7[credit]."
+ :title "Moment of Truth"
+ :flavor "Weyland's former architect had insisted the offworld vault would be impregnable."
+ :type :event
+ :is-flip-side true
+ :illustrator "DALL-E"
+ :uniqueness false}

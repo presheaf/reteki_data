@@ -1,0 +1,14 @@
+{:cost 5
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "kwolek"
+ :influence-cost 2
+ :side :corp
+ :strength 4
+ :subtype [:barrier]
+ :text "Kwolek cannot be bypassed.\nIf there is an installed <strong>fracter</strong>, the rez cost of Kwolek is lowered by 4[credit].\nIf there is an installed <strong>AI</strong>, Kwolek has +4 strength.\n[subroutine] End the run."
+ :title "Kwolek"
+ :flavor "Stronger under pressure."
+ :illustrator "DALL-E"
+ :type :ice
+ :uniqueness false}

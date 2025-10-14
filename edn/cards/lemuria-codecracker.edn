@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "lemuria-codecracker"
+ :influence-cost 1
+ :side :runner
+ :text "[click]: Expose 1 card. Use this ability only if you have made a successful run on HQ <br> this turn."
+ :title "Lemuria Codecracker"
+ :flavor "\"A little preparation goes a long way.\" <br> <ral05> -Gabriel Santiago"
+ :type :hardware
+ :uniqueness false}

@@ -1,0 +1,11 @@
+{:cost 4
+ :deck-limit 3
+ :faction :anarch
+ :id "keyhole"
+ :influence-cost 3
+ :memory-cost 2
+ :side :runner
+ :text "[click]: Make a run on R&D. If successful, instead of accessing cards, look at the top 3 cards of R&D. Trash 1 of those cards, then the Corp shuffles R&D."
+ :title "Keyhole"
+ :type :program
+ :uniqueness false}

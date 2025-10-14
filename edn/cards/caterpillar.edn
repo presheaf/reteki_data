@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "caterpillar"
+ :influence-cost 3
+ :side :corp
+ :strength 1
+ :subtype [:mythic]
+ :text "<strong>Front face (Caterpillar - STR 1 - Mythic)</strong>: When you rez Caterpillar, place 3 power counters on it. When your turn begins, remove 1 power counter from Caterpillar, then flip Caterpillar if there are no power counters left.\n[subroutine] The runner loses 1[credit].\n
+<strong>Back face (Monarch - STR 3 - Barrier - AP)</strong>: The strength of this ice cannot be lowered.\n[subroutine] Do 1 net damage.\n[subroutine] End the run.\n[subroutine] Do 1 net damage."
+ :title "Caterpillar"
+ :type :ice
+ :uniqueness false}

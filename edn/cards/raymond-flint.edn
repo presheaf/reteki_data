@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "raymond-flint"
+ :influence-cost 0
+ :side :runner
+ :subtype [:connection]
+ :text "Whenever the Corp takes at least 1 bad publicity, access 1 card from HQ.\n[trash]: Expose 1 card."
+ :flavor "\"Flint? He's a burnout. A useless, alcoholic waste of Department time and money.\" <br> <ral00> -Louis Blaine, NAPD Detective <br> <br> \"One of the best detectives on my PI list.\" <br> <ral00> -Richard Harrison, NAPD Captain"
+ :title "Raymond Flint"
+ :type :resource
+ :uniqueness true}

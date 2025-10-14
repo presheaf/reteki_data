@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "construction-crew"
+ :influence-cost 2
+ :side :corp
+ :text "[click]: Gain 1[credit] and install or advance a card in or protecting this server. Use this ability only once per turn."
+ :title "Construction Crew"
+ :trash-cost 4
+ :type :asset
+ :uniqueness false}

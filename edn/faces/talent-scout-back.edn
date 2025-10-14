@@ -1,0 +1,13 @@
+{:cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "talent-scout"
+ :influence-cost 2
+ :side :corp
+ :strength 6
+ :subtype [:sentry :observer]
+ :text "[subroutine] Give the Runner 1 tag.\n[subroutine] Give the Runner 1 tag.\n[subroutine] End the run unless the Runner pays 1[credit] for each tag they have."
+ :title "Red Carpet"
+ :type :ice
+ :is-flip-side true
+ :uniqueness false}

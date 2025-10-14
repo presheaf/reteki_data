@@ -1,0 +1,22 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "project-genesis"
+ :influence-cost 3
+ :side :corp
+ :text "Before the game begins, reveal all copies of Project Genesis from your deck. Secretly choose any one version of Project Genesis to replace them with.\nWhen you rez Project Genesis, place 3 power counters on it. When your turn begins, remove a hosted power counter. Then, if there are none, flip, install and rez this, ignoring all costs."
+
+ :font-fudge-factor 0.83
+
+ :flavor "\"Cloning is inherently imitative. This is true innovation. \" <br> <ral06> -???, Head Researcher"
+
+ :flavor "\"Synth-PNA has already proven fruitful enough in silico to warrant in vivo trials.\" -Dr. Kaori Ayase, Project Lead"
+
+ ;; :flavor "\"Cloning is inherently imitative. This is true innovation. \" <br> <ral06> -???, Head Researcher" 
+ 
+ :title "Project Genesis"
+ :trash-cost 2
+ :type :asset
+ :backside-title "?"
+
+ :uniqueness false}

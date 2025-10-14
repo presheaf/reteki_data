@@ -1,0 +1,15 @@
+{:cost 3
+ :deck-limit 3
+ :faction :criminal
+ :id "sniper"
+ :influence-cost 5
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :killer]
+ :text "Sniper has +3 strength during runs initiated by a <strong>run</strong> event.\n1[credit]: Break 1 <strong>sentry</strong> subroutine.\n3[credit]: +1 strength."
+ :title "Sniper"
+ :flavor "Fortune favors the prepared mind."
+ :type :program
+ :illustrator "DALL-E"
+ :uniqueness false}

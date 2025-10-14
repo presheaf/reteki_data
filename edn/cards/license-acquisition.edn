@@ -1,0 +1,11 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :nbn
+ :id "license-acquisition"
+ :side :corp
+ :subtype [:expansion]
+ :text "When you score License Acquisition, install and rez up to two assets or upgrades from Archives or HQ, ignoring all costs."
+ :title "License Acquisition"
+ :type :agenda
+ :uniqueness false}

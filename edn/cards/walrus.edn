@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :criminal
+ :id "walrus"
+ :influence-cost 4
+ :memory-cost 2
+ :side :runner
+ :strength 3
+ :subtype [:icebreaker :fracter]
+ :text "Place 2 power counters on Walrus when it is installed.\n<strong>Hosted power counter:</strong> Break <strong>destroyer</strong> or <strong>AP</strong> subroutine.\n3[credit]: Break any number of <strong>barrier</strong> subroutines.\n1[credit]: +1 strength."
+ :title "Walrus"
+ :type :program
+ :uniqueness false}

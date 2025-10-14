@@ -1,0 +1,10 @@
+{:cost 3
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "daily-casts"
+ :influence-cost 0
+ :side :runner
+ :text "Place 8[credit] on Daily Casts when it is installed. When there are no credits left on Daily Casts, trash it.\nWhen your turn begins, take 2[credit] from Daily Casts.",
+ :title "Daily Casts"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,13 @@
+{:cost 6
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "middle-manager"
+ :influence-cost 2
+ :side :corp
+ :strength 5
+ :subtype [:barrier]
+ :text "This ice has +3 strength if there is an advanced card installed in this server.\nIf there is a faceup agenda installed in this server, the Runner cannot use non-<strong>fracter</strong> cards to break subroutines on this ice.\n[subroutine] End the run."
+ :title "Middle Manager"
+ :illustrator "DALL-E"
+ :type :ice
+ :uniqueness false}

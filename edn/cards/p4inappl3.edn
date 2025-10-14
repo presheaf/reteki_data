@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "p4inappl3"
+ :influence-cost 3
+ :side :runner
+ :subtype [:mod]
+ :text "When the Corp rezzes a piece of ice with a rez cost of 3[credit] or less during a run on a central server, trash P4inappl3, suffer 1 brain damage, trash that ice and jack out."
+ :flavor "Pearfect for going bananas."
+ :title "P4inappl3"
+ :type :hardware
+ :uniqueness true}

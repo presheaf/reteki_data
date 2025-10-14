@@ -1,0 +1,12 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :criminal
+ :id "leela-patel-trained-pragmatist"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:natural]
+ :text "Whenever an agenda is scored or stolen, the Corp adds 1 unrezzed card to HQ."
+ :title "Leela Patel: Trained Pragmatist"
+ :type :identity
+ :uniqueness false}

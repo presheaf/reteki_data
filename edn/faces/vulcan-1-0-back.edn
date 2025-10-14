@@ -1,0 +1,15 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "vulcan-1-0"
+ :influence-cost 3
+ :side :corp
+ :strength 9
+ :subtype [:code-gate]
+ :text "The strength of Mind Maze is reduced by 1 for each card in the Runner's grip.\n[subroutine] End the run."
+ :title "Mind Maze"
+ :flavor "Entering an unallocated subnet would have been a nightmare, had there been any hope of waking up."
+ :font-fudge-factor 0.96
+ :type :ice
+ :is-flip-side true
+ :uniqueness false}

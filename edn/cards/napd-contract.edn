@@ -1,0 +1,12 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "napd-contract"
+ :influence-cost 0
+ :side :corp
+ :subtype [:security]
+ :text "The advancement requirement of NAPD Contract is increased by 1 for each bad publicity the Corp has.\nAs an additional cost to steal NAPD Contract, the Runner must pay 3[credit]."
+ :title "NAPD Contract"
+ :type :agenda
+ :uniqueness false}

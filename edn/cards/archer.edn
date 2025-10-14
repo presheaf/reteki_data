@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "archer"
+ :influence-cost 2
+ :side :corp
+ :strength 6
+ :subtype [:sentry :destroyer]
+ :text "As an additional cost to rez Archer, the Corp must forfeit an agenda.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trash 1 program.\n[subroutine] Trash 1 program.\n[subroutine] End the run."
+ :title "Archer"
+ :type :ice
+ :uniqueness false}

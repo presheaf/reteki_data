@@ -1,0 +1,14 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "bouncer"
+ :influence-cost 4
+ :side :corp
+ :strength 2
+ :subtype [:barrier]
+ :text "When you rez this ice during a run, resolve its printed subroutines if there is no installed <strong>fracter</strong>.\n[subroutine] The Corp gains 2[credit].\n[subroutine] End the run."
+ :title "Bouncer"
+ :flavor "You're not on the list."
+ :illustrator "DALL-E"
+ :type :ice
+ :uniqueness false}

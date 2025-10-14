@@ -1,0 +1,13 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :mako
+ :id "mako-shuusei-black-sheep"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:clone]
+ :title "Mako Shuusei: Black Sheep"
+ :text "Before drawing your starting hand, create 5 different <strong>sabotage</strong> events from outside the game and host them facedown on this identity.\nWhenever a successful run on a central server ends, place 1 virus counter on this identity. Then, if there are at least 4, you may remove them all to play 1 hosted event."
+ :type :identity
+ :uniqueness false
+ :font-fudge-factor 0.75}

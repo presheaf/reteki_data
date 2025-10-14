@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :sunny-lebeau
+ :id "multitasking"
+ :influence-cost 2
+ :side :runner
+ :subtype [:run]
+ :text "Make a run on HQ or R&D. When that run ends, if it was successful, you may install up to 2 hardware or resources, reducing the cost of each by 2."
+ :flavor "\"The sooner we finish here, the sooner we can all go home.\" <br> <ral01> -Sunny Lebeau"
+ :font-fudge-factor 0.97
+ :title "Multitasking"
+ :type :event
+ :uniqueness false}

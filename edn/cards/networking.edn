@@ -1,0 +1,10 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "networking"
+ :influence-cost 1
+ :side :runner
+ :text "Remove 1 tag. You may pay 1[credit] to add Networking to your grip instead of trashing it."
+ :title "Networking"
+ :type :event
+ :uniqueness false}

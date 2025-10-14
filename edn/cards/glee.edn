@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "glee"
+ :influence-cost 3
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\nWhenever a Corp card is trashed during a run on a central server, gain 1[credit].\nLimit 1 <strong>console</strong> per player."
+ :title "Glee"
+ ;; :flavor "<2xTiger> One of my old PADs had a note that said \"Note to self: Get revenge on 5INNER\".\n<2xTiger> Except I couldn't remember what I was supposed to get revenge for.\n<2xTiger> But I must've had my reasons, right?"
+ :flavor "<2xTiger> :RooBoom: :RooBoom: :RooBoom:\n<5INNER> :RooBoom: :RooBoom:\n<DaPr0> wtf?\n*-DaPr0 was kicked by 666 (:RooBoom:)-*"
+  :font-fudge-factor 0.95
+ :type :hardware
+ :uniqueness true}

@@ -1,0 +1,19 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "molotov"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :text "<strong>Front face (Molotov):</strong>\nThe rez cost of all ice is increased by 2[credit].\n
+When the corp rezzes a piece of ice, host Molotov on that ice and flip Molotov.\n
+<strong>Back face (Blaze):</strong>
+(0[mu])\n
+1[recurring-credit]\nUse this credit to pay for using <strong>icebreakers</strong> during encounters with host ice.\n
+Host ice has -1 strength."
+ :title "Molotov"
+ :flavor "Front: In the splendid glow of the fire, there was anarchy - vibrant, alive, raging; and ever spreading.
+Back: Do not be disappointed that the flames missed their target. Be happy that something burns."
+ :type :program
+ :illustrator "DALL-E"
+ :uniqueness false}

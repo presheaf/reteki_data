@@ -1,0 +1,14 @@
+{:cost 1
+ :deck-limit 3
+ :faction :mako
+ :id "downsizing"
+ :influence-cost 2
+ :side :runner
+ :subtype [:current :sabotage]
+ :text "This card is not trashed until another <strong>current</strong> is played or an agenda is scored.\nWhenever the Corp advances a card or purges virus counters, they lose 1[credit]."
+ :font-fudge-factor 0.99
+ :title "Downsizing"
+ :illustrator "DALL-E"
+ :flavor "Although Mako knew that nobody was truly irreplacable, she also knew who came closest."
+ :type :event
+ :uniqueness false}

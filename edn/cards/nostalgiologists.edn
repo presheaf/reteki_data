@@ -1,0 +1,13 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "nostalgiologists"
+ :side :corp
+ :text "Place 2 agenda counters on Nostalgiologists when you score it.\n<strong>Hosted agenda counter:</strong> Add a <strong>transaction</strong> or <strong>advertisement</strong> from Archives to HQ."
+ :title "Nostalgiologists"
+ :subtype [:research]
+ :flavor "Retro. Adjective. When buying it once doesn't cut it. <br> <ral00> -The Anarch's Dictionary, Volume Who's Counting?"
+ :font-fudge-factor 0.98
+ :type :agenda
+ :uniqueness false}

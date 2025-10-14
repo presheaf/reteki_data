@@ -1,0 +1,209 @@
+[{:card-id "chronal-retrofitting"
+  :code "52001"
+  :flavor "\"No, I never found the time. I wonder where it went...\"\n -Kate \"Mac\" McCaffrey"
+ :illustrator "DALL-E"
+  :position 1
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "ultraviolet-clearance"
+  :code "52002"
+  :flavor "\"If there were hidden partitions on the server, I'd know; I'm the head of this department!\""
+  :illustrator "Andreas Zafiratos"
+  :position 2
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "kyuudoka"
+  :code "52003"
+  :flavor "Nothing came between the thought and the action, and nothing was left over."
+ :illustrator "DALL-E"
+  :position 3
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "recycling-plant"
+  :code "52004"
+  :flavor "When 94096 drops the pen a third time, the stern woman sighs and dismisses him. \"Who the hell decanted this batch? That's the fifth one I've scrapped today,\" she barks into her earpiece as he exits the room." 
+ :illustrator "DALL-E"
+  :position 4
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "sizzler-igniting-the-discourse"
+  :code "52005"
+  :flavor "You won't BELIEVE number 38!"
+ :illustrator "DALL-E"
+  :position 5
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "smear-campaign"
+  :code "52006"
+  :flavor "Sourcing guidelines are just that."
+ :illustrator "DALL-E"
+  :position 6
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "gish-gallop"
+  :code "52007"
+  :flavor "\"Aliens in the Network? It's more likely than you think. Coming up next on BEXPOSED.\" -Bex Gleeson"
+ :illustrator "DALL-E"
+  :position 7
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "plausible-deniability"
+  :code "52008"
+  :flavor "\"You can't put a price on quality journalism. Luckily, you <strong>can</strong> put a lid on it.\" -Keith Randolph Kane"
+ :illustrator "DALL-E"
+  :position 8
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "retrospective"
+  :code "52009"
+  :flavor ""
+ :illustrator "DALL-E"
+  :position 9
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "due-diligence"
+  :code "52010"
+  :flavor "Measure twice, cut once."
+ :illustrator "DALL-E"
+  :position 10
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "anklebiter"
+  :code "52011"
+  :flavor "WHARRGARBL!!"
+ :illustrator "DALL-E"
+  :position 11
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "self-growth-program"
+  :code "52012"
+  :flavor "Our patented ClearMind™ technology pacifies the trials and tribulations of everyday life."
+  :illustrator "Limetown Studios"
+  :position 12
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "cdo-portfolio"
+  :code "52013"
+  :flavor "\"We don't just buy debt; we buy control. Repayment is profit, default is power.\" -Beatrice Voss, Director of Risk Management"
+ :illustrator "DALL-E"
+  :position 13
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "bailiff"
+  :code "52014"
+  :flavor "Efficiency means profiting from things everyone was doing anyway."
+  :illustrator "Andreas Zafiratos"
+  :position 14
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "power-grid-reroute"
+  :code "52015"
+  :flavor "For most users, power grid diagnostics are routine affairs."
+ :illustrator "DALL-E"
+  :position 15
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "psychomagnetic-pulse"
+  :code "52016"
+  :flavor ""
+ :illustrator "DALL-E"
+  :position 16
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:code "52017"
+  :card-id "adaptive-netbranes"
+  :flavor ""
+ :illustrator "DALL-E"
+  :position 17
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "long-term-investment"
+  :code "52018"
+  :flavor ""
+  :illustrator "Mark Molnar"
+  :position 18
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "trojan-stable"
+  :code "52019"
+  :flavor "<2xTiger>: My drive is such a mess...\n<2xTiger>: This is the third time this month I've lost track of one of my trojans -_-\n<N3v3rmor3>: sounds like a real remuda triangle"
+ :illustrator "DALL-E"
+  :position 19
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "respirocytes"
+  :code "52020"
+  :illustrator "Alexandr Elichev"
+  :position 20
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "dionysus-bagbiter-luxe-larcenist"
+  :code "52021"
+  :flavor "\"Money doesn't have owners, only spenders.\""
+ :illustrator "DALL-E"
+  :position 21
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "elysium"
+  :code "52022"
+  :flavor "Their pain, your gain."
+ :illustrator "DALL-E"
+  :position 22
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "zdnet-access"
+  :code "52023"
+  :flavor "Selling secrets is a lucrative business, but the market for vulnerabilities isn't bad either. "
+ :illustrator "DALL-E"
+  :position 23
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "stolen-contacts"
+  :code "52024"
+  :flavor "\"A stranger is just a fund you haven't tapped yet.\" -Dionysus Bagbiter"
+ :illustrator "DALL-E"
+  :position 24
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "gemon"
+  :code "52025"
+  :flavor "\"The key to the finer things in life is hard work. Of course, a lockpick works too.\" -Dionysus Bagbiter "
+ :illustrator "DALL-E"
+  :position 25
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "maron"
+  :code "52026"
+  :flavor "\"The best vintages aren't cheap, but nobody would disagree that they're worth it. Especially if you don't ask.\" -Dionysus Bagbiter"
+ :illustrator "DALL-E"
+  :position 26
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "lamis"
+  :code "52027"
+  :flavor "\"Nobody should be denied the relief a beautiful etude brings to their mundane existence.\" -Dionysus Bagbiter"
+ :illustrator "DALL-E"
+  :position 27
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "exclusive-party"
+  :code "52028"
+  :flavor "The more parties she attended, the more they trusted her. The more they trusted her, the more entertaining her scams became."
+  :illustrator "Caroline Gariba"
+  :position 28
+  :quantity 6
+  :set-id "style-and-slander"}
+ {:card-id "reverse-engineering"
+  :code "52029"
+  :flavor ""
+ :illustrator "DALL-E"
+  :position 29
+  :quantity 3
+  :set-id "style-and-slander"}
+ {:card-id "ubax"
+  :code "52030"
+  :flavor "\"It is more than just a 'pretty nanite plant'. It's a complex synthetic intelligent distributed network, and a VERY pretty nanite plant.\" - Bios"
+  :illustrator "Andreas Zafiratos"
+  :position 30
+  :quantity 3
+  :set-id "style-and-slander"}]

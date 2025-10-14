@@ -1,0 +1,106 @@
+atoms:
+  influence-pip: atoms/influence_pip_small.png
+cost:
+  center: true
+  font: fonts/numeralfont_v2.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+  - 185
+  - 132
+influence-1:
+  loc:
+  - 1664
+  - 2129
+influence-2:
+  loc:
+  - 1664
+  - 2062
+type:
+  font: fonts/typefont.ttf
+  fontsize: 60
+  loc:
+  - 179
+  - 1821
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 60
+  loc:
+  - 475
+  - 1835
+template_image:
+  anarch: program/program_anarch_alt.png
+  criminal: program/program_criminal_alt.png
+  neutral-runner: program/program_neutral_runner_alt.png
+  shaper: program/program_shaper_alt.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 64
+  height: 383
+  loc:
+  - 177
+  - 1947
+  width: 1290
+  # literally only used here - means "when the text reaches 281 px down, indent lines 50 pixels, at 400,
+  # indent 50 more" - doesn't take this into account on the right, so i have deducted text width by the indent
+  eventual_indent:
+    - at_height: 285
+      indent: 85
+    - at_height: 350
+      indent: 35
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 0
+    - 0
+    - 0
+
+  fontsize: 40
+  loc:
+    - 300
+    - 2342
+
+title:
+  font: fonts/titlefont.otf
+  fontsize: 68
+  loc:
+  - 175
+  - 1763
+
+
+memory-cost:
+  backdrop:
+    color:
+    - 0
+    - 0
+    - 0
+    offset:
+    - 0
+    - 0
+    width: 3
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 240
+  - 240
+  - 240
+  fontsize: 81
+  loc:
+  - 389
+  - 88
+strength:
+  center: true
+  font: fonts/numeralfont.otf
+  fontsize: 125
+  loc:
+  - 124
+  - 2253

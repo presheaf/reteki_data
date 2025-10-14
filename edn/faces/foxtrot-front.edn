@@ -1,0 +1,14 @@
+{:cost 6
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "foxtrot"
+ :influence-cost 3
+ :side :corp
+ :strength 4
+ :subtype [:sentry :tracer :observer]
+ :text "When the runner initiates a run on this server with a <strong>run</strong> event, flip Foxtrot.\n[subroutine]<trace>Trace 4</trace> If successful, give the Runner 1 tag.\n[subroutine]<trace>Trace 3</trace> If successful, do 2 meat damage."
+ :title "Foxtrot"
+ :font-fudge-factor 0.95
+ :type :ice
+ :backside-title "Blockade"
+ :uniqueness false}

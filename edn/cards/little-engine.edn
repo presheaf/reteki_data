@@ -1,0 +1,13 @@
+{:cost 5
+ :deck-limit 3
+ :faction :nbn
+ :id "little-engine"
+ :influence-cost 2
+ :side :corp
+ :strength 7
+ :subtype [:code-gate]
+ :text "[subroutine] End the run.\n[subroutine] End the run.\n[subroutine] The Runner gains 4[credit]."
+ :title "Little Engine"
+ :flavor "\"A sysop is not just a cog in the corporate machine. They have dreams – and nightmares – just like the rest of us.\" <br> <ral00> -Kate \"Mac\" McCaffrey"
+ :type :ice
+ :uniqueness false}

@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "melange-mining-corp"
+ :influence-cost 0
+ :side :corp
+ :text "[click], [click], [click]: Gain 7[credit]."
+ :flavor "\"The mining bosses are worse than any downstalk crime lords. Tri-Maf, 4K, Yak, I don't care what gangs you got down there. In Heinlein there's just one law: the He3 must flow.\" <br> <ral00> -\"Old\" Rick Henry, escaped clone"
+ :title "Melange Mining Corp."
+ :trash-cost 2
+ :type :asset
+ :uniqueness false}

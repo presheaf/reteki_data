@@ -1,0 +1,13 @@
+{:advancement-requirement 5
+ :agenda-points 3
+ :deck-limit 3
+ :faction :neutral-corp                 ; hb/weyland
+ :id "power-grid-reroute"
+ :side :corp
+ :subtype [:collaboration :security]
+ :text "When you score Power Grid Reroute, trash all installed hardware or all <strong>virtual</strong> resources."
+ :title "Power Grid Reroute"
+ :flavor "For most users, power grid diagnostics are routine affairs."
+ :type :agenda
+ :uniqueness false
+ :font-fudge-factor 0.92}

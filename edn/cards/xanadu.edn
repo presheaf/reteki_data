@@ -1,0 +1,25 @@
+{:cost 3
+ :deck-limit 3
+ :faction :anarch
+ :id "xanadu"
+ :influence-cost 2
+ :side :runner
+ :subtype [:virtual]
+ :text "The rez cost of all ice is increased by 1."
+ :title "Xanadu"
+ :flavor "And all should cry, Beware! Beware!
+
+  His flashing eyes, his floating hair!
+
+  Weave a circle round him thrice,
+
+  And close your eyes with holy dread,
+
+  For he on honey-dew hath fed,
+
+  And drunk the milk of Paradise.
+
+  <ral02> -Samuel Taylor Coleridge"
+ 
+ :type :resource
+ :uniqueness true}

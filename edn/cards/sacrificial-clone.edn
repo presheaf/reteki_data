@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :anarch
+ :id "sacrificial-clone"
+ :influence-cost 4
+ :side :runner
+ :text "[trash]: Prevent all damage. Trash all installed hardware, all installed non-<strong>virtual</strong> resources, and all cards in your grip. Lose all credits in your credit pool. Remove all tags."
+ :title "Sacrificial Clone"
+ :flavor "\"Don't worry, me. You won't have to vertical park.\" <br> <ral00> -Ji \"Noise\" Reilly"
+ :type :resource
+ :uniqueness false}

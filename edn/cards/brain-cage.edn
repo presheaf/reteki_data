@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "brain-cage"
+ :influence-cost 0
+ :side :runner
+ :subtype [:cybernetic]
+ :text "When you install Brain Cage, suffer <br> 1 brain damage.\nYour maximum hand size is increased <br> by 4."
+ :title "Brain Cage"
+ :type :hardware
+ :uniqueness true}

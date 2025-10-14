@@ -1,0 +1,14 @@
+{:base-link 1
+ :deck-limit 1
+ :faction :criminal
+ :id "dionysus-bagbiter-luxe-larcenist"
+ :influence-limit 15
+ :minimum-deck-size 45
+ :side :runner
+ :subtype [:natural]
+ :text "You cannot install <strong>jobs</strong> or <strong>connections</strong>.\nWhenever you access cards from HQ or R&D, access 1 additional card.\nWhenever you steal an agenda, lose all credits in your credit pool."
+ :title "Dionysus Bagbiter: Luxe Larcenist"
+ :flavor "\"Money doesn't have owners, only spenders.\""
+ :type :identity
+ :uniqueness false
+ :font-fudge-factor 0.84}

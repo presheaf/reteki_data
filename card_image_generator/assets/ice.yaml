@@ -1,0 +1,134 @@
+atoms:
+  influence-pip: atoms/influence_pip.png
+  trashcan: atoms/trashcan.png
+cost:
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+  - 206
+  - 146
+influence-1:
+  loc:
+  - 1617
+  - 2097
+influence-2:
+  loc:
+  - 1617
+  - 2005
+strength:
+  center: true
+  font: fonts/numeralfont.otf
+  fontsize: 162
+  loc:
+  - 119
+  - 2236
+  rotation: 90
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 72
+  loc:
+  - 117
+  - 419
+  rotation: 90
+template_image:
+  haas-bioroid: ice/ice_hb.png
+  jinteki: ice/ice_jinteki.png
+  nbn: ice/ice_nbn.png
+  neutral-corp: ice/ice_neutral_corp.png
+  weyland-consortium: ice/ice_weyland.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 76
+  width: 1150
+  height: 840
+  loc:
+  - 374
+  - 349
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+
+illustrator:
+  # TODO: These should be aligned from the bottom of the card, not the top
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 200
+    - 200
+    - 200
+  rotation: 90
+  fontsize: 47
+  loc:
+    haas-bioroid:
+      &cillusloc
+      - 1580
+      - 568
+    jinteki: *cillusloc
+    nbn: *cillusloc
+    neutral-corp: *cillusloc
+    weyland-consortium: *cillusloc
+
+set-sym-num:
+  # TODO: These should be aligned from the bottom of the card, not the top
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 200
+    - 200
+    - 200
+  rotation: 90
+  fontsize: 47
+  loc:
+    haas-bioroid:
+      &csetsymloc
+      - 1580
+      - 335
+    jinteki: *csetsymloc
+    nbn: *csetsymloc
+    neutral-corp: *csetsymloc
+    weyland-consortium: *csetsymloc
+
+title:
+  font: fonts/titlefont.otf
+  fontsize: 70
+  loc:
+  - 419
+  - 109
+trash-cost:
+  font: fonts/impact.ttf
+  fontcolor:
+  - 152
+  - 130
+  - 119
+  fontsize: 103
+  loc:
+  - 1400
+  - 1065
+trashcan:                       # TODO: fix this
+  loc:
+  - 1324
+  - 1043
+type:
+  font: fonts/typefont.ttf
+  fontsize: 75
+  loc:
+    - -19
+    - 24
+  rotation: 90
+backside-title:
+  center: true
+  font: fonts/titlefont.otf
+  fontsize: 49
+  fontcolor:
+    - 255
+    - 255
+    - 255
+  loc:
+  - 309
+  - 1502
+  rotation: 90

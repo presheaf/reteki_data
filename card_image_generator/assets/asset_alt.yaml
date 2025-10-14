@@ -1,0 +1,80 @@
+atoms:
+  influence-pip: atoms/influence_pip_small.png
+cost:
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+  - 208
+  - 156
+influence-1:
+  loc:
+  - 1590
+  - 1999
+influence-2:
+  loc:
+  - 1590
+  - 1927
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 62
+  loc:
+  - 289
+  - 1806
+template_image:
+  haas-bioroid: asset/asset_hb_alt.png
+  jinteki: asset/asset_jinteki_alt.png
+  nbn: asset/asset_nbn_alt.png
+  neutral-corp: asset/asset_neutral_corp_alt.png
+  weyland-consortium: asset/asset_weyland_alt.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 60
+  height: 420
+  loc:
+  - 77
+  - 1919
+  width: 1340
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 50
+  loc:
+    below-of: text
+
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 0
+    - 0
+    - 0
+  fontsize: 47
+  loc:
+    - 86
+    - 2342
+title:
+  font: fonts/titlefont.otf
+  fontsize: 64
+  loc:
+  - 75
+  - 1740
+trash-cost:
+  center: true
+  font: fonts/impact.ttf
+  fontcolor:
+  - 141
+  - 133
+  - 112
+  fontsize: 112
+  loc:
+    - 1583
+    - 2223
+type:
+  font: fonts/typefont.ttf
+  fontsize: 59
+  loc:
+  - 79
+  - 1794

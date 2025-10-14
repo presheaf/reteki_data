@@ -1,0 +1,10 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "hard-at-work"
+ :influence-cost 2
+ :side :runner
+ :text "When your turn begins, gain 2[credit] and lose [click]."
+ :title "Hard at Work"
+ :type :resource
+ :uniqueness false}

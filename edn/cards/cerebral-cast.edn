@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "cerebral-cast"
+ :influence-cost 3
+ :side :corp
+ :subtype [:gray-ops :psi]
+ :text "Play only if the Runner made a successful run during their last turn.\nYou and the Runner secretly spend 0[credit], 1[credit], or 2[credit]. Reveal spent credits. If you and the Runner spent a different number of credits, they must either suffer 1 brain damage or take 1 tag."
+ :font-fudge-factor 0.95
+ :title "Cerebral Cast"
+ :type :operation
+ :uniqueness false}

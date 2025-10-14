@@ -1,0 +1,11 @@
+{:cost 5
+ :deck-limit 3
+ :faction :anarch
+ :id "adjusted-chronotype"
+ :influence-cost 2
+ :side :runner
+ :subtype [:genetics]
+ :text "The first time you lose [click] each turn, <br> gain [click]."
+ :title "Adjusted Chronotype"
+ :type :resource
+ :uniqueness true}

@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :nbn
+ :id "universal-connectivity-fee"
+ :influence-cost 1
+ :side :corp
+ :strength 2
+ :subtype [:trap]
+ :text "[subroutine] If the Runner is tagged, they lose all credits in their credit pool, then trash Universal Connectivity Fee. Otherwise, the Runner loses 1[credit]."
+ :title "Universal Connectivity Fee"
+ :type :ice
+ :uniqueness false}

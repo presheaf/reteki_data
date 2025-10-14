@@ -1,0 +1,18 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "tenuki"
+ :influence-cost 2
+ :side :corp
+ :strength 5
+ :subtype [:sentry]
+ :text "[subroutine] Resolve a subroutine on another piece of rezzed <strong>AP</strong> ice."
+ :title "Tenuki"
+ ;; :flavor "The real danger isn't what you overlook. <br> It's what you didn't think to look for."
+ ;; :flavor "\"Appear at points which the enemy must hasten to defend; march swiftly to places where you are not expected.\" <br> <ral02>-Sun Tzu, The Art of War"
+ :font-fudge-factor 0.97
+ :flavor "\"When you see a good move, look for a better one.\" <br> <ral02> -Emmanuel Lasker"
+ ;; :flavor "Good runners double-check their answers. <br> Great ones double-check their questions."
+ ;; :flavor "Intelligence is knowing how to analyze a novel piece of ice. Wisdom is knowing when that's the wrong question."
+ :type :ice
+ :uniqueness false}

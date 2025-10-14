@@ -1,0 +1,10 @@
+{"rotation-2017" {:id :rotation-2017
+                  :cycles ["creation-and-control"
+                           "honor-and-profit"
+                           "lunar"
+                           "order-and-chaos"
+                           "sansan"
+                           "data-and-destiny"
+                           "reboot-boosters"]
+                  :date-start "2017-10-01"
+                  :name "First Rotation"}}

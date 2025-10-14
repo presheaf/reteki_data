@@ -1,0 +1,11 @@
+{:cost 3
+ :deck-limit 3
+ :faction :apex
+ :id "furnace"
+ :influence-cost 2
+ :side :runner
+ :text "Whenever you access cards from HQ or R&D, you may trash another of your installed cards to access 1 additional card."
+ :title "Furnace"
+ :flavor "\"Of course nobody's breached the client mindmap buffers. Who would cross three airgaps just to reach unstructured thought?\" <br> <ral02> -Māra Elbaz, former Memvaults technician"
+ :type :hardware
+ :uniqueness false}

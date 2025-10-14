@@ -1,0 +1,13 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "zenith-thoughtworks-changing-minds"
+ :influence-limit nil
+ :minimum-deck-size 45
+ :side :corp
+ :subtype [:division]
+ :text "Draft format only.\nWhen an agenda is scored or stolen, place 1 power counter on this identity.\nWhen the Runner's turn begins, remove 1 hosted power counter. If you do, the Runner loses [click]."
+ :font-fudge-factor 0.86
+ :title "Zenith Thoughtworks: Changing Minds"
+ :type :identity
+ :uniqueness false}
+

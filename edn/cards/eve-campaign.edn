@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "eve-campaign"
+ :influence-cost 3
+ :side :corp
+ :subtype [:advertisement]
+ :text "Place 16[credit] from the bank on Eve Campaign when it is rezzed. When there are no credits left on Eve Campaign, trash it.\nWhen your turn begins, take 2[credit] from Eve Campaign."
+ :title "Eve Campaign"
+ :trash-cost 5
+ :type :asset
+ :uniqueness false}

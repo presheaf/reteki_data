@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :criminal
+ :id "stakeout"
+ :influence-cost 1
+ :side :runner
+ :text "Reveal the top 5 cards of your stack. Add all revealed <strong>run</strong> events to your grip. For each other card, you may pay 1[credit] to add it to your grip. Shuffle your stack."
+ :title "Stakeout"
+ :flavor "The first rule of heist planning: do <strong>not</strong> call it a 'heist'."
+ :illustrator "DALL-E"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,210 @@
+[{:card-id "echo-memvaults-reality-reimagined"
+  :code "51001"
+  :flavor "Where dreams transcend the flesh."
+ :illustrator "DALL-E"
+  :position 1
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "nostalgiologists"
+  :code "51002"
+  :flavor "Retro. Adjective. When buying it once doesn't cut it.\n-The Anarch's Dictionary, Volume Who's Counting?"
+ :illustrator "DALL-E"
+  :position 2
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "microtransactions"
+  :code "51003"
+  :flavor "Memvault denizens are free to explore an endless utopia and create anything they imagine. Unless, of course, they imagine official SanSan Outlaws apparel."
+ :illustrator "DALL-E"
+  :position 3
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "nootropics-campaign"
+  :code "51004"
+   :flavor "HB's nootropics brand had the misfortune of sharing managers with its bioroid adtech spinoff."
+ :illustrator "DALL-E"
+  :position 4
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "vulcan-1-0"
+  :code "51005"
+  :flavor "\"The realms beyond are unsafe.\""
+ :illustrator "DALL-E"
+  :position 5
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "magnet"
+  :code "51006"
+  :flavor "David Keen"
+  :illustrator "\"When the enemy has mastered the battlefield, change the battlefield.\" -The Playbook" 
+  :position 6
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "o-shortage"
+  :code "51007"
+  :flavor "\"Is the lack of oxygen causing distress, friend?\" -Gregory 3D3R6Z "
+  :illustrator "Wenjuinn.jpg"
+  :position 7
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "lateral-growth"
+  :code "51008"
+  :flavor "\"Practical effects are expensive, but worth it. I had to smash seventeen stunt bioroids to get this shot.\" -Parvati Kapoor, director "
+  :illustrator "Antonio De Luca"
+  :position 8
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "caterpillar"
+  :code "51009"
+  :flavor ""
+ :illustrator "DALL-E"
+  :position 9
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "thicket"
+  :code "51010"
+  :flavor "Getting in proved easier than getting out."
+ :illustrator "DALL-E"
+  :position 10
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "talent-scout"
+  :code "51011"
+  :flavor ""
+ :illustrator "DALL-E"
+  :position 11
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "amani-senai"
+  :code "51012"
+  :flavor "Azmari EdTech's most popular instructor, Amani Senai regularly broadcasts to millions of students."
+  :illustrator "Caravan Studio"
+  :position 12
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "foxtrot"
+  :code "51013"
+  :flavor "\"'Shipping early'? That just means you can make it better.\" -Liz Campbell, VP Project Security"
+ :illustrator "DALL-E"
+  :position 13
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "armed-intimidation"
+  :code "51014"
+  :flavor "\"The way I see it, you've got two options: die here or die running. I'll enjoy both.\""
+  :illustrator "Le Vuong"
+  :position 14
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "the-horde"
+  :code "51015"
+  :flavor ""
+ :illustrator "DALL-E"
+  :position 15
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "p4inappl3"
+  :code "51016"
+  :flavor "Pearfect for going bananas."
+ :illustrator "DALL-E"
+  :position 16
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "stim-graft"
+  :code "51017"
+  :flavor ""
+ :illustrator "DALL-E"
+  :position 17
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "glee"
+  :code "51018"
+  :flavor "<2xTiger> :RooBoom: :RooBoom: :RooBoom:\n<5INNER> :RooBoom: :RooBoom:\n<DaPr0> wtf?\n*-DaPr0 was kicked by 666 (:RooBoom:)-*"
+ :illustrator "DALL-E"
+  :position 18
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "termite"
+  :code "51019"
+  :flavor ""
+ :illustrator "DALL-E"
+  :position 19
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "for-the-laughs"
+  :code "51020"
+  :flavor ""
+ :illustrator "DALL-E"
+  :position 22
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "system-outage"
+  :code "51021"
+  :flavor ""
+  :illustrator "Meg Owenson"
+  :position 20
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "frantic-coding"
+  :code "51022"
+  :flavor "Omar goes through four, five keyboards per week, no two from the same decade."
+  :illustrator "Nasrul Hakim"
+  :position 21
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "walrus"
+  :code "51023"
+  :flavor ""
+ :illustrator "DALL-E"
+  :position 23
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "pad-tap"
+  :code "51024"
+  :flavor "\"You called me, sir?\"\n\"Why does my PAD keep flashing 'Sensitive Information Transfer'?!\"\n\"Hmm, that's strange. Mine only does that on Tuesdays." 
+  :illustrator "Caravan Studio"
+  :position 24
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "futureproofing"
+  :code "51025"
+  :flavor "With intranet security this dismal, who could resist a quick scrape of the developers' workstations?"
+ :illustrator "DALL-E"
+  :position 25
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "patron"
+  :code "51026"
+  :flavor "\"Anyone who can afford dwarf elephants can afford to be my friend.\" -Fake-ir"
+  :illustrator "Antonio De Luca"
+  :position 26
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "repurpose"
+  :code "51027"
+  :flavor ""
+ :illustrator "DALL-E"
+  :position 27
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "synaptic-remodulator"
+  :code "51028"
+  :flavor "Bioroid thoughtforms spontaneously reshape themselves to learn from experience. When the process turns on itself, the results can be unpredictable."
+ :illustrator "DALL-E"
+  :position 28
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "cloudburst"
+  :code "51029"
+  :flavor "\"Amateurs delight in absurd hand-coded daemon trees. Professionals have jobs to do.\" -Sunny Lebeau"
+  :illustrator "DALL-E"  
+  :position 29
+  :quantity 3
+  :set-id "mind-and-mayhem"}
+ {:card-id "process-automation"
+  :code "51030"
+  :flavor "Restructuring labor resources. "
+  :illustrator "Ed Mattinian"
+  :position 30
+  :quantity 3
+  :set-id "mind-and-mayhem"}]

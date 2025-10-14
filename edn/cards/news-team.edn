@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 1
+ :faction :nbn
+ :id "news-team"
+ :influence-cost 2
+ :side :corp
+ :subtype [:ambush]
+ :text "If News Team is accessed from R&D, the Runner must reveal it.\nWhen the Runner accesses News Team, they must either take 2 tags or add News Team to their score area as an agenda worth -1 agenda point.\nLimit 1 per deck."
+ :font-fudge-factor 0.9
+ :title "News Team"
+ :trash-cost 0
+ :type :asset
+ :uniqueness false}

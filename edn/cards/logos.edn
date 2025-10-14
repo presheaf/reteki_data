@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "logos"
+ :influence-cost 2
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\nYour maximum hand size is increased by 1.\nWhenever the Corp scores an agenda, you may search your stack for a card and add it <br> to your grip. Shuffle your stack.\nLimit 1 <strong>console</strong> per player."
+ :font-fudge-factor 0.95
+ :title "Logos"
+ :type :hardware
+ :uniqueness true}

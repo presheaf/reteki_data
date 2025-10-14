@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "hokusai-grid"
+ :influence-cost 2
+ :side :corp
+ :subtype [:region]
+ :text "Whenever there is a successful run on this server, do 1 net damage.\nLimit 1 <strong>region</strong> per server."
+ :title "Hokusai Grid"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness false}

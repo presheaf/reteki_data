@@ -1,0 +1,11 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "ancestral-imager"
+ :side :corp
+ :subtype [:security]
+ :text "Whenever the Runner jacks out, do 2 net damage."
+ :title "Ancestral Imager"
+ :type :agenda
+ :uniqueness false}

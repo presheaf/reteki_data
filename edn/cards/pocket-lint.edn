@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "pocket-lint"
+ :influence-cost 2
+ :side :runner
+ ;; :subtype [:run]
+ :text "Install a program with install cost 1 or less from your heap (paying all costs)."
+ :title "Pocket Lint"
+ :type :event
+ :uniqueness false}

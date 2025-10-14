@@ -1,0 +1,12 @@
+{:cost 4
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "rototurret"
+ :influence-cost 1
+ :side :corp
+ :strength 1
+ :subtype [:sentry :destroyer]
+ :text "[subroutine] Trash 1 program.\n[subroutine] End the run."
+ :title "Rototurret"
+ :type :ice
+ :uniqueness false}

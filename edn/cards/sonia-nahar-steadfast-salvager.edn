@@ -1,0 +1,13 @@
+{:base-link 0
+ :deck-limit 1
+ :faction :shaper
+ :id "sonia-nahar-steadfast-salvager"
+ :influence-limit 15
+ :minimum-deck-size 46
+ :side :runner
+ :subtype [:cyborg :g-mod]
+ :text "You may install [shaper]programs from your heap as if they were in your grip.\nWhenever you install a card from your heap, <br> add a power counter to this identity.\nAs an additional cost to install cards in your heap, pay 1[credit] for every power counter on this identity."
+ :title "Sonia Nahar: Steadfast Salvager"
+ :font-fudge-factor 0.68
+ :type :identity
+ :uniqueness false}

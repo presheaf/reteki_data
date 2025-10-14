@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :nbn
+ :id "engagement-metrics"
+ :influence-cost 3
+ :side :corp
+ :subtype [:advertisement]
+ :text "Place 8[credit] on Engagement Metrics when it is rezzed. When there are no credits left on Engagement Metrics, trash it, and when this turn ends, the Runner takes 1 tag.\nWhen your turn begins, take 2[credit] from Engagement Metrics."
+ :title "Engagement Metrics"
+ :font-fudge-factor 0.90
+ :trash-cost 3
+ :type :asset
+ :flavor "Making people pay attention isn't nearly as useful as <br> knowing who pays attention to what."
+ :uniqueness false}

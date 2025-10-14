@@ -1,0 +1,11 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :nbn
+ :id "gish-gallop"
+ :side :corp
+ :text "If Gish Gallop is installed when your turn begins, you may score it."
+ :title "Gish Gallop"
+ :type :agenda
+ :uniqueness false
+ :flavor "\"Aliens in the Network? It's more likely than you think. Coming up next on BEXPOSED.\" -Bex Gleeson"}

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "port-anson-grid"
+ :influence-cost 2
+ :side :corp
+ :subtype [:region]
+ :text "As an additional cost to jack out during a run on this server, the Runner must trash 1 installed program.\nLimit 1 <strong>region</strong> per server."
+ :title "Port Anson Grid"
+ :trash-cost 5
+ :type :upgrade
+ :uniqueness false}

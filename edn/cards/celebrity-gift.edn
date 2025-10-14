@@ -1,0 +1,11 @@
+{:cost 3
+ :deck-limit 3
+ :faction :jinteki
+ :id "celebrity-gift"
+ :influence-cost 3
+ :side :corp
+ :subtype [:double]
+ :text "As an additional cost to play this operation, spend [click].\nReveal up to 5 cards in HQ. Gain 2[credit] for each card revealed."
+ :title "Celebrity Gift"
+ :type :operation
+ :uniqueness false}

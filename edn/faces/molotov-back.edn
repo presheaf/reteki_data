@@ -1,0 +1,15 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "blaze"
+ :influence-cost 2
+ :memory-cost 0
+ :side :runner
+ :text "1[recurring-credit]\nUse this credit to pay for using <strong>icebreakers</strong> during encounters with host ice.\n
+Host ice has -1 strength."
+ :title "Blaze"
+ :flavor  "Do not be disappointed that the flames missed their target. Be happy that something burns."
+ :type :program
+ :illustrator "DALL-E"
+ :is-flip-side true
+ :uniqueness false}

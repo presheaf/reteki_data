@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "mutate"
+ :influence-cost 3
+ :side :corp
+ :text "As an additional cost to play this operation, trash a rezzed piece of ice.\nReveal cards from the top of R&D until you reveal a piece of ice. Install and rez that ice in the same position as the ice that was trashed, ignoring all costs. Shuffle R&D."
+ :font-fudge-factor 0.95
+ :title "Mutate"
+ :type :operation
+ :uniqueness false}

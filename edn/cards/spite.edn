@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :mako
+ :id "spite"
+ :influence-cost 2
+ :side :runner
+ :subtype [:console]
+ :text "+1[mu]\nAll ice has -1 strength for each virus counter hosted on it.\nWhenever the Corp purges virus counters, they lose 1[credit].\nLimit 1 <strong>console</strong> per player."
+ :title "Spite"
+ :type :hardware
+ :uniqueness true}

@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "mindmap-optimization"
+ :side :corp
+ :text "If the Runner has 2 or fewer cards in their grip and has suffered brain damage, reduce the advancement requirement of Mindmap Optimization by 1.\nAs an additional cost to steal Mindmap Optimization, the Runner must trash 1 card from their grip."
+ :title "Mindmap Optimization"
+ :font-fudge-factor 0.8
+ :flavor "What did you think the remaining three quarters were for?"
+ :type :agenda
+ :uniqueness false}

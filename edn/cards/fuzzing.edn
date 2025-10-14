@@ -1,0 +1,12 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "fuzzing"
+ :influence-cost 4
+ :side :runner
+ :subtype [:sabotage]
+ :text "Create 3 copies of Tinkering and add <br> them to your grip. (When a created card would be moved to your stack or heap, <br> remove it from the game instead.)"
+ :title "Fuzzing"
+ :flavor "\"The most exciting phrase to hear is not 'Eureka!', but 'That's funny...'\" -Isaac Asimov"
+ :type :event
+ :uniqueness false}

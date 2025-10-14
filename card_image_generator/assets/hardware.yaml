@@ -1,0 +1,95 @@
+atoms:
+  influence-pip: atoms/influence_pip.png
+cost:
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+  - 205
+  - 162
+influence-1:
+  loc:
+  - 1633
+  - 2122
+influence-2:
+  loc:
+  - 1633
+  - 2030
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 72
+  loc:
+  - 704
+  - 1429
+template_image:
+  adam: hardware/hardware_adam.png
+  anarch: hardware/hardware_anarch.png
+  apex: hardware/hardware_apex.png
+  criminal: hardware/hardware_criminal.png
+  neutral-runner: hardware/hardware_neutral_runner.png
+  shaper: hardware/hardware_shaper.png
+  sunny-lebeau: hardware/hardware_sunny.png
+  mako: hardware/hardware_mako3.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 76
+  height: 620
+  loc:
+  - 262
+  - 1579
+  width: 1320
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 185
+    - 185
+    - 185
+
+  fontsize: 47
+  loc:
+    - 442
+    - 2278
+set-sym-num:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 185
+    - 185
+    - 185
+  fontsize: 47
+  loc:
+    - 1350
+    - 2278
+
+title:
+  font: fonts/titlefont.otf
+  fontsize: 70
+  loc:
+  - 331
+  - 1229
+type:
+  font: fonts/typefont.ttf
+  fontsize: 80
+  loc:
+  - 234
+  - 1405
+backside-title:
+  center: true
+  font: fonts/titlefont.otf
+  fontsize: 42
+  fontcolor:
+    - 255
+    - 255
+    - 255
+  loc:
+  - 1334
+  - 1077

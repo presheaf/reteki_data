@@ -1,0 +1,11 @@
+{:deck-limit 1
+ :faction :haas-bioroid
+ :id "cerebral-imaging-infinite-frontiers"
+ :influence-limit 15
+ :minimum-deck-size 50
+ :side :corp
+ :subtype [:division]
+ :text "Your maximum hand size is equal to the number of credits in your credit pool."
+ :title "Cerebral Imaging: Infinite Frontiers"
+ :type :identity
+ :uniqueness false}

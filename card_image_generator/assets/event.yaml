@@ -1,0 +1,94 @@
+atoms:
+  influence-pip: atoms/influence_pip.png
+cost:
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+  - 205
+  - 162
+influence-1:
+  loc:
+  - 1635
+  - 2124
+influence-2:
+  loc:
+  - 1635
+  - 2032
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 72
+  loc:
+  - 471
+  - 1517
+template_image:
+  adam: event/event_adam.png
+  anarch: event/event_anarch.png
+  apex: event/event_apex.png
+  criminal: event/event_criminal.png
+  neutral-runner: event/event_neutral_runner.png
+  shaper: event/event_shaper.png
+  sunny-lebeau: event/event_sunny.png
+  mako: event/event_mako3.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 76
+  height: 541
+  loc:
+  - 216
+  - 1661
+  width: 1364
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 190
+    - 190
+    - 190
+
+  fontsize: 47
+  loc:
+    - 35
+    - 2275
+set-sym-num:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 190
+    - 190
+    - 190
+
+  fontsize: 47
+  loc:
+    - 1333
+    - 2270
+title:
+  font: fonts/titlefont.otf
+  fontsize: 72
+  loc:
+  - 389
+  - 91
+type:
+  font: fonts/typefont.ttf
+  fontsize: 76
+  loc:
+  - 188
+  - 1496
+backside-title:
+  center: true
+  font: fonts/titlefont.otf
+  fontsize: 38
+  fontcolor:
+    - 255
+    - 255
+    - 255
+  loc:
+  - 1285
+  - 1416

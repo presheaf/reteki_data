@@ -1,0 +1,14 @@
+{:advancement-requirement 3
+ :agenda-points 2
+ :deck-limit 3
+ :faction :nbn
+ :id "communalink-rollout"
+ :side :corp
+ :text "The Runner's maximum hand size is increased by 1.\nIf the Runner is tagged, your maximum hand size is increased by 2."
+ :title "CommunaLink Rollout"
+ ;; :flavor "Friends don't let friends consume content alone."
+ :flavor "\"They call it a mesh. I call it a leash.\" -Faultline
+
+"
+ :type :agenda
+ :uniqueness false}

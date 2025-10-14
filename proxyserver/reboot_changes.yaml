@@ -1,0 +1,6585 @@
+'01001':
+  change: Influence 15->10
+  id: noise-hacker-extraordinaire
+  ingame_change: false
+  title: 'Noise: Hacker Extraordinaire'
+'01002':
+  change: null
+  id: deja-vu
+  ingame_change: false
+  title: "D\xE9j\xE0 Vu"
+'01003':
+  change: Cost 2->0
+  id: demolition-run
+  ingame_change: true
+  title: Demolition Run
+'01004':
+  change: null
+  id: stimhack
+  ingame_change: false
+  title: Stimhack
+'01005':
+  change: Cost 2->1
+  id: cyberfeeder
+  ingame_change: true
+  title: Cyberfeeder
+'01006':
+  change: null
+  id: grimoire
+  ingame_change: false
+  title: Grimoire
+'01007':
+  change: null
+  id: corroder
+  ingame_change: false
+  title: Corroder
+01008:
+  change: null
+  id: datasucker
+  ingame_change: false
+  title: Datasucker
+01009:
+  change: Cost 2->1
+  id: djinn
+  ingame_change: true
+  title: Djinn
+'01010':
+  change: null
+  id: medium
+  ingame_change: false
+  title: Medium
+'01011':
+  change: null
+  id: mimic
+  ingame_change: false
+  title: Mimic
+'01012':
+  change: Cost 2->3
+  id: parasite
+  ingame_change: true
+  title: Parasite
+'01013':
+  change: Base strength 1->2
+  id: wyrm
+  ingame_change: true
+  title: Wyrm
+'01014':
+  change: Cost 5->6
+  id: yog-0
+  ingame_change: true
+  title: Yog.0
+'01015':
+  change: null
+  id: ice-carver
+  ingame_change: false
+  title: Ice Carver
+'01016':
+  change: Cost 3->2
+  id: wyldside
+  ingame_change: true
+  title: Wyldside
+'01017':
+  change: Influence 15->17
+  id: gabriel-santiago-consummate-professional
+  ingame_change: false
+  title: 'Gabriel Santiago: Consummate Professional'
+01018:
+  change: Cost 0->2
+  id: account-siphon
+  ingame_change: true
+  title: Account Siphon
+01019:
+  change: null
+  id: easy-mark
+  ingame_change: false
+  title: Easy Mark
+'01020':
+  change: Cost 1->0
+  id: forged-activation-orders
+  ingame_change: true
+  title: Forged Activation Orders
+'01021':
+  change: null
+  id: inside-job
+  ingame_change: false
+  title: Inside Job
+'01022':
+  change: null
+  id: special-order
+  ingame_change: false
+  title: Special Order
+'01023':
+  change: Ability Cost 1->0
+  id: lemuria-codecracker
+  ingame_change: true
+  title: Lemuria Codecracker
+'01024':
+  change: MU 1->0
+  id: desperado
+  ingame_change: true
+  title: Desperado
+'01025':
+  change: Subs broken 1->2
+  id: aurora
+  ingame_change: true
+  title: Aurora
+'01026':
+  change: null
+  id: femme-fatale
+  ingame_change: false
+  title: Femme Fatale
+'01027':
+  change: Boost Cost 3->2
+  id: ninja
+  ingame_change: true
+  title: Ninja
+01028:
+  change: null
+  id: sneakdoor-beta
+  ingame_change: false
+  title: Sneakdoor Beta
+01029:
+  change: null
+  id: bank-job
+  ingame_change: false
+  title: Bank Job
+'01030':
+  change: Cost 2->1
+  id: crash-space
+  ingame_change: true
+  title: Crash Space
+'01031':
+  change: null
+  id: data-dealer
+  ingame_change: false
+  title: Data Dealer
+'01032':
+  change: null
+  id: decoy
+  ingame_change: false
+  title: Decoy
+'01033':
+  change: Link 1->0
+  id: kate-mac-mccaffrey-digital-tinker
+  ingame_change: true
+  title: 'Kate "Mac" McCaffrey: Digital Tinker'
+'01034':
+  change: null
+  id: diesel
+  ingame_change: false
+  title: Diesel
+'01035':
+  change: null
+  id: modded
+  ingame_change: false
+  title: Modded
+'01036':
+  change: null
+  id: the-maker-s-eye
+  ingame_change: false
+  title: The Maker's Eye
+'01037':
+  change: null
+  id: tinkering
+  ingame_change: false
+  title: Tinkering
+01038:
+  change: null
+  id: akamatsu-mem-chip
+  ingame_change: false
+  title: Akamatsu Mem Chip
+01039:
+  change: null
+  id: rabbit-hole
+  ingame_change: false
+  title: Rabbit Hole
+'01040':
+  change: Cost 2->1
+  id: the-personal-touch
+  ingame_change: true
+  title: The Personal Touch
+'01041':
+  change: Cost 9->7
+  id: the-toolbox
+  ingame_change: true
+  title: The Toolbox
+'01042':
+  change: Cost 5->3
+  id: battering-ram
+  ingame_change: true
+  title: Battering Ram
+'01043':
+  change: null
+  id: gordian-blade
+  ingame_change: false
+  title: Gordian Blade
+'01044':
+  change: null
+  id: magnum-opus
+  ingame_change: false
+  title: Magnum Opus
+'01045':
+  change: null
+  id: net-shield
+  ingame_change: false
+  title: Net Shield
+'01046':
+  change: Strength Gain 1->2
+  id: pipeline
+  ingame_change: true
+  title: Pipeline
+'01047':
+  change: Cost 1->2
+  id: aesop-s-pawnshop
+  ingame_change: true
+  title: Aesop's Pawnshop
+01048:
+  change: null
+  id: sacrificial-construct
+  ingame_change: false
+  title: Sacrificial Construct
+01049:
+  change: null
+  id: infiltration
+  ingame_change: false
+  title: Infiltration
+'01050':
+  change: null
+  id: sure-gamble
+  ingame_change: false
+  title: Sure Gamble
+'01051':
+  change: null
+  id: crypsis
+  ingame_change: false
+  title: Crypsis
+'01052':
+  change: null
+  id: access-to-globalsec
+  ingame_change: false
+  title: Access to Globalsec
+'01053':
+  change: Credits 12->16
+  id: armitage-codebusting
+  ingame_change: true
+  title: Armitage Codebusting
+'01054':
+  change: Influence 15->12
+  id: haas-bioroid-engineering-the-future
+  ingame_change: false
+  title: 'Haas-Bioroid: Engineering the Future'
+'01055':
+  change: Cards Looked At 3->2
+  id: accelerated-beta-test
+  ingame_change: true
+  title: Accelerated Beta Test
+'01056':
+  change: null
+  id: adonis-campaign
+  ingame_change: false
+  title: Adonis Campaign
+'01057':
+  change: Trash Cost 0->2
+  id: aggressive-secretary
+  ingame_change: true
+  title: Aggressive Secretary
+01058:
+  change: null
+  id: archived-memories
+  ingame_change: false
+  title: Archived Memories
+01059:
+  change: Influence 4->5
+  id: biotic-labor
+  ingame_change: false
+  title: Biotic Labor
+'01060':
+  change: null
+  id: shipment-from-mirrormorph
+  ingame_change: false
+  title: Shipment from MirrorMorph
+'01061':
+  change: Cost 8->6
+  id: heimdall-1-0
+  ingame_change: true
+  title: Heimdall 1.0
+'01062':
+  change: null
+  id: ichi-1-0
+  ingame_change: false
+  title: Ichi 1.0
+'01063':
+  change: Strength 3->4
+  id: viktor-1-0
+  ingame_change: true
+  title: Viktor 1.0
+'01064':
+  change: Strength 0->1
+  id: rototurret
+  ingame_change: true
+  title: Rototurret
+'01065':
+  change: Trash Cost 2->3
+  id: corporate-troubleshooter
+  ingame_change: true
+  title: Corporate Troubleshooter
+'01066':
+  change: Strength gain 1->2
+  id: experiential-data
+  ingame_change: true
+  title: Experiential Data
+'01067':
+  change: Influence 15->17
+  id: jinteki-personal-evolution
+  ingame_change: false
+  title: 'Jinteki: Personal Evolution'
+01068:
+  change: null
+  id: nisei-mk-ii
+  ingame_change: false
+  title: Nisei MK II
+01069:
+  change: Trash Cost 0->2
+  id: project-junebug
+  ingame_change: true
+  title: Project Junebug
+'01070':
+  change: null
+  id: snare
+  ingame_change: false
+  title: Snare!
+'01071':
+  change: Trash Cost 4->7
+  id: zaibatsu-loyalty
+  ingame_change: true
+  title: Zaibatsu Loyalty
+'01072':
+  change: Cost 2->1
+  id: neural-emp
+  ingame_change: true
+  title: Neural EMP
+'01073':
+  change: Cards looked at 5->7
+  id: precognition
+  ingame_change: true
+  title: Precognition
+'01074':
+  change: Cost 5->3
+  id: cell-portal
+  ingame_change: true
+  title: Cell Portal
+'01075':
+  change: Strength Increase 2->4
+  id: chum
+  ingame_change: true
+  title: Chum
+'01076':
+  change: Damage 1->2
+  id: data-mine
+  ingame_change: true
+  title: Data Mine
+'01077':
+  change: Cost 4->2
+  id: neural-katana
+  ingame_change: true
+  title: Neural Katana
+01078:
+  change: Cost 8->6
+  id: wall-of-thorns
+  ingame_change: true
+  title: Wall of Thorns
+01079:
+  change: Cost 1->0
+  id: akitaro-watanabe
+  ingame_change: true
+  title: Akitaro Watanabe
+01080:
+  change: Influence 15->17
+  id: nbn-making-news
+  ingame_change: false
+  title: 'NBN: Making News'
+01081:
+  change: Counter cannot be added to a card installed this turn.
+  id: astroscript-pilot-program
+  ingame_change: true
+  title: AstroScript Pilot Program
+01082:
+  change: Tags 2->1
+  id: breaking-news
+  ingame_change: true
+  title: Breaking News
+01083:
+  change: null
+  id: anonymous-tip
+  ingame_change: false
+  title: Anonymous Tip
+01084:
+  change: null
+  id: closed-accounts
+  ingame_change: false
+  title: Closed Accounts
+01085:
+  change: null
+  id: psychographics
+  ingame_change: false
+  title: Psychographics
+01086:
+  change: null
+  id: sea-source
+  ingame_change: false
+  title: SEA Source
+01087:
+  change: Trash Cost 0->3
+  id: ghost-branch
+  ingame_change: true
+  title: Ghost Branch
+01088:
+  change: null
+  id: data-raven
+  ingame_change: false
+  title: Data Raven
+01089:
+  change: Trace Strength 2->4
+  id: matrix-analyzer
+  ingame_change: true
+  title: Matrix Analyzer
+01090:
+  change: null
+  id: tollbooth
+  ingame_change: false
+  title: Tollbooth
+01091:
+  change: Trash Cost 1->4
+  id: red-herrings
+  ingame_change: true
+  title: Red Herrings
+01092:
+  change: Trash Cost 5->4
+  id: sansan-city-grid
+  ingame_change: true
+  title: SanSan City Grid
+01093:
+  change: null
+  id: weyland-consortium-building-a-better-world
+  ingame_change: false
+  title: 'Weyland Consortium: Building a Better World'
+01094:
+  change: null
+  id: hostile-takeover
+  ingame_change: false
+  title: Hostile Takeover
+01095:
+  change: Points 1->2
+  id: posted-bounty
+  ingame_change: true
+  title: Posted Bounty
+01096:
+  change: Credits Gained 4->6
+  id: security-subcontract
+  ingame_change: true
+  title: Security Subcontract
+01097:
+  change: Cards Searched for 1->2
+  id: aggressive-negotiation
+  ingame_change: true
+  title: Aggressive Negotiation
+01098:
+  change: null
+  id: beanstalk-royalties
+  ingame_change: false
+  title: Beanstalk Royalties
+01099:
+  change: Influence 4->5
+  id: scorched-earth
+  ingame_change: false
+  title: Scorched Earth
+'01100':
+  change: null
+  id: shipment-from-kaguya
+  ingame_change: false
+  title: Shipment from Kaguya
+'01101':
+  change: null
+  id: archer
+  ingame_change: false
+  title: Archer
+'01102':
+  change: Cost 10->7
+  id: hadrian-s-wall
+  ingame_change: true
+  title: Hadrian's Wall
+'01103':
+  change: null
+  id: ice-wall
+  ingame_change: false
+  title: Ice Wall
+'01104':
+  change: Cost 3->2
+  id: shadow
+  ingame_change: true
+  title: Shadow
+'01105':
+  change: Trash Cost 3->6
+  id: research-station
+  ingame_change: true
+  title: Research Station
+'01106':
+  change: Ice Rezzed 1->2
+  id: priority-requisition
+  ingame_change: true
+  title: Priority Requisition
+'01107':
+  change: null
+  id: private-security-force
+  ingame_change: false
+  title: Private Security Force
+01108:
+  change: Trash Cost 1->2
+  id: melange-mining-corp
+  ingame_change: true
+  title: Melange Mining Corp.
+01109:
+  change: null
+  id: pad-campaign
+  ingame_change: false
+  title: PAD Campaign
+'01110':
+  change: null
+  id: hedge-fund
+  ingame_change: false
+  title: Hedge Fund
+'01111':
+  change: null
+  id: enigma
+  ingame_change: false
+  title: Enigma
+'01112':
+  change: Strength 4->5
+  id: hunter
+  ingame_change: true
+  title: Hunter
+'01113':
+  change: null
+  id: wall-of-static
+  ingame_change: false
+  title: Wall of Static
+'02001':
+  change: Influence 15->12
+  id: whizzard-master-gamer
+  ingame_change: false
+  title: 'Whizzard: Master Gamer'
+'02002':
+  change: Cost 4->3
+  id: spinal-modem
+  ingame_change: true
+  title: Spinal Modem
+'02003':
+  change: null
+  id: imp
+  ingame_change: false
+  title: Imp
+'02004':
+  change: Cost 8->7
+  id: morning-star
+  ingame_change: true
+  title: Morning Star
+'02005':
+  change: Rez Cost Increase 2->3
+  id: cortez-chip
+  ingame_change: true
+  title: Cortez Chip
+'02006':
+  change: Cost 3->2
+  id: peacock
+  ingame_change: true
+  title: Peacock
+'02007':
+  change: Cost 1->0
+  id: zu-13-key-master
+  ingame_change: true
+  title: ZU.13 Key Master
+02008:
+  change: Cost 2->1
+  id: the-helpful-ai
+  ingame_change: true
+  title: The Helpful AI
+02009:
+  change: null
+  id: plascrete-carapace
+  ingame_change: false
+  title: Plascrete Carapace
+'02010':
+  change: Deck Size 45->40, Influence 15->20
+  id: haas-bioroid-stronger-together
+  ingame_change: false
+  title: 'Haas-Bioroid: Stronger Together'
+'02011':
+  change: null
+  id: mandatory-upgrades
+  ingame_change: false
+  title: Mandatory Upgrades
+'02012':
+  change: Cost 15->12
+  id: janus-1-0
+  ingame_change: true
+  title: Janus 1.0
+'02013':
+  change: null
+  id: ash-2x3zb9cy
+  ingame_change: false
+  title: Ash 2X3ZB9CY
+'02014':
+  change: Number of couters beyond required 2->1
+  id: braintrust
+  ingame_change: true
+  title: Braintrust
+'02015':
+  change: Strength 3->4
+  id: snowflake
+  ingame_change: true
+  title: Snowflake
+'02016':
+  change: Trace Strength 2->3
+  id: restructured-datapool
+  ingame_change: true
+  title: Restructured Datapool
+'02017':
+  change: Trace Strength 2->3
+  id: tmi
+  ingame_change: true
+  title: TMI
+02018:
+  change: null
+  id: project-atlas
+  ingame_change: false
+  title: Project Atlas
+02019:
+  change: null
+  id: caduceus
+  ingame_change: false
+  title: Caduceus
+'02020':
+  change: Trace Strength 2->3
+  id: draco
+  ingame_change: true
+  title: "Drac\u014D"
+'02021':
+  change: Cost 0->2
+  id: vamp
+  ingame_change: true
+  title: Vamp
+'02022':
+  change: null
+  id: liberated-account
+  ingame_change: false
+  title: Liberated Account
+'02023':
+  change: Cards Exposed 2->3
+  id: satellite-uplink
+  ingame_change: true
+  title: Satellite Uplink
+'02024':
+  change: null
+  id: e3-feedback-implants
+  ingame_change: false
+  title: e3 Feedback Implants
+'02025':
+  change: Cost 2->1
+  id: compromised-employee
+  ingame_change: true
+  title: Compromised Employee
+'02026':
+  change: Cost 1->4
+  id: notoriety
+  ingame_change: true
+  title: Notoriety
+'02027':
+  change: Cost 4->3
+  id: snowball
+  ingame_change: true
+  title: Snowball
+02028:
+  change: Cost 3->2
+  id: dyson-mem-chip
+  ingame_change: true
+  title: Dyson Mem Chip
+02029:
+  change: null
+  id: encryption-protocol
+  ingame_change: false
+  title: Encryption Protocol
+'02030':
+  change: Strength 5->6
+  id: sherlock-1-0
+  ingame_change: true
+  title: Sherlock 1.0
+'02031':
+  change: null
+  id: jinteki-replicating-perfection
+  ingame_change: false
+  title: 'Jinteki: Replicating Perfection'
+'02032':
+  change: Advancement Cost 5->4
+  id: fetal-ai
+  ingame_change: true
+  title: Fetal AI
+'02033':
+  change: null
+  id: trick-of-light
+  ingame_change: false
+  title: Trick of Light
+'02034':
+  change: Cost 3->0
+  id: sensei
+  ingame_change: true
+  title: Sensei
+'02035':
+  change: Tags added 2->4
+  id: big-brother
+  ingame_change: true
+  title: Big Brother
+'02036':
+  change: Cost 3->1
+  id: chilo-city-grid
+  ingame_change: true
+  title: ChiLo City Grid
+'02037':
+  change: null
+  id: power-grid-overload
+  ingame_change: false
+  title: Power Grid Overload
+02038:
+  change: Cost 4->1
+  id: amazon-industrial-zone
+  ingame_change: true
+  title: Amazon Industrial Zone
+02039:
+  change: Agenda Counters 1->2
+  id: executive-retreat
+  ingame_change: true
+  title: Executive Retreat
+'02040':
+  change: Resources Trashed 2->4
+  id: freelancer
+  ingame_change: true
+  title: Freelancer
+'02041':
+  change: Cost 3->2
+  id: nerve-agent
+  ingame_change: true
+  title: Nerve Agent
+'02042':
+  change: null
+  id: joshua-b
+  ingame_change: false
+  title: Joshua B.
+'02043':
+  change: null
+  id: emergency-shutdown
+  ingame_change: false
+  title: Emergency Shutdown
+'02044':
+  change: Damage Prevented 1->2
+  id: muresh-bodysuit
+  ingame_change: true
+  title: Muresh Bodysuit
+'02045':
+  change: null
+  id: snitch
+  ingame_change: false
+  title: Snitch
+'02046':
+  change: MU 1->2
+  id: chaos-theory-wunderkind
+  ingame_change: true
+  title: "Chaos Theory: W\xFCnderkind"
+'02047':
+  change: Cost 3->2
+  id: test-run
+  ingame_change: true
+  title: Test Run
+02048:
+  change: Cost 5->3
+  id: dinosaurus
+  ingame_change: true
+  title: Dinosaurus
+02049:
+  change: null
+  id: personal-workshop
+  ingame_change: false
+  title: Personal Workshop
+'02050':
+  change: Cost 2->0
+  id: public-sympathy
+  ingame_change: true
+  title: Public Sympathy
+'02051':
+  change: null
+  id: project-vitruvius
+  ingame_change: false
+  title: Project Vitruvius
+'02052':
+  change: null
+  id: viper
+  ingame_change: false
+  title: Viper
+'02053':
+  change: Trash Cost 0->2
+  id: edge-of-world
+  ingame_change: true
+  title: Edge of World
+'02054':
+  change: null
+  id: sunset
+  ingame_change: false
+  title: Sunset
+'02055':
+  change: Credits hosted 3->4
+  id: marked-accounts
+  ingame_change: true
+  title: Marked Accounts
+'02056':
+  change: null
+  id: pop-up-window
+  ingame_change: false
+  title: Pop-up Window
+'02057':
+  change: Cost 4->0
+  id: woodcutter
+  ingame_change: true
+  title: Woodcutter
+02058:
+  change: null
+  id: commercialization
+  ingame_change: false
+  title: Commercialization
+02059:
+  change: Cost 3->2
+  id: private-contracts
+  ingame_change: true
+  title: Private Contracts
+'02060':
+  change: Strength 0->1
+  id: chimera
+  ingame_change: true
+  title: Chimera
+'02061':
+  change: Cost 1->0
+  id: disrupter
+  ingame_change: true
+  title: Disrupter
+'02062':
+  change: Cost 5->2
+  id: force-of-nature
+  ingame_change: true
+  title: Force of Nature
+'02063':
+  change: null
+  id: scrubber
+  ingame_change: false
+  title: Scrubber
+'02064':
+  change: Cost 3->1
+  id: doppelganger
+  ingame_change: true
+  title: "Doppelg\xE4nger"
+'02065':
+  change: null
+  id: crescentus
+  ingame_change: false
+  title: Crescentus
+'02066':
+  change: null
+  id: deus-x
+  ingame_change: false
+  title: Deus X
+'02067':
+  change: null
+  id: all-nighter
+  ingame_change: false
+  title: All-nighter
+02068:
+  change: Cost 3->1
+  id: inside-man
+  ingame_change: true
+  title: Inside Man
+02069:
+  change: null
+  id: underworld-contact
+  ingame_change: false
+  title: Underworld Contact
+'02070':
+  change: Cards Drawn 1->2
+  id: green-level-clearance
+  ingame_change: true
+  title: Green Level Clearance
+'02071':
+  change: Cost 5->1
+  id: hourglass
+  ingame_change: true
+  title: Hourglass
+'02072':
+  change: Cost 3->1
+  id: dedicated-server
+  ingame_change: true
+  title: Dedicated Server
+'02073':
+  change: Cost 3->0
+  id: bullfrog
+  ingame_change: true
+  title: Bullfrog
+'02074':
+  change: Cost 6->4
+  id: uroboros
+  ingame_change: true
+  title: Uroboros
+'02075':
+  change: Trash Cost 1->5
+  id: net-police
+  ingame_change: true
+  title: Net Police
+'02076':
+  change: Influence 15->22
+  id: weyland-consortium-because-we-built-it
+  ingame_change: false
+  title: 'Weyland Consortium: Because We Built It'
+'02077':
+  change: Credits gained 4->5
+  id: government-contracts
+  ingame_change: true
+  title: Government Contracts
+02078:
+  change: Cost 7->5
+  id: tyrant
+  ingame_change: true
+  title: Tyrant
+02079:
+  change: Cost 1->2
+  id: oversight-ai
+  ingame_change: true
+  title: Oversight AI
+02080:
+  change: null
+  id: false-lead
+  ingame_change: false
+  title: False Lead
+02081:
+  change: null
+  id: surge
+  ingame_change: false
+  title: Surge
+02082:
+  change: null
+  id: xanadu
+  ingame_change: false
+  title: Xanadu
+02083:
+  change: Link 1->0
+  id: andromeda-dispossessed-ristie
+  ingame_change: true
+  title: 'Andromeda: Dispossessed Ristie'
+02084:
+  change: null
+  id: networking
+  ingame_change: false
+  title: Networking
+02085:
+  change: Cost 4->2
+  id: hq-interface
+  ingame_change: true
+  title: HQ Interface
+02086:
+  change: Cost 2->1
+  id: pheromones
+  ingame_change: true
+  title: Pheromones
+02087:
+  change: null
+  id: quality-time
+  ingame_change: false
+  title: Quality Time
+02088:
+  change: null
+  id: replicator
+  ingame_change: false
+  title: Replicator
+02089:
+  change: Cost 5->1
+  id: creeper
+  ingame_change: true
+  title: Creeper
+02090:
+  change: Cost 3->1
+  id: kraken
+  ingame_change: true
+  title: Kraken
+02091:
+  change: null
+  id: kati-jones
+  ingame_change: false
+  title: Kati Jones
+02092:
+  change: Cost 5->4
+  id: eve-campaign
+  ingame_change: true
+  title: Eve Campaign
+02093:
+  change: Cards Shuffled 1->3
+  id: rework
+  ingame_change: true
+  title: Rework
+02094:
+  change: null
+  id: whirlpool
+  ingame_change: false
+  title: Whirlpool
+02095:
+  change: Cost 2->1
+  id: hokusai-grid
+  ingame_change: true
+  title: Hokusai Grid
+02096:
+  change: Trace Strength 2->6
+  id: data-hound
+  ingame_change: true
+  title: Data Hound
+02097:
+  change: null
+  id: bernice-mai
+  ingame_change: false
+  title: Bernice Mai
+02098:
+  change: Cost 2->0
+  id: salvage
+  ingame_change: true
+  title: Salvage
+02099:
+  change: Cost 4->2
+  id: simone-diego
+  ingame_change: true
+  title: Simone Diego
+'02100':
+  change: null
+  id: foxfire
+  ingame_change: false
+  title: Foxfire
+'02101':
+  change: null
+  id: retrieval-run
+  ingame_change: false
+  title: Retrieval Run
+'02102':
+  change: Strength X -> X+1
+  id: darwin
+  ingame_change: true
+  title: Darwin
+'02103':
+  change: Influence 1->3
+  id: data-leak-reversal
+  ingame_change: false
+  title: Data Leak Reversal
+'02104':
+  change: null
+  id: faerie
+  ingame_change: false
+  title: Faerie
+'02105':
+  change: Cost 3->1
+  id: mr-li
+  ingame_change: true
+  title: Mr. Li
+'02106':
+  change: Cost 0->1
+  id: indexing
+  ingame_change: true
+  title: Indexing
+'02107':
+  change: null
+  id: r-d-interface
+  ingame_change: false
+  title: R&D Interface
+02108:
+  change: Virus Counters Required 3->2
+  id: deep-thought
+  ingame_change: true
+  title: Deep Thought
+02109:
+  change: null
+  id: new-angeles-city-hall
+  ingame_change: false
+  title: New Angeles City Hall
+'02110':
+  change: null
+  id: eli-1-0
+  ingame_change: false
+  title: Eli 1.0
+'02111':
+  change: Cost 6->3
+  id: ruhr-valley
+  ingame_change: true
+  title: Ruhr Valley
+'02112':
+  change: null
+  id: ronin
+  ingame_change: false
+  title: Ronin
+'02113':
+  change: Trash Cost 3->5
+  id: midori
+  ingame_change: true
+  title: Midori
+'02114':
+  change: Handsize increase 1->3
+  id: nbn-the-world-is-yours
+  ingame_change: true
+  title: 'NBN: The World is Yours*'
+'02115':
+  change: null
+  id: project-beale
+  ingame_change: false
+  title: Project Beale
+'02116':
+  change: Trace Strength 6->3
+  id: midseason-replacements
+  ingame_change: true
+  title: Midseason Replacements
+'02117':
+  change: Cost 9->7
+  id: flare
+  ingame_change: true
+  title: Flare
+02118:
+  change: Trash Cost 3->4
+  id: dedicated-response-team
+  ingame_change: true
+  title: Dedicated Response Team
+02119:
+  change: Trace value 0->4
+  id: burke-bugs
+  ingame_change: true
+  title: Burke Bugs
+'02120':
+  change: Credits required 7->5
+  id: corporate-war
+  ingame_change: true
+  title: Corporate War
+'03001':
+  change: Deck Size 45->50
+  id: cerebral-imaging-infinite-frontiers
+  ingame_change: false
+  title: 'Cerebral Imaging: Infinite Frontiers'
+'03002':
+  change: Influence 22->28
+  id: custom-biotics-engineered-for-success
+  ingame_change: false
+  title: 'Custom Biotics: Engineered for Success'
+'03003':
+  change: Influence 12->17
+  id: next-design-guarding-the-net
+  ingame_change: false
+  title: 'NEXT Design: Guarding the Net'
+'03004':
+  change: null
+  id: director-haas-pet-project
+  ingame_change: false
+  title: Director Haas' Pet Project
+'03005':
+  change: null
+  id: efficiency-committee
+  ingame_change: false
+  title: Efficiency Committee
+'03006':
+  change: Agenda Counters 3->6
+  id: project-wotan
+  ingame_change: true
+  title: Project Wotan
+'03007':
+  change: Net damage dealt 1->2
+  id: sentinel-defense-program
+  ingame_change: true
+  title: Sentinel Defense Program
+03008:
+  change: Trash Cost 2->4
+  id: alix-t4lb07
+  ingame_change: true
+  title: Alix T4LB07
+03009:
+  change: Trash Cost 0->2
+  id: cerebral-overwriter
+  ingame_change: true
+  title: Cerebral Overwriter
+'03010':
+  change: Points worth to runner 2->1
+  id: director-haas
+  ingame_change: true
+  title: Director Haas
+'03011':
+  change: Cost 2->1
+  id: haas-arcology-ai
+  ingame_change: true
+  title: Haas Arcology AI
+'03012':
+  change: Credits Per Counter 2->3
+  id: thomas-haas
+  ingame_change: true
+  title: Thomas Haas
+'03013':
+  change: Cost 3->2
+  id: bioroid-efficiency-research
+  ingame_change: true
+  title: Bioroid Efficiency Research
+'03014':
+  change: Credits Gained 7->8
+  id: successful-demonstration
+  ingame_change: true
+  title: Successful Demonstration
+'03015':
+  change: Cost 11->8
+  id: heimdall-2-0
+  ingame_change: true
+  title: Heimdall 2.0
+'03016':
+  change: Cost 1->0
+  id: howler
+  ingame_change: true
+  title: Howler
+'03017':
+  change: Strength 5->6
+  id: ichi-2-0
+  ingame_change: true
+  title: Ichi 2.0
+03018:
+  change: Cost 1->0
+  id: minelayer
+  ingame_change: true
+  title: Minelayer
+03019:
+  change: Strength 5->6
+  id: viktor-2-0
+  ingame_change: true
+  title: Viktor 2.0
+'03020':
+  change: Strength 2->5
+  id: zed-1-0
+  ingame_change: true
+  title: Zed 1.0
+'03021':
+  change: null
+  id: awakening-center
+  ingame_change: false
+  title: Awakening Center
+'03022':
+  change: Cost 1->0
+  id: tyr-s-hand
+  ingame_change: true
+  title: Tyr's Hand
+'03023':
+  change: null
+  id: gila-hands-arcology
+  ingame_change: false
+  title: Gila Hands Arcology
+'03024':
+  change: Cost 3->0
+  id: levy-university
+  ingame_change: true
+  title: Levy University
+'03025':
+  change: Cost 3->2
+  id: server-diagnostics
+  ingame_change: true
+  title: Server Diagnostics
+'03026':
+  change: null
+  id: bastion
+  ingame_change: false
+  title: Bastion
+'03027':
+  change: Strength 2->3
+  id: datapike
+  ingame_change: true
+  title: Datapike
+03028:
+  change: null
+  id: rielle-kit-peddler-transhuman
+  ingame_change: false
+  title: 'Rielle "Kit" Peddler: Transhuman'
+03029:
+  change: Link 0->1
+  id: the-professor-keeper-of-knowledge
+  ingame_change: true
+  title: 'The Professor: Keeper of Knowledge'
+'03030':
+  change: Cards drawn 1->2
+  id: exile-streethawk
+  ingame_change: true
+  title: 'Exile: Streethawk'
+'03031':
+  change: null
+  id: escher
+  ingame_change: false
+  title: Escher
+'03032':
+  change: Cost 1->0
+  id: exploratory-romp
+  ingame_change: true
+  title: Exploratory Romp
+'03033':
+  change: Credits gained +2 flat (still 2 per card trashed)
+  id: freelance-coding-contract
+  ingame_change: true
+  title: Freelance Coding Contract
+'03034':
+  change: null
+  id: scavenge
+  ingame_change: false
+  title: Scavenge
+'03035':
+  change: null
+  id: levy-ar-lab-access
+  ingame_change: false
+  title: Levy AR Lab Access
+'03036':
+  change: Cost 18->12
+  id: monolith
+  ingame_change: true
+  title: Monolith
+'03037':
+  change: null
+  id: feedback-filter
+  ingame_change: false
+  title: Feedback Filter
+03038:
+  change: Influence 2->3
+  id: clone-chip
+  ingame_change: false
+  title: Clone Chip
+03039:
+  change: Cost 3->2
+  id: omni-drive
+  ingame_change: true
+  title: Omni-drive
+'03040':
+  change: Cost 3->4
+  id: atman
+  ingame_change: true
+  title: Atman
+'03041':
+  change: Inf 2->1
+  id: cloak
+  ingame_change: false
+  title: Cloak
+'03042':
+  change: null
+  id: dagger
+  ingame_change: false
+  title: Dagger
+'03043':
+  change: null
+  id: chakana
+  ingame_change: false
+  title: Chakana
+'03044':
+  change: null
+  id: cyber-cypher
+  ingame_change: false
+  title: Cyber-Cypher
+'03045':
+  change: null
+  id: paricia
+  ingame_change: false
+  title: Paricia
+'03046':
+  change: null
+  id: self-modifying-code
+  ingame_change: false
+  title: Self-modifying Code
+'03047':
+  change: Cost 2->1
+  id: sahasrara
+  ingame_change: true
+  title: Sahasrara
+03048:
+  change: null
+  id: inti
+  ingame_change: false
+  title: Inti
+03049:
+  change: null
+  id: professional-contacts
+  ingame_change: false
+  title: Professional Contacts
+'03050':
+  change: Handsize Increase 1->3
+  id: borrowed-satellite
+  ingame_change: true
+  title: Borrowed Satellite
+'03051':
+  change: null
+  id: ice-analyzer
+  ingame_change: false
+  title: Ice Analyzer
+'03052':
+  change: null
+  id: dirty-laundry
+  ingame_change: false
+  title: Dirty Laundry
+'03053':
+  change: null
+  id: daily-casts
+  ingame_change: false
+  title: Daily Casts
+'03054':
+  change: Cost 0->1
+  id: same-old-thing
+  ingame_change: true
+  title: Same Old Thing
+'03055':
+  change: null
+  id: the-source
+  ingame_change: false
+  title: The Source
+'04001':
+  change: Cost 1->0
+  id: frame-job
+  ingame_change: true
+  title: Frame Job
+'04002':
+  change: Limit 1 Per Deck
+  id: pawn
+  ingame_change: false
+  title: Pawn
+'04003':
+  change: Cost 2->1
+  id: rook
+  ingame_change: true
+  title: Rook
+'04004':
+  change: Cost 1->0
+  id: hostage
+  ingame_change: true
+  title: Hostage
+'04005':
+  change: null
+  id: gorman-drip-v1
+  ingame_change: false
+  title: Gorman Drip v1
+'04006':
+  change: null
+  id: lockpick
+  ingame_change: false
+  title: Lockpick
+'04007':
+  change: Cost 1->0
+  id: false-echo
+  ingame_change: true
+  title: False Echo
+04008:
+  change: null
+  id: motivation
+  ingame_change: false
+  title: Motivation
+04009:
+  change: null
+  id: john-masanori
+  ingame_change: false
+  title: John Masanori
+'04010':
+  change: Beyond 4->2
+  id: project-ares
+  ingame_change: true
+  title: Project Ares
+'04011':
+  change: null
+  id: next-bronze
+  ingame_change: false
+  title: NEXT Bronze
+'04012':
+  change: null
+  id: celebrity-gift
+  ingame_change: false
+  title: Celebrity Gift
+'04013':
+  change: null
+  id: himitsu-bako
+  ingame_change: false
+  title: Himitsu-Bako
+'04014':
+  change: Resources Trashed 1->2
+  id: character-assassination
+  ingame_change: true
+  title: Character Assassination
+'04015':
+  change: Trash Cost 3->2
+  id: jackson-howard
+  ingame_change: true
+  title: Jackson Howard
+'04016':
+  change: Cost 2->0
+  id: invasion-of-privacy
+  ingame_change: true
+  title: Invasion of Privacy
+'04017':
+  change: Credits Gained 7->9
+  id: geothermal-fracking
+  ingame_change: true
+  title: Geothermal Fracking
+04018:
+  change: Cost 8->3
+  id: swarm
+  ingame_change: true
+  title: Swarm
+04019:
+  change: null
+  id: cyberdex-trial
+  ingame_change: false
+  title: Cyberdex Trial
+'04020':
+  change: Cost 5->4
+  id: grim
+  ingame_change: true
+  title: Grim
+'04021':
+  change: Strength Reduction 2->3
+  id: bishop
+  ingame_change: true
+  title: Bishop
+'04022':
+  change: null
+  id: scheherazade
+  ingame_change: false
+  title: Scheherazade
+'04023':
+  change: Cost 5->2
+  id: hard-at-work
+  ingame_change: true
+  title: Hard at Work
+'04024':
+  change: Cost 1->0
+  id: recon
+  ingame_change: true
+  title: Recon
+'04025':
+  change: MU 1->0
+  id: copycat
+  ingame_change: true
+  title: Copycat
+'04026':
+  change: Cost to boost 3->1
+  id: leviathan
+  ingame_change: true
+  title: Leviathan
+'04027':
+  change: Cost 3->0
+  id: eureka
+  ingame_change: true
+  title: Eureka!
+04028:
+  change: false
+  id: record-reconstructor
+  ingame_change: false
+  title: Record Reconstructor
+04029:
+  change: null
+  id: prepaid-voicepad
+  ingame_change: false
+  title: Prepaid VoicePAD
+'04030':
+  change: Cost 14->10
+  id: wotan
+  ingame_change: true
+  title: Wotan
+'04031':
+  change: Trace Strength 2->5
+  id: hellion-alpha-test
+  ingame_change: true
+  title: Hellion Alpha Test
+'04032':
+  change: null
+  id: clone-retirement
+  ingame_change: false
+  title: Clone Retirement
+'04033':
+  change: null
+  id: swordsman
+  ingame_change: false
+  title: Swordsman
+'04034':
+  change: null
+  id: shipment-from-sansan
+  ingame_change: false
+  title: Shipment from SanSan
+'04035':
+  change: Strength 3->4
+  id: muckraker
+  ingame_change: true
+  title: Muckraker
+'04036':
+  change: Damage Increase 1->2
+  id: the-cleaners
+  ingame_change: true
+  title: The Cleaners
+'04037':
+  change: Cost 2->1
+  id: elizabeth-mills
+  ingame_change: true
+  title: Elizabeth Mills
+04038:
+  change: Cost 6->5
+  id: off-the-grid
+  ingame_change: true
+  title: Off the Grid
+04039:
+  change: null
+  id: profiteering
+  ingame_change: false
+  title: Profiteering
+'04040':
+  change: null
+  id: restructure
+  ingame_change: false
+  title: Restructure
+'04041':
+  change: null
+  id: reina-roja-freedom-fighter
+  ingame_change: false
+  title: 'Reina Roja: Freedom Fighter'
+'04042':
+  change: Cost 2->0
+  id: deep-red
+  ingame_change: true
+  title: Deep Red
+'04043':
+  change: Cost 2->1
+  id: knight
+  ingame_change: true
+  title: Knight
+'04044':
+  change: Cost 4->2
+  id: running-interference
+  ingame_change: true
+  title: Running Interference
+'04045':
+  change: Cost 1->0
+  id: expert-schedule-analyzer
+  ingame_change: true
+  title: Expert Schedule Analyzer
+'04046':
+  change: Cost 2->1
+  id: grifter
+  ingame_change: true
+  title: Grifter
+'04047':
+  change: Cost 9->8
+  id: torch
+  ingame_change: true
+  title: Torch
+04048:
+  change: Cost 3->1
+  id: woman-in-the-red-dress
+  ingame_change: true
+  title: Woman in the Red Dress
+04049:
+  change: Cost 2->1
+  id: raymond-flint
+  ingame_change: true
+  title: Raymond Flint
+'04050':
+  change: Trash Cost 3->5
+  id: isabel-mcguire
+  ingame_change: true
+  title: Isabel McGuire
+'04051':
+  change: Cards Accessed 1->0
+  id: hudson-1-0
+  ingame_change: true
+  title: Hudson 1.0
+'04052':
+  change: Cards Looked at 3->2
+  id: accelerated-diagnostics
+  ingame_change: true
+  title: Accelerated Diagnostics
+'04053':
+  change: null
+  id: unorthodox-predictions
+  ingame_change: false
+  title: Unorthodox Predictions
+'04054':
+  change: null
+  id: sundew
+  ingame_change: false
+  title: Sundew
+'04055':
+  change: Cost 5->3
+  id: city-surveillance
+  ingame_change: true
+  title: City Surveillance
+'04056':
+  change: Trace Strength 3->5
+  id: snoop
+  ingame_change: true
+  title: Snoop
+'04057':
+  change: Strength 2->4
+  id: ireress
+  ingame_change: true
+  title: Ireress
+04058:
+  change: null
+  id: power-shutdown
+  ingame_change: false
+  title: Power Shutdown
+04059:
+  change: null
+  id: paper-wall
+  ingame_change: false
+  title: Paper Wall
+'04060':
+  change: null
+  id: interns
+  ingame_change: false
+  title: Interns
+'04061':
+  change: null
+  id: keyhole
+  ingame_change: false
+  title: Keyhole
+'04062':
+  change: null
+  id: activist-support
+  ingame_change: false
+  title: Activist Support
+'04063':
+  change: Cost 2->1
+  id: lawyer-up
+  ingame_change: true
+  title: Lawyer Up
+'04064':
+  change: Cost 1->0
+  id: leverage
+  ingame_change: true
+  title: Leverage
+'04065':
+  change: Cost 7->6
+  id: garrote
+  ingame_change: true
+  title: Garrote
+'04066':
+  change: null
+  id: llds-processor
+  ingame_change: false
+  title: LLDS Processor
+'04067':
+  change: null
+  id: sharpshooter
+  ingame_change: false
+  title: Sharpshooter
+04068:
+  change: Cards Drawn 1->3
+  id: capstone
+  ingame_change: true
+  title: Capstone
+04069:
+  change: Cost 1->0
+  id: starlight-crusade-funding
+  ingame_change: true
+  title: Starlight Crusade Funding
+'04070':
+  change: Credits Gained 5->7
+  id: rex-campaign
+  ingame_change: true
+  title: Rex Campaign
+'04071':
+  change: Strength 2->4
+  id: fenris
+  ingame_change: true
+  title: Fenris
+'04072':
+  change: null
+  id: panic-button
+  ingame_change: false
+  title: Panic Button
+'04073':
+  change: null
+  id: shock
+  ingame_change: false
+  title: Shock!
+'04074':
+  change: Cost 6->5
+  id: tsurugi
+  ingame_change: true
+  title: Tsurugi
+'04075':
+  change: Tags 1->2
+  id: tgtbt
+  ingame_change: true
+  title: TGTBT
+'04076':
+  change: null
+  id: sweeps-week
+  ingame_change: false
+  title: Sweeps Week
+'04077':
+  change: Strength 4->5
+  id: rsvp
+  ingame_change: true
+  title: RSVP
+04078:
+  change: null
+  id: curtain-wall
+  ingame_change: false
+  title: Curtain Wall
+04079:
+  change: null
+  id: punitive-counterstrike
+  ingame_change: false
+  title: Punitive Counterstrike
+04080:
+  change: BP Removed 2->3
+  id: veterans-program
+  ingame_change: true
+  title: Veterans Program
+04081:
+  change: null
+  id: quest-completed
+  ingame_change: false
+  title: Quest Completed
+04082:
+  change: Cost 3->2
+  id: hemorrhage
+  ingame_change: true
+  title: Hemorrhage
+04083:
+  change: Cards drawn 1->2
+  id: tallie-perrault
+  ingame_change: true
+  title: Tallie Perrault
+04084:
+  change: Cost 4->2
+  id: executive-wiretaps
+  ingame_change: true
+  title: Executive Wiretaps
+04085:
+  change: Cost 11->9
+  id: blackguard
+  ingame_change: true
+  title: Blackguard
+04086:
+  change: Cost 4->2
+  id: cybersolutions-mem-chip
+  ingame_change: true
+  title: CyberSolutions Mem Chip
+04087:
+  change: Cost 7->4
+  id: alpha
+  ingame_change: true
+  title: Alpha
+04088:
+  change: Cost 7->5
+  id: omega
+  ingame_change: true
+  title: Omega
+04089:
+  change: Ice -> More than 1 Ice
+  id: blackmail
+  ingame_change: true
+  title: Blackmail
+04090:
+  change: Credits Gained 5->6
+  id: blue-level-clearance
+  ingame_change: true
+  title: Blue Level Clearance
+04091:
+  change: Trash Cost 1->5
+  id: strongbox
+  ingame_change: true
+  title: Strongbox
+04092:
+  change: null
+  id: toshiyuki-sakai
+  ingame_change: false
+  title: Toshiyuki Sakai
+04093:
+  change: null
+  id: yagura
+  ingame_change: false
+  title: Yagura
+04094:
+  change: null
+  id: restoring-face
+  ingame_change: false
+  title: Restoring Face
+04095:
+  change: Extra points 1->2
+  id: market-research
+  ingame_change: true
+  title: Market Research
+04096:
+  change: null
+  id: wraparound
+  ingame_change: false
+  title: Wraparound
+04097:
+  change: Starting Credits 10->12
+  id: grndl-power-unleashed
+  ingame_change: true
+  title: 'GRNDL: Power Unleashed'
+04098:
+  change: Meat Damage 2->3
+  id: vulcan-coverup
+  ingame_change: true
+  title: Vulcan Coverup
+04099:
+  change: Trash Cost 2->4
+  id: grndl-refinery
+  ingame_change: true
+  title: GRNDL Refinery
+'04100':
+  change: null
+  id: subliminal-messaging
+  ingame_change: false
+  title: Subliminal Messaging
+'04101':
+  change: Cost 4->2
+  id: singularity
+  ingame_change: true
+  title: Singularity
+'04102':
+  change: null
+  id: queen-s-gambit
+  ingame_change: false
+  title: Queen's Gambit
+'04103':
+  change: Cost 1->0
+  id: dyson-fractal-generator
+  ingame_change: true
+  title: Dyson Fractal Generator
+'04104':
+  change: Cost 1->0
+  id: silencer
+  ingame_change: true
+  title: Silencer
+'04105':
+  change: Ability Cost 2->1
+  id: savoir-faire
+  ingame_change: true
+  title: Savoir-faire
+'04106':
+  change: Influence 1->3
+  id: fall-guy
+  ingame_change: false
+  title: Fall Guy
+'04107':
+  change: null
+  id: power-nap
+  ingame_change: false
+  title: Power Nap
+04108:
+  change: MU 2->1
+  id: paintbrush
+  ingame_change: true
+  title: Paintbrush
+04109:
+  change: null
+  id: lucky-find
+  ingame_change: false
+  title: Lucky Find
+'04110':
+  change: Cost 2->0
+  id: gyri-labyrinth
+  ingame_change: true
+  title: Gyri Labyrinth
+'04111':
+  change: null
+  id: reclamation-order
+  ingame_change: false
+  title: Reclamation Order
+'04112':
+  change: Cost 2->0
+  id: broadcast-square
+  ingame_change: true
+  title: Broadcast Square
+'04113':
+  change: Cards drawn 5->6
+  id: corporate-shuffle
+  ingame_change: true
+  title: Corporate Shuffle
+'04114':
+  change: Cost 2->3
+  id: caprice-nisei
+  ingame_change: true
+  title: Caprice Nisei
+'04115':
+  change: Cost 7->6
+  id: shinobi
+  ingame_change: true
+  title: Shinobi
+'04116':
+  change: Strength 3->6
+  id: marker
+  ingame_change: true
+  title: Marker
+'04117':
+  change: null
+  id: hive
+  ingame_change: false
+  title: Hive
+04118:
+  change: Cost 4->1
+  id: witness-tampering
+  ingame_change: true
+  title: Witness Tampering
+04119:
+  change: Cost to Steal 4->3
+  id: napd-contract
+  ingame_change: true
+  title: NAPD Contract
+'04120':
+  change: null
+  id: quandary
+  ingame_change: false
+  title: Quandary
+'05001':
+  change: Influence 12->15
+  id: harmony-medtech-biomedical-pioneer
+  ingame_change: false
+  title: 'Harmony Medtech: Biomedical Pioneer'
+'05002':
+  change: Credits Gained 1->2
+  id: nisei-division-the-next-generation
+  ingame_change: true
+  title: 'Nisei Division: The Next Generation'
+'05003':
+  change: null
+  id: tennin-institute-the-secrets-within
+  ingame_change: false
+  title: 'Tennin Institute: The Secrets Within'
+'05004':
+  change: null
+  id: house-of-knives
+  ingame_change: false
+  title: House of Knives
+'05005':
+  change: null
+  id: medical-breakthrough
+  ingame_change: false
+  title: Medical Breakthrough
+'05006':
+  change: null
+  id: philotic-entanglement
+  ingame_change: false
+  title: Philotic Entanglement
+'05007':
+  change: Limit 1 Per deck
+  id: the-future-perfect
+  ingame_change: false
+  title: The Future Perfect
+05008:
+  change: null
+  id: chairman-hiro
+  ingame_change: false
+  title: Chairman Hiro
+05009:
+  change: null
+  id: mental-health-clinic
+  ingame_change: false
+  title: Mental Health Clinic
+'05010':
+  change: null
+  id: psychic-field
+  ingame_change: false
+  title: Psychic Field
+'05011':
+  change: null
+  id: shi-kyu
+  ingame_change: false
+  title: "Shi.Ky\u016B"
+'05012':
+  change: Cost 2->0
+  id: tenma-line
+  ingame_change: true
+  title: Tenma Line
+'05013':
+  change: Cost 1->0
+  id: cerebral-cast
+  ingame_change: true
+  title: Cerebral Cast
+'05014':
+  change: Runner credits gained 3->2
+  id: medical-research-fundraiser
+  ingame_change: true
+  title: Medical Research Fundraiser
+'05015':
+  change: Cost 0->3
+  id: mushin-no-shin
+  ingame_change: true
+  title: Mushin No Shin
+'05016':
+  change: Cost 3->2
+  id: inazuma
+  ingame_change: true
+  title: Inazuma
+'05017':
+  change: Cost 5->4
+  id: komainu
+  ingame_change: true
+  title: Komainu
+05018:
+  change: null
+  id: pup
+  ingame_change: false
+  title: Pup
+05019:
+  change: Cost 6->1
+  id: shiro
+  ingame_change: true
+  title: Shiro
+'05020':
+  change: Cost 9->8
+  id: susanoo-no-mikoto
+  ingame_change: true
+  title: Susanoo-no-Mikoto
+'05021':
+  change: Cost 2->0
+  id: neotokyo-grid
+  ingame_change: true
+  title: NeoTokyo Grid
+'05022':
+  change: Cost 3->1
+  id: tori-hanzo
+  ingame_change: true
+  title: "Tori Hanz\u014D"
+'05023':
+  change: Trash Cost 1->4
+  id: plan-b
+  ingame_change: true
+  title: Plan B
+'05024':
+  change: Cost 4->3
+  id: guard
+  ingame_change: true
+  title: Guard
+'05025':
+  change: Strength 4->5
+  id: rainbow
+  ingame_change: true
+  title: Rainbow
+'05026':
+  change: null
+  id: diversified-portfolio
+  ingame_change: false
+  title: Diversified Portfolio
+'05027':
+  change: null
+  id: fast-track
+  ingame_change: false
+  title: Fast Track
+05028:
+  change: Influence 10->12
+  id: iain-stirling-retired-spook
+  ingame_change: false
+  title: 'Iain Stirling: Retired Spook'
+05029:
+  change: Influence 17->20
+  id: ken-express-tenma-disappeared-clone
+  ingame_change: false
+  title: 'Ken "Express" Tenma: Disappeared Clone'
+'05030':
+  change: Link 0->1
+  id: silhouette-stealth-operative
+  ingame_change: true
+  title: 'Silhouette: Stealth Operative'
+'05031':
+  change: null
+  id: calling-in-favors
+  ingame_change: false
+  title: Calling in Favors
+'05032':
+  change: Cost 1->0
+  id: early-bird
+  ingame_change: true
+  title: Early Bird
+'05033':
+  change: Cards Looked at 4->6, Cards Kept 1->2
+  id: express-delivery
+  ingame_change: true
+  title: Express Delivery
+'05034':
+  change: Cost 2->0
+  id: feint
+  ingame_change: true
+  title: Feint
+'05035':
+  change: null
+  id: legwork
+  ingame_change: false
+  title: Legwork
+'05036':
+  change: Cost 2->1
+  id: planned-assault
+  ingame_change: true
+  title: Planned Assault
+'05037':
+  change: Cost 4->2
+  id: logos
+  ingame_change: true
+  title: Logos
+05038:
+  change: Cost 1->0
+  id: public-terminal
+  ingame_change: true
+  title: Public Terminal
+05039:
+  change: Cost 1->0
+  id: unregistered-s-w-35
+  ingame_change: true
+  title: Unregistered S&W '35
+'05040':
+  change: Cost 2->0
+  id: window
+  ingame_change: true
+  title: Window
+'05041':
+  change: Strength 1->2
+  id: alias
+  ingame_change: true
+  title: Alias
+'05042':
+  change: null
+  id: breach
+  ingame_change: false
+  title: Breach
+'05043':
+  change: Ability Cost 2->1
+  id: bug
+  ingame_change: true
+  title: Bug
+'05044':
+  change: Boost Cost 2->1
+  id: gingerbread
+  ingame_change: true
+  title: Gingerbread
+'05045':
+  change: null
+  id: grappling-hook
+  ingame_change: false
+  title: Grappling Hook
+'05046':
+  change: null
+  id: passport
+  ingame_change: false
+  title: Passport
+'05047':
+  change: Cost 2->0
+  id: push-your-luck
+  ingame_change: true
+  title: Push Your Luck
+05048:
+  change: null
+  id: security-testing
+  ingame_change: false
+  title: Security Testing
+05049:
+  change: Cost 3->0
+  id: theophilius-bagbiter
+  ingame_change: true
+  title: Theophilius Bagbiter
+'05050':
+  change: Cost 2->0
+  id: tri-maf-contact
+  ingame_change: true
+  title: Tri-maf Contact
+'05051':
+  change: Cost 1->0
+  id: mass-install
+  ingame_change: true
+  title: Mass Install
+'05052':
+  change: null
+  id: q-coherence-chip
+  ingame_change: false
+  title: Q-Coherence Chip
+'05053':
+  change: Cost 4->2
+  id: overmind
+  ingame_change: true
+  title: Overmind
+'05054':
+  change: Influence 1->0
+  id: oracle-may
+  ingame_change: false
+  title: Oracle May
+'05055':
+  change: Influence 2->0
+  id: donut-taganes
+  ingame_change: false
+  title: Donut Taganes
+'06001':
+  change: null
+  id: domestic-sleepers
+  ingame_change: false
+  title: Domestic Sleepers
+'06002':
+  change: null
+  id: next-silver
+  ingame_change: false
+  title: NEXT Silver
+'06003':
+  change: null
+  id: lotus-field
+  ingame_change: false
+  title: Lotus Field
+'06004':
+  change: Cost 2->0
+  id: mutate
+  ingame_change: true
+  title: Mutate
+'06005':
+  change: Influence 17->15
+  id: near-earth-hub-broadcast-center
+  ingame_change: false
+  title: 'Near-Earth Hub: Broadcast Center'
+'06006':
+  change: Cost 2->1
+  id: primary-transmission-dish
+  ingame_change: true
+  title: Primary Transmission Dish
+'06007':
+  change: Cost 4->2
+  id: midway-station-grid
+  ingame_change: true
+  title: Midway Station Grid
+06008:
+  change: Cost 6->4
+  id: the-root
+  ingame_change: true
+  title: The Root
+06009:
+  change: Cost 5->3
+  id: taurus
+  ingame_change: true
+  title: Taurus
+'06010':
+  change: null
+  id: mother-goddess
+  ingame_change: false
+  title: Mother Goddess
+'06011':
+  change: null
+  id: galahad
+  ingame_change: false
+  title: Galahad
+'06012':
+  change: Cost 4->0
+  id: bad-times
+  ingame_change: true
+  title: Bad Times
+'06013':
+  change: Cost 1->0
+  id: cyber-threat
+  ingame_change: true
+  title: Cyber Threat
+'06014':
+  change: null
+  id: lamprey
+  ingame_change: false
+  title: Lamprey
+'06015':
+  change: Cost 4->3
+  id: paper-tripping
+  ingame_change: true
+  title: Paper Tripping
+'06016':
+  change: UNIQUE
+  id: power-tap
+  ingame_change: true
+  title: Power Tap
+'06017':
+  change: Influence 15->20
+  id: nasir-meidan-cyber-explorer
+  ingame_change: false
+  title: 'Nasir Meidan: Cyber Explorer'
+06018:
+  change: Cost 2->0
+  id: social-engineering
+  ingame_change: true
+  title: Social Engineering
+06019:
+  change: Cost 2->1
+  id: leprechaun
+  ingame_change: true
+  title: Leprechaun
+'06020':
+  change: null
+  id: eden-shard
+  ingame_change: false
+  title: Eden Shard
+'06021':
+  change: Influence 15->17
+  id: the-foundry-refining-the-process
+  ingame_change: false
+  title: 'The Foundry: Refining the Process'
+'06022':
+  change: null
+  id: enhanced-login-protocol
+  ingame_change: false
+  title: Enhanced Login Protocol
+'06023':
+  change: Cost 3->1
+  id: heinlein-grid
+  ingame_change: true
+  title: Heinlein Grid
+'06024':
+  change: Credits gained 1->2
+  id: encrypted-portals
+  ingame_change: true
+  title: Encrypted Portals
+'06025':
+  change: null
+  id: cerebral-static
+  ingame_change: false
+  title: Cerebral Static
+'06026':
+  change: null
+  id: targeted-marketing
+  ingame_change: false
+  title: Targeted Marketing
+'06027':
+  change: Cost 6->5
+  id: information-overload
+  ingame_change: true
+  title: Information Overload
+06028:
+  change: null
+  id: paywall-implementation
+  ingame_change: false
+  title: Paywall Implementation
+06029:
+  change: null
+  id: sealed-vault
+  ingame_change: false
+  title: Sealed Vault
+'06030':
+  change: null
+  id: eden-fragment
+  ingame_change: false
+  title: Eden Fragment
+'06031':
+  change: Cost 2->0
+  id: lag-time
+  ingame_change: true
+  title: Lag Time
+'06032':
+  change: Cost 4->3
+  id: will-o-the-wisp
+  ingame_change: true
+  title: Will-o'-the-Wisp
+'06033':
+  change: Influence 4->5
+  id: d4v1d
+  ingame_change: false
+  title: D4v1d
+'06034':
+  change: Cost 2->1
+  id: scrubbed
+  ingame_change: true
+  title: Scrubbed
+'06035':
+  change: Cost 1->0
+  id: three-steps-ahead
+  ingame_change: true
+  title: Three Steps Ahead
+'06036':
+  change: Cost 1->0
+  id: unscheduled-maintenance
+  ingame_change: true
+  title: Unscheduled Maintenance
+'06037':
+  change: null
+  id: cache
+  ingame_change: false
+  title: Cache
+06038:
+  change: Cost 1->0
+  id: net-celebrity
+  ingame_change: true
+  title: Net Celebrity
+06039:
+  change: MU 1->0
+  id: llds-energy-regulator
+  ingame_change: true
+  title: LLDS Energy Regulator
+'06040':
+  change: null
+  id: ghost-runner
+  ingame_change: false
+  title: Ghost Runner
+'06041':
+  change: Strength 0->1
+  id: iq
+  ingame_change: true
+  title: IQ
+'06042':
+  change: Cost 4->2
+  id: eliza-s-toybox
+  ingame_change: true
+  title: Eliza's Toybox
+'06043':
+  change: null
+  id: kitsune
+  ingame_change: false
+  title: Kitsune
+'06044':
+  change: Cost 2->0
+  id: port-anson-grid
+  ingame_change: true
+  title: Port Anson Grid
+'06045':
+  change: null
+  id: the-news-now-hour
+  ingame_change: false
+  title: The News Now Hour
+'06046':
+  change: null
+  id: manhunt
+  ingame_change: false
+  title: Manhunt
+'06047':
+  change: Cost 2->1
+  id: wendigo
+  ingame_change: true
+  title: Wendigo
+06048:
+  change: null
+  id: crisium-grid
+  ingame_change: false
+  title: Crisium Grid
+06049:
+  change: null
+  id: chronos-project
+  ingame_change: false
+  title: Chronos Project
+'06050':
+  change: Trash Cost 0->2
+  id: shattered-remains
+  ingame_change: true
+  title: Shattered Remains
+'06051':
+  change: null
+  id: lancelot
+  ingame_change: false
+  title: Lancelot
+'06052':
+  change: null
+  id: quetzal-free-spirit
+  ingame_change: false
+  title: 'Quetzal: Free Spirit'
+'06053':
+  change: Cost 4->2
+  id: blackat
+  ingame_change: true
+  title: BlacKat
+'06054':
+  change: null
+  id: duggar-s
+  ingame_change: false
+  title: Duggar's
+'06055':
+  change: Cost 4->1
+  id: box-e
+  ingame_change: true
+  title: Box-E
+'06056':
+  change: null
+  id: the-supplier
+  ingame_change: false
+  title: The Supplier
+'06057':
+  change: null
+  id: refractor
+  ingame_change: false
+  title: Refractor
+06058:
+  change: Cost 2->1
+  id: order-of-sol
+  ingame_change: true
+  title: Order of Sol
+06059:
+  change: null
+  id: hades-shard
+  ingame_change: false
+  title: Hades Shard
+'06060':
+  change: Influence 1->0
+  id: rachel-beckman
+  ingame_change: false
+  title: Rachel Beckman
+'06061':
+  change: null
+  id: architect
+  ingame_change: false
+  title: Architect
+'06062':
+  change: Cost 1->0
+  id: peak-efficiency
+  ingame_change: true
+  title: Peak Efficiency
+'06063':
+  change: Agenda Counters 2->5
+  id: labyrinthine-servers
+  ingame_change: true
+  title: Labyrinthine Servers
+'06064':
+  change: Cost 9->7
+  id: ashigaru
+  ingame_change: true
+  title: Ashigaru
+'06065':
+  change: Strength 4->6
+  id: mamba
+  ingame_change: true
+  title: Mamba
+'06066':
+  change: null
+  id: reversed-accounts
+  ingame_change: false
+  title: Reversed Accounts
+'06067':
+  change: null
+  id: universal-connectivity-fee
+  ingame_change: false
+  title: Universal Connectivity Fee
+06068:
+  change: null
+  id: blue-sun-powering-the-future
+  ingame_change: false
+  title: 'Blue Sun: Powering the Future'
+06069:
+  change: Strength 4->5
+  id: changeling
+  ingame_change: true
+  title: Changeling
+'06070':
+  change: null
+  id: reuse
+  ingame_change: false
+  title: Reuse
+'06071':
+  change: Cards Bottomed 1->2
+  id: hades-fragment
+  ingame_change: true
+  title: Hades Fragment
+'06072':
+  change: null
+  id: docklands-crackdown
+  ingame_change: false
+  title: Docklands Crackdown
+'06073':
+  change: null
+  id: inject
+  ingame_change: false
+  title: Inject
+'06074':
+  change: null
+  id: origami
+  ingame_change: false
+  title: Origami
+'06075':
+  change: Cost 1->0
+  id: fester
+  ingame_change: true
+  title: Fester
+'06076':
+  change: Cost 3->1
+  id: autoscripter
+  ingame_change: true
+  title: Autoscripter
+'06077':
+  change: null
+  id: switchblade
+  ingame_change: false
+  title: Switchblade
+06078:
+  change: Cost 1->0
+  id: trade-in
+  ingame_change: true
+  title: Trade-In
+06079:
+  change: null
+  id: astrolabe
+  ingame_change: false
+  title: Astrolabe
+06080:
+  change: Counters X->2X
+  id: angel-arena
+  ingame_change: true
+  title: Angel Arena
+06081:
+  change: null
+  id: bifrost-array
+  ingame_change: false
+  title: Bifrost Array
+06082:
+  change: Trace Strength 2->4
+  id: sagittarius
+  ingame_change: true
+  title: Sagittarius
+06083:
+  change: null
+  id: hostile-infrastructure
+  ingame_change: false
+  title: Hostile Infrastructure
+06084:
+  change: Trace 2->4
+  id: gemini
+  ingame_change: true
+  title: Gemini
+06085:
+  change: Cards Installed 1->2
+  id: license-acquisition
+  ingame_change: true
+  title: License Acquisition
+06086:
+  change: null
+  id: daily-business-show
+  ingame_change: false
+  title: Daily Business Show
+06087:
+  change: Strength Increase 1->2
+  id: superior-cyberwalls
+  ingame_change: true
+  title: Superior Cyberwalls
+06088:
+  change: null
+  id: executive-boot-camp
+  ingame_change: false
+  title: Executive Boot Camp
+06089:
+  change: Strength 3->4
+  id: lycan
+  ingame_change: true
+  title: Lycan
+06090:
+  change: Trace 3->4
+  id: snatch-and-grab
+  ingame_change: true
+  title: Snatch and Grab
+06091:
+  change: null
+  id: merlin
+  ingame_change: false
+  title: Merlin
+06092:
+  change: Cost 2->1
+  id: shell-corporation
+  ingame_change: true
+  title: Shell Corporation
+06093:
+  change: Cost 2->0
+  id: ekomind
+  ingame_change: true
+  title: Ekomind
+06094:
+  change: Strength 0->1
+  id: cerberus-cuj-0-h3
+  ingame_change: true
+  title: Cerberus "Cuj.0" H3
+06095:
+  change: Corp chooses the card returned
+  id: leela-patel-trained-pragmatist
+  ingame_change: true
+  title: 'Leela Patel: Trained Pragmatist'
+06096:
+  change: Cost 3->2
+  id: cerberus-rex-h2
+  ingame_change: true
+  title: Cerberus "Rex" H2
+06097:
+  change: Cost 2->0
+  id: zona-sul-shipping
+  ingame_change: true
+  title: Zona Sul Shipping
+06098:
+  change: Cost 2->0
+  id: cybsoft-macrodrive
+  ingame_change: true
+  title: Cybsoft MacroDrive
+06099:
+  change: null
+  id: cerberus-lady-h1
+  ingame_change: false
+  title: Cerberus "Lady" H1
+'06100':
+  change: null
+  id: utopia-shard
+  ingame_change: false
+  title: Utopia Shard
+'06101':
+  change: Power Counters added 2->4
+  id: helium-3-deposit
+  ingame_change: true
+  title: Helium-3 Deposit
+'06102':
+  change: Cost 4->3
+  id: errand-boy
+  ingame_change: true
+  title: Errand Boy
+'06103':
+  change: 2nd Ability usable once per turn
+  id: it-department
+  ingame_change: true
+  title: IT Department
+'06104':
+  change: 'Strength 3->5 '
+  id: markus-1-0
+  ingame_change: true
+  title: Markus 1.0
+'06105':
+  change: null
+  id: industrial-genomics-growing-solutions
+  ingame_change: false
+  title: 'Industrial Genomics: Growing Solutions'
+'06106':
+  change: UNIQUE
+  id: turtlebacks
+  ingame_change: true
+  title: Turtlebacks
+'06107':
+  change: Cost 3->0
+  id: shoot-the-moon
+  ingame_change: true
+  title: Shoot the Moon
+06108:
+  change: Trace 2->3
+  id: troll
+  ingame_change: true
+  title: Troll
+06109:
+  change: Cost 4->3
+  id: virgo
+  ingame_change: true
+  title: Virgo
+'06110':
+  change: Cost to Steal 2->3
+  id: utopia-fragment
+  ingame_change: true
+  title: Utopia Fragment
+'06111':
+  change: null
+  id: excalibur
+  ingame_change: false
+  title: Excalibur
+'06112':
+  change: Net Damage 3->4
+  id: self-destruct
+  ingame_change: true
+  title: Self-destruct
+'06113':
+  change: Cost 3->2
+  id: incubator
+  ingame_change: true
+  title: Incubator
+'06114':
+  change: Cost 1->0
+  id: ixodidae
+  ingame_change: true
+  title: Ixodidae
+'06115':
+  change: Cost Reduction 3->5
+  id: code-siphon
+  ingame_change: true
+  title: Code Siphon
+'06116':
+  change: Cards Drawn 1->2
+  id: collective-consciousness
+  ingame_change: true
+  title: Collective Consciousness
+'06117':
+  change: MU 2->1
+  id: sage
+  ingame_change: true
+  title: Sage
+06118:
+  change: null
+  id: bribery
+  ingame_change: false
+  title: Bribery
+06119:
+  change: UNIQUE
+  id: au-revoir
+  ingame_change: true
+  title: Au Revoir
+'06120':
+  change: Influence 0->1
+  id: earthrise-hotel
+  ingame_change: false
+  title: Earthrise Hotel
+'07001':
+  change: Deck Size 45->40
+  id: argus-security-protection-guaranteed
+  ingame_change: false
+  title: 'Argus Security: Protection Guaranteed'
+'07002':
+  change: null
+  id: gagarin-deep-space-expanding-the-horizon
+  ingame_change: false
+  title: 'Gagarin Deep Space: Expanding the Horizon'
+'07003':
+  change: Influence 17->12
+  id: titan-transnational-investing-in-your-future
+  ingame_change: false
+  title: 'Titan Transnational: Investing In Your Future'
+'07004':
+  change: Agenda Counters 3->5
+  id: firmware-updates
+  ingame_change: true
+  title: Firmware Updates
+'07005':
+  change: null
+  id: glenn-station
+  ingame_change: false
+  title: Glenn Station
+'07006':
+  change: null
+  id: government-takeover
+  ingame_change: false
+  title: Government Takeover
+'07007':
+  change: null
+  id: high-risk-investment
+  ingame_change: false
+  title: High-Risk Investment
+07008:
+  change: Counters Moved 1->Up to 3
+  id: constellation-protocol
+  ingame_change: true
+  title: Constellation Protocol
+07009:
+  change: null
+  id: mark-yale
+  ingame_change: false
+  title: Mark Yale
+'07010':
+  change: null
+  id: space-camp
+  ingame_change: false
+  title: Space Camp
+'07011':
+  change: Points worth to runner 2->1
+  id: the-board
+  ingame_change: true
+  title: The Board
+'07012':
+  change: null
+  id: asteroid-belt
+  ingame_change: false
+  title: Asteroid Belt
+'07013':
+  change: null
+  id: wormhole
+  ingame_change: false
+  title: Wormhole
+'07014':
+  change: null
+  id: nebula
+  ingame_change: false
+  title: Nebula
+'07015':
+  change: null
+  id: orion
+  ingame_change: false
+  title: Orion
+'07016':
+  change: Strength 4->5
+  id: builder
+  ingame_change: true
+  title: Builder
+'07017':
+  change: Trace Strength 5->7
+  id: checkpoint
+  ingame_change: true
+  title: Checkpoint
+07018:
+  change: Cost 5->4
+  id: fire-wall
+  ingame_change: true
+  title: Fire Wall
+07019:
+  change: Strength 3->5
+  id: searchlight
+  ingame_change: true
+  title: Searchlight
+'07020':
+  change: null
+  id: housekeeping
+  ingame_change: false
+  title: Housekeeping
+'07021':
+  change: Strength Added 2->3
+  id: patch
+  ingame_change: true
+  title: Patch
+'07022':
+  change: null
+  id: traffic-accident
+  ingame_change: false
+  title: Traffic Accident
+'07023':
+  change: Trash Cost 3->5
+  id: satellite-grid
+  ingame_change: true
+  title: Satellite Grid
+'07024':
+  change: null
+  id: the-twins
+  ingame_change: false
+  title: The Twins
+'07025':
+  change: null
+  id: sub-boost
+  ingame_change: false
+  title: Sub Boost
+'07026':
+  change: Trash Cost 1->5
+  id: dedicated-technician-team
+  ingame_change: true
+  title: Dedicated Technician Team
+'07027':
+  change: null
+  id: cyberdex-virus-suite
+  ingame_change: false
+  title: Cyberdex Virus Suite
+07028:
+  change: Influence 15->17
+  id: edward-kim-humanity-s-hammer
+  ingame_change: false
+  title: 'Edward Kim: Humanity''s Hammer'
+07029:
+  change: null
+  id: maxx-maximum-punk-rock
+  ingame_change: false
+  title: 'MaxX: Maximum Punk Rock'
+'07030':
+  change: Influence 15->12
+  id: valencia-estevez-the-angel-of-cayambe
+  ingame_change: false
+  title: 'Valencia Estevez: The Angel of Cayambe'
+'07031':
+  change: null
+  id: amped-up
+  ingame_change: false
+  title: Amped Up
+'07032':
+  change: null
+  id: i-ve-had-worse
+  ingame_change: false
+  title: I've Had Worse
+'07033':
+  change: Cost 2->0
+  id: itinerant-protesters
+  ingame_change: true
+  title: Itinerant Protesters
+'07034':
+  change: Cost 2->0
+  id: showing-off
+  ingame_change: true
+  title: Showing Off
+'07035':
+  change: null
+  id: wanton-destruction
+  ingame_change: false
+  title: Wanton Destruction
+'07036':
+  change: Credits Gained 10->11
+  id: day-job
+  ingame_change: true
+  title: Day Job
+'07037':
+  change: null
+  id: forked
+  ingame_change: false
+  title: Forked
+07038:
+  change: null
+  id: knifed
+  ingame_change: false
+  title: Knifed
+07039:
+  change: null
+  id: spooned
+  ingame_change: false
+  title: Spooned
+'07040':
+  change: null
+  id: eater
+  ingame_change: false
+  title: Eater
+'07041':
+  change: null
+  id: gravedigger
+  ingame_change: false
+  title: Gravedigger
+'07042':
+  change: null
+  id: hivemind
+  ingame_change: false
+  title: Hivemind
+'07043':
+  change: Cannot host >1MU Viruses
+  id: progenitor
+  ingame_change: false
+  title: Progenitor
+'07044':
+  change: Cards Removed 1->3
+  id: archives-interface
+  ingame_change: true
+  title: Archives Interface
+'07045':
+  change: Cost 1->0
+  id: chop-bot-3000
+  ingame_change: true
+  title: Chop Bot 3000
+'07046':
+  change: Cost 3->2
+  id: memstrips
+  ingame_change: true
+  title: MemStrips
+'07047':
+  change: Cost 2->1
+  id: vigil
+  ingame_change: true
+  title: Vigil
+07048:
+  change: null
+  id: human-first
+  ingame_change: false
+  title: Human First
+07049:
+  change: null
+  id: investigative-journalism
+  ingame_change: false
+  title: Investigative Journalism
+'07050':
+  change: Cost 3->0
+  id: sacrificial-clone
+  ingame_change: true
+  title: Sacrificial Clone
+'07051':
+  change: Cost 4->2
+  id: stim-dealer
+  ingame_change: true
+  title: Stim Dealer
+'07052':
+  change: null
+  id: virus-breeding-ground
+  ingame_change: false
+  title: Virus Breeding Ground
+'07053':
+  change: Programs 1 -> 2 (up to)
+  id: uninstall
+  ingame_change: true
+  title: Uninstall
+'07054':
+  change: null
+  id: qianju-pt
+  ingame_change: false
+  title: Qianju PT
+'07055':
+  change: null
+  id: data-folding
+  ingame_change: false
+  title: Data Folding
+08001:
+  change: Trash -> Remove from game
+  id: clot
+  ingame_change: true
+  title: Clot
+08002:
+  change: null
+  id: paige-piper
+  ingame_change: false
+  title: Paige Piper
+08003:
+  change: Cost 3->5
+  id: adjusted-chronotype
+  ingame_change: true
+  title: Adjusted Chronotype
+08004:
+  change: Cost 1->0
+  id: spike
+  ingame_change: true
+  title: Spike
+08005:
+  change: Cost 1->0
+  id: enhanced-vision
+  ingame_change: true
+  title: Enhanced Vision
+08006:
+  change: null
+  id: gene-conditioning-shoppe
+  ingame_change: false
+  title: Gene Conditioning Shoppe
+08007:
+  change: Cards drawn 1->2
+  id: synthetic-blood
+  ingame_change: true
+  title: Synthetic Blood
+08008:
+  change: Cost 2->0
+  id: traffic-jam
+  ingame_change: true
+  title: Traffic Jam
+08009:
+  change: null
+  id: symmetrical-visage
+  ingame_change: false
+  title: Symmetrical Visage
+08010:
+  change: Cost 1->0
+  id: brain-taping-warehouse
+  ingame_change: true
+  title: Brain-Taping Warehouse
+08011:
+  change: null
+  id: next-gold
+  ingame_change: false
+  title: NEXT Gold
+08012:
+  change: Advancement counters added 4->5
+  id: jinteki-biotech-life-imagined
+  ingame_change: true
+  title: 'Jinteki Biotech: Life Imagined'
+08013:
+  change: Counter added to 1 agenda -> EACH agenda
+  id: genetic-resequencing
+  ingame_change: true
+  title: Genetic Resequencing
+08014:
+  change: null
+  id: cortex-lock
+  ingame_change: false
+  title: Cortex Lock
+08015:
+  change: null
+  id: valley-grid
+  ingame_change: false
+  title: Valley Grid
+08016:
+  change: null
+  id: bandwidth
+  ingame_change: false
+  title: Bandwidth
+08017:
+  change: Cost to Steal 2->3
+  id: predictive-algorithm
+  ingame_change: true
+  title: Predictive Algorithm
+08018:
+  change: Cost 2->1
+  id: capital-investors
+  ingame_change: true
+  title: Capital Investors
+08019:
+  change: Strength 3->4
+  id: negotiator
+  ingame_change: true
+  title: Negotiator
+08020:
+  change: null
+  id: tech-startup
+  ingame_change: false
+  title: Tech Startup
+08021:
+  change: null
+  id: hacktivist-meeting
+  ingame_change: false
+  title: Hacktivist Meeting
+08022:
+  change: null
+  id: off-campus-apartment
+  ingame_change: false
+  title: Off-Campus Apartment
+08023:
+  change: null
+  id: career-fair
+  ingame_change: false
+  title: Career Fair
+08024:
+  change: null
+  id: dorm-computer
+  ingame_change: false
+  title: Dorm Computer
+08025:
+  change: null
+  id: hayley-kaplan-universal-scholar
+  ingame_change: false
+  title: 'Hayley Kaplan: Universal Scholar'
+08026:
+  change: null
+  id: game-day
+  ingame_change: false
+  title: Game Day
+08027:
+  change: Cost 4->3
+  id: comet
+  ingame_change: true
+  title: Comet
+08028:
+  change: Cost 3->2
+  id: study-guide
+  ingame_change: true
+  title: Study Guide
+08029:
+  change: Cost 3->2
+  id: london-library
+  ingame_change: true
+  title: London Library
+08030:
+  change: Cost 2->0
+  id: tyson-observatory
+  ingame_change: true
+  title: Tyson Observatory
+08031:
+  change: null
+  id: beach-party
+  ingame_change: false
+  title: Beach Party
+08032:
+  change: null
+  id: research-grant
+  ingame_change: false
+  title: Research Grant
+08033:
+  change: null
+  id: turing
+  ingame_change: false
+  title: Turing
+08034:
+  change: null
+  id: crick
+  ingame_change: false
+  title: Crick
+08035:
+  change: null
+  id: recruiting-trip
+  ingame_change: false
+  title: Recruiting Trip
+08036:
+  change: null
+  id: blacklist
+  ingame_change: false
+  title: Blacklist
+08037:
+  change: null
+  id: gutenberg
+  ingame_change: false
+  title: Gutenberg
+08038:
+  change: Cost 2->0
+  id: student-loans
+  ingame_change: true
+  title: Student Loans
+08039:
+  change: null
+  id: meru-mati
+  ingame_change: false
+  title: Meru Mati
+08040:
+  change: Trash cost 2->1
+  id: breaker-bay-grid
+  ingame_change: false
+  title: Breaker Bay Grid
+08041:
+  change: null
+  id: immolation-script
+  ingame_change: false
+  title: Immolation Script
+08042:
+  change: Cost 2->0
+  id: skulljack
+  ingame_change: true
+  title: Skulljack
+08043:
+  change: null
+  id: turntable
+  ingame_change: false
+  title: Turntable
+08044:
+  change: Cost 1->0
+  id: chrome-parlor
+  ingame_change: true
+  title: Chrome Parlor
+08045:
+  change: null
+  id: titanium-ribs
+  ingame_change: false
+  title: Titanium Ribs
+08046:
+  change: Cost 1->0
+  id: crowbar
+  ingame_change: true
+  title: Crowbar
+08047:
+  change: null
+  id: net-ready-eyes
+  ingame_change: false
+  title: Net-Ready Eyes
+08048:
+  change: Cost 2->0
+  id: analog-dreamers
+  ingame_change: true
+  title: Analog Dreamers
+08049:
+  change: Handsize Increase 3 -> 4
+  id: brain-cage
+  ingame_change: true
+  title: Brain Cage
+08050:
+  change: Influence 15->20
+  id: cybernetics-division-humanity-upgraded
+  ingame_change: false
+  title: 'Cybernetics Division: Humanity Upgraded'
+08051:
+  change: null
+  id: self-destruct-chips
+  ingame_change: false
+  title: Self-Destruct Chips
+08052:
+  change: Cost 2->1
+  id: lab-dog
+  ingame_change: true
+  title: Lab Dog
+08053:
+  change: Trash Increase 3->4
+  id: oaktown-grid
+  ingame_change: true
+  title: Oaktown Grid
+08054:
+  change: Cost 2->1
+  id: ryon-knight
+  ingame_change: true
+  title: Ryon Knight
+08055:
+  change: Strength 3->5
+  id: clairvoyant-monitor
+  ingame_change: true
+  title: Clairvoyant Monitor
+08056:
+  change: null
+  id: lockdown
+  ingame_change: false
+  title: Lockdown
+08057:
+  change: Runner gains 5->4
+  id: little-engine
+  ingame_change: true
+  title: Little Engine
+08058:
+  change: null
+  id: oaktown-renovation
+  ingame_change: false
+  title: Oaktown Renovation
+08059:
+  change: null
+  id: corporate-town
+  ingame_change: false
+  title: Corporate Town
+08060:
+  change: null
+  id: quicksand
+  ingame_change: false
+  title: Quicksand
+08061:
+  change: 'Trash 1->3 cards: +2 Str'
+  id: faust
+  ingame_change: true
+  title: Faust
+08062:
+  change: null
+  id: street-peddler
+  ingame_change: false
+  title: Street Peddler
+08063:
+  change: null
+  id: armand-geist-walker-tech-lord
+  ingame_change: false
+  title: 'Armand "Geist" Walker: Tech Lord'
+08064:
+  change: null
+  id: drive-by
+  ingame_change: false
+  title: Drive By
+08065:
+  change: null
+  id: forger
+  ingame_change: false
+  title: Forger
+08066:
+  change: null
+  id: shiv
+  ingame_change: false
+  title: Shiv
+08067:
+  change: Limit 1 Per Deck
+  id: gang-sign
+  ingame_change: false
+  title: Gang Sign
+08068:
+  change: Cards Drawn 1->2
+  id: muertos-gang-member
+  ingame_change: true
+  title: Muertos Gang Member
+08069:
+  change: null
+  id: chameleon
+  ingame_change: false
+  title: Chameleon
+08070:
+  change: UNIQUE
+  id: hyperdriver
+  ingame_change: true
+  title: Hyperdriver
+08071:
+  change: null
+  id: test-ground
+  ingame_change: false
+  title: Test Ground
+08072:
+  change: Cost 2->0
+  id: defective-brainchips
+  ingame_change: true
+  title: Defective Brainchips
+08073:
+  change: Cost 2->0
+  id: allele-repression
+  ingame_change: true
+  title: Allele Repression
+08074:
+  change: Limit 1 Per deck
+  id: marcus-batty
+  ingame_change: false
+  title: Marcus Batty
+08075:
+  change: Cost 2->1
+  id: expose
+  ingame_change: true
+  title: "Expos\xE9"
+08076:
+  change: Strength 4->5
+  id: pachinko
+  ingame_change: true
+  title: Pachinko
+08077:
+  change: null
+  id: underway-renovation
+  ingame_change: false
+  title: Underway Renovation
+08078:
+  change: null
+  id: contract-killer
+  ingame_change: false
+  title: Contract Killer
+08079:
+  change: null
+  id: spiderweb
+  ingame_change: false
+  title: Spiderweb
+08080:
+  change: Trash Cost 3->5
+  id: underway-grid
+  ingame_change: true
+  title: Underway Grid
+08081:
+  change: null
+  id: trope
+  ingame_change: false
+  title: Trope
+08082:
+  change: null
+  id: spoilers
+  ingame_change: false
+  title: Spoilers
+08083:
+  change: null
+  id: drug-dealer
+  ingame_change: false
+  title: Drug Dealer
+08084:
+  change: null
+  id: rolodex
+  ingame_change: false
+  title: Rolodex
+08085:
+  change: null
+  id: fan-site
+  ingame_change: false
+  title: Fan Site
+08086:
+  change: Influence 1->2
+  id: film-critic
+  ingame_change: false
+  title: Film Critic
+08087:
+  change: null
+  id: paparazzi
+  ingame_change: false
+  title: Paparazzi
+08088:
+  change: Cost 3->1
+  id: ronald-five
+  ingame_change: true
+  title: Ronald Five
+08089:
+  change: Strength 5->7
+  id: enforcer-1-0
+  ingame_change: true
+  title: Enforcer 1.0
+08090:
+  change: Cost 2->1
+  id: it-s-a-trap
+  ingame_change: true
+  title: It's a Trap!
+08091:
+  change: Cost 4->2
+  id: an-offer-you-can-t-refuse
+  ingame_change: true
+  title: An Offer You Can't Refuse
+08092:
+  change: Each turn -> From servers other than archives each turn
+  id: haarpsichord-studios-entertainment-unleashed
+  ingame_change: true
+  title: 'Haarpsichord Studios: Entertainment Unleashed'
+08093:
+  change: Counters Added 2->3
+  id: award-bait
+  ingame_change: true
+  title: Award Bait
+08094:
+  change: null
+  id: explode-a-palooza
+  ingame_change: false
+  title: Explode-a-palooza
+08095:
+  change: Trash Cost 2->3
+  id: early-premiere
+  ingame_change: true
+  title: Early Premiere
+08096:
+  change: null
+  id: casting-call
+  ingame_change: false
+  title: Casting Call
+08097:
+  change: Cost 5->3
+  id: old-hollywood-grid
+  ingame_change: true
+  title: Old Hollywood Grid
+08098:
+  change: null
+  id: hollywood-renovation
+  ingame_change: false
+  title: Hollywood Renovation
+08099:
+  change: Credits 3->4
+  id: back-channels
+  ingame_change: true
+  title: Back Channels
+08100:
+  change: null
+  id: vanity-project
+  ingame_change: false
+  title: Vanity Project
+08101:
+  change: Credits gained 7->9
+  id: power-to-the-people
+  ingame_change: true
+  title: Power to the People
+08102:
+  change: null
+  id: surfer
+  ingame_change: false
+  title: Surfer
+08103:
+  change: Cost 3->5
+  id: ddos
+  ingame_change: true
+  title: DDoS
+08104:
+  change: Link 0->1
+  id: laramy-fisk-savvy-investor
+  ingame_change: true
+  title: 'Laramy Fisk: Savvy Investor'
+08105:
+  change: Limit 1 Per deck
+  id: fisk-investment-seminar
+  ingame_change: false
+  title: Fisk Investment Seminar
+08106:
+  change: null
+  id: bookmark
+  ingame_change: false
+  title: Bookmark
+08107:
+  change: Cost 1->0
+  id: davinci
+  ingame_change: true
+  title: DaVinci
+08108:
+  change: UNIQUE, Cost 1->2
+  id: wireless-net-pavilion
+  ingame_change: true
+  title: Wireless Net Pavilion
+08109:
+  change: null
+  id: cybernetics-court
+  ingame_change: false
+  title: Cybernetics Court
+08110:
+  change: UNIQUE
+  id: team-sponsorship
+  ingame_change: true
+  title: Team Sponsorship
+08111:
+  change: Influence 15->17
+  id: chronos-protocol-selective-mind-mapping
+  ingame_change: false
+  title: 'Chronos Protocol: Selective Mind-mapping'
+08112:
+  change: Damage 1->2
+  id: ancestral-imager
+  ingame_change: true
+  title: Ancestral Imager
+08113:
+  change: null
+  id: genetics-pavilion
+  ingame_change: false
+  title: Genetics Pavilion
+08114:
+  change: Cost 3->2
+  id: franchise-city
+  ingame_change: true
+  title: Franchise City
+08115:
+  change: Trash 2->3
+  id: product-placement
+  ingame_change: true
+  title: Product Placement
+08116:
+  change: Cost 2->0
+  id: worlds-plaza
+  ingame_change: true
+  title: Worlds Plaza
+08117:
+  change: Cost 2->1
+  id: public-support
+  ingame_change: true
+  title: Public Support
+08118:
+  change: null
+  id: tour-guide
+  ingame_change: false
+  title: Tour Guide
+08119:
+  change: Trash Cost 3->4
+  id: expo-grid
+  ingame_change: true
+  title: Expo Grid
+08120:
+  change: Cards Searched For 1->2
+  id: the-future-is-now
+  ingame_change: true
+  title: The Future is Now
+09001:
+  change: null
+  id: sync-everything-everywhere
+  ingame_change: false
+  title: 'SYNC: Everything, Everywhere'
+09002:
+  change: Deck Size 45->40
+  id: new-angeles-sol-your-news
+  ingame_change: false
+  title: 'New Angeles Sol: Your News'
+09003:
+  change: Influence 15->17
+  id: spark-agency-worldswide-reach
+  ingame_change: false
+  title: 'Spark Agency: Worldswide Reach'
+09004:
+  change: null
+  id: 15-minutes
+  ingame_change: false
+  title: 15 Minutes
+09005:
+  change: null
+  id: improved-tracers
+  ingame_change: false
+  title: Improved Tracers
+09006:
+  change: Advancement Requirement 4->3
+  id: rebranding-team
+  ingame_change: true
+  title: Rebranding Team
+09007:
+  change: null
+  id: quantum-predictive-model
+  ingame_change: false
+  title: Quantum Predictive Model
+09008:
+  change: null
+  id: lily-lockwell
+  ingame_change: false
+  title: Lily Lockwell
+09009:
+  change: Limit 1 Per deck
+  id: news-team
+  ingame_change: false
+  title: News Team
+09010:
+  change: null
+  id: shannon-claire
+  ingame_change: false
+  title: Shannon Claire
+09011:
+  change: Points worth to Runner 2->1
+  id: victoria-jenkins
+  ingame_change: true
+  title: Victoria Jenkins
+09012:
+  change: Trash Cost 6->7
+  id: reality-threedee
+  ingame_change: true
+  title: Reality Threedee
+09013:
+  change: null
+  id: archangel
+  ingame_change: false
+  title: Archangel
+09014:
+  change: Cost 2->3
+  id: news-hound
+  ingame_change: true
+  title: News Hound
+09015:
+  change: Cost 0->1
+  id: resistor
+  ingame_change: true
+  title: Resistor
+09016:
+  change: Cost 1->0
+  id: special-offer
+  ingame_change: true
+  title: Special Offer
+09017:
+  change: Strength 4->5
+  id: tl-dr
+  ingame_change: true
+  title: TL;DR
+09018:
+  change: null
+  id: turnpike
+  ingame_change: false
+  title: Turnpike
+09019:
+  change: Agendas Forfeited 1->3 (Additional Cost -> Card Effect)
+  id: 24-7-news-cycle
+  ingame_change: true
+  title: 24/7 News Cycle
+09020:
+  change: null
+  id: ad-blitz
+  ingame_change: false
+  title: Ad Blitz
+09021:
+  change: null
+  id: media-blitz
+  ingame_change: false
+  title: Media Blitz
+09022:
+  change: Cost 1->0
+  id: the-all-seeing-i
+  ingame_change: true
+  title: The All-Seeing I
+09023:
+  change: null
+  id: surveillance-sweep
+  ingame_change: false
+  title: Surveillance Sweep
+09024:
+  change: Limit 1 Per deck
+  id: keegan-lane
+  ingame_change: false
+  title: Keegan Lane
+09025:
+  change: Trace Boost 2->3
+  id: rutherford-grid
+  ingame_change: true
+  title: Rutherford Grid
+09026:
+  change: Limit 1 Per deck
+  id: global-food-initiative
+  ingame_change: false
+  title: Global Food Initiative
+09027:
+  change: null
+  id: launch-campaign
+  ingame_change: false
+  title: Launch Campaign
+09028:
+  change: null
+  id: assassin
+  ingame_change: false
+  title: Assassin
+09029:
+  change: Deck Size 45->40
+  id: apex-invasive-predator
+  ingame_change: false
+  title: 'Apex: Invasive Predator'
+09030:
+  change: Influence 3->5
+  id: apocalypse
+  ingame_change: false
+  title: Apocalypse
+09031:
+  change: null
+  id: prey
+  ingame_change: false
+  title: Prey
+09032:
+  change: null
+  id: heartbeat
+  ingame_change: false
+  title: Heartbeat
+09033:
+  change: MU 4->3
+  id: endless-hunger
+  ingame_change: true
+  title: Endless Hunger
+09034:
+  change: null
+  id: harbinger
+  ingame_change: false
+  title: Harbinger
+09035:
+  change: null
+  id: hunting-grounds
+  ingame_change: false
+  title: Hunting Grounds
+09036:
+  change: null
+  id: wasteland
+  ingame_change: false
+  title: Wasteland
+09037:
+  change: Deck Size 45->40
+  id: adam-compulsive-hacker
+  ingame_change: false
+  title: 'Adam: Compulsive Hacker'
+09038:
+  change: Cost 1->0
+  id: independent-thinking
+  ingame_change: true
+  title: Independent Thinking
+09039:
+  change: Cost 2->1
+  id: brain-chip
+  ingame_change: true
+  title: Brain Chip
+09040:
+  change: null
+  id: multithreader
+  ingame_change: false
+  title: Multithreader
+09041:
+  change: null
+  id: always-be-running
+  ingame_change: false
+  title: Always Be Running
+09042:
+  change: Cost 2->1
+  id: dr-lovegood
+  ingame_change: true
+  title: Dr. Lovegood
+09043:
+  change: null
+  id: neutralize-all-threats
+  ingame_change: false
+  title: Neutralize All Threats
+09044:
+  change: null
+  id: safety-first
+  ingame_change: false
+  title: Safety First
+09045:
+  change: null
+  id: sunny-lebeau-security-specialist
+  ingame_change: false
+  title: 'Sunny Lebeau: Security Specialist'
+09046:
+  change: Strength Increase 1->2
+  id: security-chip
+  ingame_change: true
+  title: Security Chip
+09047:
+  change: null
+  id: security-nexus
+  ingame_change: false
+  title: Security Nexus
+09048:
+  change: Cost 4->3
+  id: gs-striker-m1
+  ingame_change: true
+  title: GS Striker M1
+09049:
+  change: Cost 5->4
+  id: gs-shrike-m2
+  ingame_change: true
+  title: GS Shrike M2
+09050:
+  change: Cost 3->2
+  id: gs-sherman-m3
+  ingame_change: true
+  title: GS Sherman M3
+09051:
+  change: null
+  id: globalsec-security-clearance
+  ingame_change: false
+  title: Globalsec Security Clearance
+09052:
+  change: null
+  id: jak-sinclair
+  ingame_change: false
+  title: Jak Sinclair
+09053:
+  change: Cost 1->2
+  id: employee-strike
+  ingame_change: true
+  title: Employee Strike
+09054:
+  change: null
+  id: windfall
+  ingame_change: false
+  title: Windfall
+09055:
+  change: null
+  id: technical-writer
+  ingame_change: false
+  title: Technical Writer
+'10001':
+  change: null
+  id: run-amok
+  ingame_change: false
+  title: Run Amok
+'10002':
+  change: null
+  id: ramujan-reliant-550-bmi
+  ingame_change: false
+  title: Ramujan-reliant 550 BMI
+'10003':
+  change: null
+  id: street-magic
+  ingame_change: false
+  title: Street Magic
+'10004':
+  change: Cost 6->5
+  id: high-stakes-job
+  ingame_change: true
+  title: High-Stakes Job
+'10005':
+  change: null
+  id: mongoose
+  ingame_change: false
+  title: Mongoose
+'10006':
+  change: Influence 15->17
+  id: jesminder-sareen-girl-behind-the-curtain
+  ingame_change: false
+  title: 'Jesminder Sareen: Girl Behind the Curtain'
+'10007':
+  change: Cost 3->2
+  id: maya
+  ingame_change: true
+  title: Maya
+'10008':
+  change: null
+  id: panchatantra
+  ingame_change: false
+  title: Panchatantra
+'10009':
+  change: null
+  id: artist-colony
+  ingame_change: false
+  title: Artist Colony
+'10010':
+  change: Cost 1->0
+  id: chatterjee-university
+  ingame_change: true
+  title: Chatterjee University
+'10011':
+  change: Credits Gained 1->2
+  id: advanced-concept-hopper
+  ingame_change: true
+  title: Advanced Concept Hopper
+'10012':
+  change: null
+  id: vikram-1-0
+  ingame_change: false
+  title: Vikram 1.0
+'10013':
+  change: null
+  id: heritage-committee
+  ingame_change: false
+  title: Heritage Committee
+'10014':
+  change: null
+  id: mumbad-city-grid
+  ingame_change: false
+  title: Mumbad City Grid
+'10015':
+  change: null
+  id: kala-ghoda-real-tv
+  ingame_change: false
+  title: Kala Ghoda Real TV
+'10016':
+  change: Strength 4->6
+  id: interrupt-0
+  ingame_change: true
+  title: Interrupt 0
+'10017':
+  change: Influence 3->5
+  id: dedication-ceremony
+  ingame_change: false
+  title: Dedication Ceremony
+'10018':
+  change: Cost 1->3
+  id: mumba-temple
+  ingame_change: true
+  title: Mumba Temple
+'10019':
+  change: Trash Cost 3->0 (And UNIQUE)
+  id: museum-of-history
+  ingame_change: true
+  title: Museum of History
+'10020':
+  change: null
+  id: emp-device
+  ingame_change: false
+  title: EMP Device
+'10021':
+  change: Cost 1->0
+  id: diwan
+  ingame_change: true
+  title: Diwan
+'10022':
+  change: Cost 3->1
+  id: cbi-raid
+  ingame_change: true
+  title: CBI Raid
+'10023':
+  change: UNIQUE
+  id: tech-trader
+  ingame_change: true
+  title: Tech Trader
+'10024':
+  change: null
+  id: netchip
+  ingame_change: false
+  title: NetChip
+'10025':
+  change: null
+  id: corporate-scandal
+  ingame_change: false
+  title: Corporate Scandal
+'10026':
+  change: Cost 2->1
+  id: populist-rally
+  ingame_change: true
+  title: Populist Rally
+'10027':
+  change: null
+  id: advanced-assembly-lines
+  ingame_change: false
+  title: Advanced Assembly Lines
+'10028':
+  change: null
+  id: lakshmi-smartfabrics
+  ingame_change: false
+  title: Lakshmi Smartfabrics
+'10029':
+  change: null
+  id: product-recall
+  ingame_change: false
+  title: Product Recall
+'10030':
+  change: Influence 15->12
+  id: palana-foods-sustainable-growth
+  ingame_change: false
+  title: "P\u0101lan\u0101 Foods: Sustainable Growth"
+'10031':
+  change: null
+  id: palana-agroplex
+  ingame_change: false
+  title: "P\u0101lan\u0101 Agroplex"
+'10032':
+  change: Strength 3->5
+  id: harvester
+  ingame_change: true
+  title: Harvester
+'10033':
+  change: Handsize Increase 2->4
+  id: remote-data-farm
+  ingame_change: true
+  title: Remote Data Farm
+'10034':
+  change: null
+  id: disposable-hq
+  ingame_change: false
+  title: Disposable HQ
+'10035':
+  change: null
+  id: new-construction
+  ingame_change: false
+  title: New Construction
+'10036':
+  change: Cost 4->2
+  id: mumbad-construction-co
+  ingame_change: true
+  title: Mumbad Construction Co.
+'10037':
+  change: Credits 10->7
+  id: corporate-sales-team
+  ingame_change: true
+  title: Corporate Sales Team
+'10038':
+  change: Cost 2->0
+  id: pad-factory
+  ingame_change: true
+  title: PAD Factory
+'10039':
+  change: null
+  id: political-graffiti
+  ingame_change: false
+  title: Political Graffiti
+'10040':
+  change: Influence 15->17
+  id: nero-severn-information-broker
+  ingame_change: false
+  title: 'Nero Severn: Information Broker'
+'10041':
+  change: Cost 2->1
+  id: reflection
+  ingame_change: true
+  title: Reflection
+'10042':
+  change: null
+  id: spy-camera
+  ingame_change: false
+  title: Spy Camera
+'10043':
+  change: Influence 1->3
+  id: political-operative
+  ingame_change: false
+  title: Political Operative
+'10044':
+  change: Cost 4->2
+  id: sadyojata
+  ingame_change: true
+  title: Sadyojata
+'10045':
+  change: Influence 0->1
+  id: freedom-through-equality
+  ingame_change: false
+  title: '"Freedom Through Equality"'
+'10046':
+  change: null
+  id: akshara-sareen
+  ingame_change: false
+  title: Akshara Sareen
+'10047':
+  change: null
+  id: councilman
+  ingame_change: false
+  title: Councilman
+'10048':
+  change: Agenda Counters 3->5
+  id: voting-machine-initiative
+  ingame_change: true
+  title: Voting Machine Initiative
+'10049':
+  change: UNIQUE
+  id: clone-suffrage-movement
+  ingame_change: true
+  title: Clone Suffrage Movement
+'10050':
+  change: UNIQUE
+  id: bio-ethics-association
+  ingame_change: true
+  title: Bio-Ethics Association
+'10051':
+  change: Cost 4->2
+  id: political-dealings
+  ingame_change: true
+  title: Political Dealings
+'10052':
+  change: null
+  id: clones-are-not-people
+  ingame_change: false
+  title: '"Clones are not People"'
+'10053':
+  change: Cards Drawn 3->2
+  id: sensie-actors-union
+  ingame_change: true
+  title: Sensie Actors Union
+'10054':
+  change: UNIQUE
+  id: commercial-bankers-group
+  ingame_change: true
+  title: Commercial Bankers Group
+'10055':
+  change: Cost 1->4
+  id: mumbad-city-hall
+  ingame_change: true
+  title: Mumbad City Hall
+'10056':
+  change: Strength 0->1
+  id: bailiff
+  ingame_change: true
+  title: Bailiff
+'10057':
+  change: null
+  id: surat-city-grid
+  ingame_change: false
+  title: Surat City Grid
+'10058':
+  change: null
+  id: making-an-entrance
+  ingame_change: false
+  title: Making an Entrance
+'10059':
+  change: null
+  id: salsette-slums
+  ingame_change: false
+  title: Salsette Slums
+'10060':
+  change: null
+  id: exclusive-party
+  ingame_change: false
+  title: Exclusive Party
+'10061':
+  change: Cost 6->3
+  id: vamadeva
+  ingame_change: true
+  title: Vamadeva
+'10062':
+  change: null
+  id: brahman
+  ingame_change: false
+  title: Brahman
+'10063':
+  change: Cost 3->2
+  id: patron
+  ingame_change: true
+  title: Patron
+'10064':
+  change: Cost 3->2
+  id: sports-hopper
+  ingame_change: true
+  title: Sports Hopper
+'10065':
+  change: null
+  id: bazaar
+  ingame_change: false
+  title: Bazaar
+'10066':
+  change: Cards Trashed 1->3
+  id: personality-profiles
+  ingame_change: true
+  title: Personality Profiles
+'10067':
+  change: null
+  id: jeeves-model-bioroids
+  ingame_change: false
+  title: Jeeves Model Bioroids
+'10068':
+  change: null
+  id: raman-rai
+  ingame_change: false
+  title: Raman Rai
+'10069':
+  change: null
+  id: upayoga
+  ingame_change: false
+  title: Upayoga
+'10070':
+  change: null
+  id: aryabhata-tech
+  ingame_change: false
+  title: Aryabhata Tech
+'10071':
+  change: null
+  id: salem-s-hospitality
+  ingame_change: false
+  title: Salem's Hospitality
+'10072':
+  change: null
+  id: executive-search-firm
+  ingame_change: false
+  title: Executive Search Firm
+'10073':
+  change: null
+  id: indian-union-stock-exchange
+  ingame_change: false
+  title: Indian Union Stock Exchange
+'10074':
+  change: null
+  id: cobra
+  ingame_change: false
+  title: Cobra
+'10075':
+  change: null
+  id: localized-product-line
+  ingame_change: false
+  title: Localized Product Line
+'10076':
+  change: null
+  id: mumbad-virtual-tour
+  ingame_change: false
+  title: Mumbad Virtual Tour
+'10077':
+  change: null
+  id: the-noble-path
+  ingame_change: false
+  title: The Noble Path
+'10078':
+  change: null
+  id: emptied-mind
+  ingame_change: false
+  title: Emptied Mind
+'10079':
+  change: null
+  id: information-sifting
+  ingame_change: false
+  title: Information Sifting
+'10080':
+  change: Cost 1->0
+  id: out-of-the-ashes
+  ingame_change: true
+  title: Out of the Ashes
+'10081':
+  change: null
+  id: liberated-chela
+  ingame_change: false
+  title: Liberated Chela
+'10082':
+  change: Cost 2->0
+  id: temple-of-the-liberated-mind
+  ingame_change: true
+  title: Temple of the Liberated Mind
+'10083':
+  change: null
+  id: rebirth
+  ingame_change: false
+  title: Rebirth
+'10084':
+  change: null
+  id: guru-davinder
+  ingame_change: false
+  title: Guru Davinder
+'10085':
+  change: Influence 1->2
+  id: the-turning-wheel
+  ingame_change: false
+  title: The Turning Wheel
+'10086':
+  change: null
+  id: brainstorm
+  ingame_change: false
+  title: Brainstorm
+'10087':
+  change: null
+  id: ravana-1-0
+  ingame_change: false
+  title: Ravana 1.0
+'10088':
+  change: null
+  id: dedicated-neural-net
+  ingame_change: false
+  title: Dedicated Neural Net
+'10089':
+  change: Strength 3->4
+  id: chetana
+  ingame_change: true
+  title: Chetana
+'10090':
+  change: Counters 1->3
+  id: puppet-master
+  ingame_change: true
+  title: Puppet Master
+'10091':
+  change: Cost 5->2
+  id: waiver
+  ingame_change: true
+  title: Waiver
+'10092':
+  change: Now a Double
+  id: exchange-of-information
+  ingame_change: true
+  title: Exchange of Information
+'10093':
+  change: Cost 2->0
+  id: red-tape
+  ingame_change: true
+  title: Red Tape
+'10094':
+  change: null
+  id: consulting-visit
+  ingame_change: false
+  title: Consulting Visit
+'10095':
+  change: Cost 0->1
+  id: vanilla
+  ingame_change: true
+  title: Vanilla
+'10096':
+  change: null
+  id: fear-the-masses
+  ingame_change: false
+  title: Fear the Masses
+'10097':
+  change: Cost 5->3
+  id: aghora
+  ingame_change: true
+  title: Aghora
+'10098':
+  change: Cost 3->2
+  id: bhagat
+  ingame_change: true
+  title: Bhagat
+'10099':
+  change: null
+  id: the-black-file
+  ingame_change: false
+  title: The Black File
+'10100':
+  change: null
+  id: the-price-of-freedom
+  ingame_change: false
+  title: The Price of Freedom
+'10101':
+  change: null
+  id: ankusa
+  ingame_change: false
+  title: Ankusa
+'10102':
+  change: null
+  id: rigged-results
+  ingame_change: false
+  title: Rigged Results
+'10103':
+  change: Cost 3->2
+  id: magnet
+  ingame_change: true
+  title: Magnet
+'10104':
+  change: Influence 2->1
+  id: lateral-growth
+  ingame_change: false
+  title: Lateral Growth
+'10105':
+  change: Credits Gained 4->2
+  id: improved-protein-source
+  ingame_change: true
+  title: Improved Protein Source
+'10106':
+  change: null
+  id: voter-intimidation
+  ingame_change: false
+  title: Voter Intimidation
+'10107':
+  change: null
+  id: harishchandra-ent-where-you-re-the-star
+  ingame_change: false
+  title: 'Harishchandra Ent.: Where You''re the Star'
+'10108':
+  change: Cost 2->0
+  id: full-immersion-recstudio
+  ingame_change: true
+  title: Full Immersion RecStudio
+'10109':
+  change: Cards Trashed 1->2
+  id: ibrahim-salem
+  ingame_change: true
+  title: Ibrahim Salem
+'10110':
+  change: null
+  id: navi-mumbai-city-grid
+  ingame_change: false
+  title: Navi Mumbai City Grid
+'10111':
+  change: null
+  id: zealous-judge
+  ingame_change: false
+  title: Zealous Judge
+'10112':
+  change: Cards Drawn 5->7
+  id: election-day
+  ingame_change: true
+  title: Election Day
+'10113':
+  change: null
+  id: subcontract
+  ingame_change: false
+  title: Subcontract
+'10114':
+  change: Influence 1->0
+  id: merger
+  ingame_change: false
+  title: Merger
+'11001':
+  change: null
+  id: system-outage
+  ingame_change: false
+  title: System Outage
+'11002':
+  change: Deck Size 45->40
+  id: null-whistleblower
+  ingame_change: false
+  title: 'Null: Whistleblower'
+'11003':
+  change: null
+  id: gpi-net-tap
+  ingame_change: false
+  title: GPI Net Tap
+'11004':
+  change: null
+  id: hernando-cortez
+  ingame_change: false
+  title: Hernando Cortez
+'11005':
+  change: Cost 3->2
+  id: mirror
+  ingame_change: true
+  title: Mirror
+'11006':
+  change: Cost 6->4
+  id: dai-v
+  ingame_change: true
+  title: Dai V
+'11007':
+  change: null
+  id: another-day-another-paycheck
+  ingame_change: false
+  title: Another Day, Another Paycheck
+'11008':
+  change: null
+  id: deuces-wild
+  ingame_change: false
+  title: Deuces Wild
+'11009':
+  change: Cost 1->0
+  id: injection-attack
+  ingame_change: true
+  title: Injection Attack
+'11010':
+  change: null
+  id: fairchild-1-0
+  ingame_change: false
+  title: Fairchild 1.0
+'11011':
+  change: null
+  id: sherlock-2-0
+  ingame_change: false
+  title: Sherlock 2.0
+'11012':
+  change: null
+  id: hyoubu-research-facility
+  ingame_change: false
+  title: Hyoubu Research Facility
+'11013':
+  change: Cost 3->2
+  id: chrysalis
+  ingame_change: true
+  title: Chrysalis
+'11014':
+  change: Cost to move Servers 2->1
+  id: georgia-emelyov
+  ingame_change: true
+  title: Georgia Emelyov
+'11015':
+  change: 1->3 for each tag
+  id: watchdog
+  ingame_change: true
+  title: Watchdog
+'11016':
+  change: Tags 4->3
+  id: hard-hitting-news
+  ingame_change: true
+  title: Hard-Hitting News
+'11017':
+  change: Trace strength 4->3
+  id: nbn-controlling-the-message
+  ingame_change: true
+  title: 'NBN: Controlling the Message'
+'11018':
+  change: Meat Damage 1->2
+  id: crisis-management
+  ingame_change: true
+  title: Crisis Management
+'11019':
+  change: null
+  id: stock-buy-back
+  ingame_change: false
+  title: Stock Buy-Back
+'11020':
+  change: Trash Cost 4->1
+  id: sandburg
+  ingame_change: true
+  title: Sandburg
+'11021':
+  change: Cost 1->0
+  id: credit-crash
+  ingame_change: true
+  title: Credit Crash
+'11022':
+  change: Only affects Assets
+  id: rumor-mill
+  ingame_change: true
+  title: Rumor Mill
+'11023':
+  change: Strength 1->2
+  id: nfr
+  ingame_change: true
+  title: Nfr
+'11024':
+  change: Cost 4->7
+  id: paperclip
+  ingame_change: true
+  title: Paperclip
+'11025':
+  change: null
+  id: golden
+  ingame_change: false
+  title: Golden
+'11026':
+  change: Credits Gained per run 4->2
+  id: temujin-contract
+  ingame_change: true
+  title: "Tem\xFCjin Contract"
+'11027':
+  change: Install Cost reduction 1->4
+  id: khan-savvy-skiptracer
+  ingame_change: true
+  title: 'Khan: Savvy Skiptracer'
+'11028':
+  change: null
+  id: data-breach
+  ingame_change: false
+  title: Data Breach
+'11029':
+  change: null
+  id: algo-trading
+  ingame_change: false
+  title: Algo Trading
+'11030':
+  change: Cost 2->3
+  id: beth-kilrain-chang
+  ingame_change: true
+  title: Beth Kilrain-Chang
+'11031':
+  change: null
+  id: fairchild-2-0
+  ingame_change: false
+  title: Fairchild 2.0
+'11032':
+  change: null
+  id: aiki
+  ingame_change: false
+  title: Aiki
+'11033':
+  change: null
+  id: enforcing-loyalty
+  ingame_change: false
+  title: Enforcing Loyalty
+'11034':
+  change: Trash Cost 0->3
+  id: hatchet-job
+  ingame_change: true
+  title: Hatchet Job
+'11035':
+  change: Cost 1->0
+  id: special-report
+  ingame_change: true
+  title: Special Report
+'11036':
+  change: Trash Cost 2->5
+  id: c-i-fund
+  ingame_change: true
+  title: C.I. Fund
+'11037':
+  change: Credits per trashed card 3->4
+  id: liquidation
+  ingame_change: true
+  title: Liquidation
+'11038':
+  change: Influence 12->15
+  id: weyland-consortium-builder-of-nations
+  ingame_change: false
+  title: 'Weyland Consortium: Builder of Nations'
+'11039':
+  change: null
+  id: financial-collapse
+  ingame_change: false
+  title: Financial Collapse
+'11040':
+  change: null
+  id: prisec
+  ingame_change: false
+  title: Prisec
+'11041':
+  change: null
+  id: obelus
+  ingame_change: false
+  title: Obelus
+'11042':
+  change: Cost 3->5
+  id: black-orchestra
+  ingame_change: true
+  title: Black Orchestra
+'11043':
+  change: null
+  id: omar-keung-conspiracy-theorist
+  ingame_change: false
+  title: 'Omar Keung: Conspiracy Theorist'
+'11044':
+  change: null
+  id: peregrine
+  ingame_change: false
+  title: Peregrine
+'11045':
+  change: null
+  id: houdini
+  ingame_change: false
+  title: Houdini
+'11046':
+  change: Cost 3->5
+  id: net-mercur
+  ingame_change: true
+  title: Net Mercur
+'11047':
+  change: Influence 3->5
+  id: find-the-truth
+  ingame_change: false
+  title: Find the Truth
+'11048':
+  change: Cost 2->0
+  id: first-responders
+  ingame_change: true
+  title: First Responders
+'11049':
+  change: Cost 6->7
+  id: fairchild-3-0
+  ingame_change: true
+  title: Fairchild 3.0
+'11050':
+  change: null
+  id: ark-lockdown
+  ingame_change: false
+  title: Ark Lockdown
+'11051':
+  change: null
+  id: hellion-beta-test
+  ingame_change: false
+  title: Hellion Beta Test
+'11052':
+  change: null
+  id: project-kusanagi
+  ingame_change: false
+  title: Project Kusanagi
+'11053':
+  change: Cost 8->9
+  id: dna-tracker
+  ingame_change: true
+  title: DNA Tracker
+'11054':
+  change: Influence 12->10
+  id: jinteki-potential-unleashed
+  ingame_change: false
+  title: 'Jinteki: Potential Unleashed'
+'11055':
+  change: Cost 1->0
+  id: alexa-belsky
+  ingame_change: true
+  title: Alexa Belsky
+'11056':
+  change: Cards Trashed 1->2
+  id: observe-and-destroy
+  ingame_change: true
+  title: Observe and Destroy
+'11057':
+  change: null
+  id: service-outage
+  ingame_change: false
+  title: Service Outage
+'11058':
+  change: Tags required 2->3
+  id: boom
+  ingame_change: true
+  title: BOOM!
+'11059':
+  change: null
+  id: door-to-door
+  ingame_change: false
+  title: Door to Door
+'11060':
+  change: Cost 1->2
+  id: scarcity-of-resources
+  ingame_change: true
+  title: Scarcity of Resources
+'11061':
+  change: null
+  id: en-passant
+  ingame_change: false
+  title: En Passant
+'11062':
+  change: Cost 3->2
+  id: frantic-coding
+  ingame_change: true
+  title: Frantic Coding
+'11063':
+  change: Cost 5->3
+  id: the-gauntlet
+  ingame_change: true
+  title: The Gauntlet
+'11064':
+  change: null
+  id: saker
+  ingame_change: false
+  title: Saker
+'11065':
+  change: Cost 1->0
+  id: blockade-runner
+  ingame_change: true
+  title: Blockade Runner
+'11066':
+  change: null
+  id: ele-smoke-scovak-cynosure-of-the-net
+  ingame_change: false
+  title: 'Ele "Smoke" Scovak: Cynosure of the Net'
+'11067':
+  change: null
+  id: top-hat
+  ingame_change: false
+  title: Top Hat
+'11068':
+  change: null
+  id: blackstone
+  ingame_change: false
+  title: Blackstone
+'11069':
+  change: null
+  id: government-investigations
+  ingame_change: false
+  title: Government Investigations
+'11070':
+  change: null
+  id: citadel-sanctuary
+  ingame_change: false
+  title: Citadel Sanctuary
+'11071':
+  change: Cost 1->0
+  id: wetwork-refit
+  ingame_change: true
+  title: Wetwork Refit
+'11072':
+  change: Influence 12->15
+  id: haas-bioroid-architects-of-tomorrow
+  ingame_change: false
+  title: 'Haas-Bioroid: Architects of Tomorrow'
+'11073':
+  change: Cost 4->1
+  id: fumiko-yamamori
+  ingame_change: true
+  title: Fumiko Yamamori
+'11074':
+  change: null
+  id: hasty-relocation
+  ingame_change: false
+  title: Hasty Relocation
+'11075':
+  change: Cost 6->5
+  id: data-ward
+  ingame_change: true
+  title: Data Ward
+'11076':
+  change: null
+  id: drone-screen
+  ingame_change: false
+  title: Drone Screen
+'11077':
+  change: Trash Cost 3->5
+  id: chief-slee
+  ingame_change: true
+  title: Chief Slee
+'11078':
+  change: Cost 10->9
+  id: bulwark
+  ingame_change: true
+  title: Bulwark
+'11079':
+  change: null
+  id: best-defense
+  ingame_change: false
+  title: Best Defense
+'11080':
+  change: null
+  id: preemptive-action
+  ingame_change: false
+  title: Preemptive Action
+'11081':
+  change: Cost 2->4
+  id: mkultra
+  ingame_change: true
+  title: MKUltra
+'11082':
+  change: null
+  id: on-the-lam
+  ingame_change: false
+  title: On the Lam
+'11083':
+  change: null
+  id: cold-read
+  ingame_change: false
+  title: Cold Read
+'11084':
+  change: null
+  id: equivocation
+  ingame_change: false
+  title: Equivocation
+'11085':
+  change: Cost 0->2
+  id: misdirection
+  ingame_change: true
+  title: Misdirection
+'11086':
+  change: null
+  id: reaver
+  ingame_change: false
+  title: Reaver
+'11087':
+  change: null
+  id: interdiction
+  ingame_change: false
+  title: Interdiction
+'11088':
+  change: Influence 2->0
+  id: baba-yaga
+  ingame_change: false
+  title: Baba Yaga
+'11089':
+  change: null
+  id: fairchild
+  ingame_change: false
+  title: Fairchild
+'11090':
+  change: Cost 2->3
+  id: friends-in-high-places
+  ingame_change: true
+  title: Friends in High Places
+'11091':
+  change: Clicks Gained 1->2
+  id: manta-grid
+  ingame_change: true
+  title: Manta Grid
+'11092':
+  change: null
+  id: mind-game
+  ingame_change: false
+  title: Mind Game
+'11093':
+  change: Cost 1->0
+  id: nihongai-grid
+  ingame_change: true
+  title: Nihongai Grid
+'11094':
+  change: Strength 4->3
+  id: ip-block
+  ingame_change: true
+  title: IP Block
+'11095':
+  change: Cost 7->6
+  id: thoth
+  ingame_change: true
+  title: Thoth
+'11096':
+  change: null
+  id: anson-rose
+  ingame_change: false
+  title: Anson Rose
+'11097':
+  change: null
+  id: mausolus
+  ingame_change: false
+  title: Mausolus
+'11098':
+  change: null
+  id: sapper
+  ingame_change: false
+  title: Sapper
+'11099':
+  change: null
+  id: show-of-force
+  ingame_change: false
+  title: Show of Force
+'11100':
+  change: null
+  id: enforced-curfew
+  ingame_change: false
+  title: Enforced Curfew
+'11101':
+  change: Strength Lowered to 0->3
+  id: sifr
+  ingame_change: true
+  title: "\u015Eifr"
+'11102':
+  change: Subs broken 1->All
+  id: sunya
+  ingame_change: true
+  title: "S\u016Bnya"
+'11103':
+  change: Cost 1->0
+  id: recon-drone
+  ingame_change: true
+  title: Recon Drone
+'11104':
+  change: Trash -> Remove from Game
+  id: tapwrm
+  ingame_change: true
+  title: Tapwrm
+'11105':
+  change: null
+  id: tracker
+  ingame_change: false
+  title: Tracker
+'11106':
+  change: Ability also Costs a click
+  id: aaron-marron
+  ingame_change: true
+  title: "Aaron Marr\xF3n"
+'11107':
+  change: null
+  id: encore
+  ingame_change: false
+  title: Encore
+'11108':
+  change: Subroutines broken 1->All
+  id: fawkes
+  ingame_change: true
+  title: Fawkes
+'11109':
+  change: Credits Gained 10->8
+  id: peace-in-our-time
+  ingame_change: true
+  title: Peace in Our Time
+'11110':
+  change: Agenda Counters 1->3
+  id: sensor-net-activation
+  ingame_change: true
+  title: Sensor Net Activation
+'11111':
+  change: Credits Gained 8->6
+  id: violet-level-clearance
+  ingame_change: true
+  title: Violet Level Clearance
+'11112':
+  change: Cost 12->11
+  id: chiyashi
+  ingame_change: true
+  title: Chiyashi
+'11113':
+  change: Cost 1->0
+  id: psychokinesis
+  ingame_change: true
+  title: Psychokinesis
+'11114':
+  change: For every 2->1 credits spent
+  id: net-quarantine
+  ingame_change: true
+  title: Net Quarantine
+'11115':
+  change: Strength 1->4
+  id: herald
+  ingame_change: true
+  title: Herald
+'11116':
+  change: null
+  id: veritas
+  ingame_change: false
+  title: Veritas
+'11117':
+  change: Click Cost 1->3
+  id: bryan-stinson
+  ingame_change: true
+  title: Bryan Stinson
+'11118':
+  change: null
+  id: nasx
+  ingame_change: false
+  title: NASX
+'11119':
+  change: null
+  id: macrophage
+  ingame_change: false
+  title: Macrophage
+'11120':
+  change: null
+  id: tribunal
+  ingame_change: false
+  title: Tribunal
+'12001':
+  change: Cost 3->0
+  id: pushing-the-envelope
+  ingame_change: true
+  title: Pushing the Envelope
+'12002':
+  change: Cost 6->5
+  id: maw
+  ingame_change: true
+  title: Maw
+'12003':
+  change: null
+  id: the-archivist
+  ingame_change: false
+  title: The Archivist
+'12004':
+  change: null
+  id: exploit
+  ingame_change: false
+  title: Exploit
+'12005':
+  change: Cost 2->1
+  id: spot-the-prey
+  ingame_change: true
+  title: Spot the Prey
+'12006':
+  change: null
+  id: bio-modeled-network
+  ingame_change: false
+  title: Bio-Modeled Network
+'12007':
+  change: Cost 2->1
+  id: network-exchange
+  ingame_change: true
+  title: Network Exchange
+'12008':
+  change: Cost 0->4
+  id: mad-dash
+  ingame_change: true
+  title: Mad Dash
+'12009':
+  change: null
+  id: next-wave-2
+  ingame_change: false
+  title: NEXT Wave 2
+'12010':
+  change: Cost 6->4
+  id: zed-2-0
+  ingame_change: true
+  title: Zed 2.0
+'12011':
+  change: 2->0
+  id: defense-construct
+  ingame_change: true
+  title: Defense Construct
+'12012':
+  change: Trash Cost 2->5
+  id: synth-dna-modification
+  ingame_change: true
+  title: Synth DNA Modification
+'12013':
+  change: null
+  id: kakugo
+  ingame_change: false
+  title: Kakugo
+'12014':
+  change: Trash Cost 3->5
+  id: net-analytics
+  ingame_change: true
+  title: Net Analytics
+'12015':
+  change: null
+  id: sync-bre
+  ingame_change: false
+  title: SYNC BRE
+'12016':
+  change: Influence 15->17
+  id: jemison-astronautics-sacrifice-audacity-success
+  ingame_change: false
+  title: 'Jemison Astronautics: Sacrifice. Audacity. Success.'
+'12017':
+  change: Cost Reduction 2->3
+  id: quarantine-system
+  ingame_change: true
+  title: Quarantine System
+'12018':
+  change: null
+  id: oberth-protocol
+  ingame_change: false
+  title: Oberth Protocol
+'12019':
+  change: Cost 3->1
+  id: khondi-plaza
+  ingame_change: true
+  title: Khondi Plaza
+'12020':
+  change: null
+  id: signal-jamming
+  ingame_change: false
+  title: Signal Jamming
+'12021':
+  change: null
+  id: severnius-stim-implant
+  ingame_change: false
+  title: Severnius Stim Implant
+'12022':
+  change: null
+  id: clan-vengeance
+  ingame_change: false
+  title: Clan Vengeance
+'12023':
+  change: Maximum 7 Cards
+  id: counter-surveillance
+  ingame_change: true
+  title: Counter Surveillance
+'12024':
+  change: null
+  id: mobius
+  ingame_change: false
+  title: "M\xF6bius"
+'12025':
+  change: null
+  id: los-data-hijacker
+  ingame_change: false
+  title: 'Los: Data Hijacker'
+'12026':
+  change: null
+  id: system-seizure
+  ingame_change: false
+  title: System Seizure
+'12027':
+  change: Cost 2->0
+  id: customized-secretary
+  ingame_change: true
+  title: Customized Secretary
+'12028':
+  change: Credits gained 1->2
+  id: build-script
+  ingame_change: true
+  title: Build Script
+'12029':
+  change: null
+  id: seidr-adaptive-barrier
+  ingame_change: false
+  title: Seidr Adaptive Barrier
+'12030':
+  change: Strength 4->5
+  id: nerine-2-0
+  ingame_change: true
+  title: Nerine 2.0
+'12031':
+  change: Limit 1 Per Deck
+  id: load-testing
+  ingame_change: false
+  title: Load Testing
+'12032':
+  change: Strength 3->5
+  id: bloom
+  ingame_change: true
+  title: Bloom
+'12033':
+  change: Cards installed 2->Up to 3
+  id: replanting
+  ingame_change: true
+  title: Replanting
+'12034':
+  change: Credits Gained 1->2
+  id: cpc-generator
+  ingame_change: true
+  title: CPC Generator
+'12035':
+  change: Cost 3->2
+  id: free-lunch
+  ingame_change: true
+  title: Free Lunch
+'12036':
+  change: null
+  id: mca-informant
+  ingame_change: false
+  title: MCA Informant
+'12037':
+  change: null
+  id: clyde-van-rite
+  ingame_change: false
+  title: Clyde Van Rite
+'12038':
+  change: Strength 3->4
+  id: watchtower
+  ingame_change: true
+  title: Watchtower
+'12039':
+  change: Credits Gained 1->4
+  id: sacrifice
+  ingame_change: true
+  title: Sacrifice
+'12040':
+  change: Cost 3->2
+  id: self-adapting-code-wall
+  ingame_change: true
+  title: Self-Adapting Code Wall
+'12041':
+  change: Cost 4->3
+  id: berserker
+  ingame_change: true
+  title: Berserker
+'12042':
+  change: null
+  id: persephone
+  ingame_change: false
+  title: Persephone
+'12043':
+  change: ???
+  id: rubicon-switch
+  ingame_change: true
+  title: Rubicon Switch
+'12044':
+  change: UNIQUE
+  id: aeneas-informant
+  ingame_change: true
+  title: Aeneas Informant
+'12045':
+  change: null
+  id: rosetta-2-0
+  ingame_change: false
+  title: Rosetta 2.0
+'12046':
+  change: null
+  id: adjusted-matrix
+  ingame_change: false
+  title: Adjusted Matrix
+'12047':
+  change: null
+  id: dedicated-processor
+  ingame_change: false
+  title: Dedicated Processor
+'12048':
+  change: Strength 2->1
+  id: inversificator
+  ingame_change: true
+  title: Inversificator
+'12049':
+  change: null
+  id: dadiana-chacon
+  ingame_change: false
+  title: Dadiana Chacon
+'12050':
+  change: Cost 4->1
+  id: next-opal
+  ingame_change: true
+  title: NEXT Opal
+'12051':
+  change: null
+  id: bioroid-work-crew
+  ingame_change: false
+  title: Bioroid Work Crew
+'12052':
+  change: Influence 17->15
+  id: aginfusion-new-miracles-for-a-new-world
+  ingame_change: false
+  title: 'AgInfusion: New Miracles for a New World'
+'12053':
+  change: Trash Cost 2->5
+  id: bamboo-dome
+  ingame_change: true
+  title: Bamboo Dome
+'12054':
+  change: null
+  id: ben-musashi
+  ingame_change: false
+  title: Ben Musashi
+'12055':
+  change: null
+  id: authenticator
+  ingame_change: false
+  title: Authenticator
+'12056':
+  change: Trash Cost 2->4
+  id: henry-phillips
+  ingame_change: true
+  title: Henry Phillips
+'12057':
+  change: Cost 3->2
+  id: battlement
+  ingame_change: true
+  title: Battlement
+'12058':
+  change: Cost 0->3
+  id: audacity
+  ingame_change: true
+  title: Audacity
+'12059':
+  change: null
+  id: red-planet-couriers
+  ingame_change: false
+  title: Red Planet Couriers
+'12060':
+  change: null
+  id: owl
+  ingame_change: false
+  title: Owl
+'12061':
+  change: Deck Size 50->45
+  id: alice-merchant-clan-agitator
+  ingame_change: false
+  title: 'Alice Merchant: Clan Agitator'
+'12062':
+  change: null
+  id: jarogniew-mercs
+  ingame_change: false
+  title: Jarogniew Mercs
+'12063':
+  change: Cost 5->3
+  id: maui
+  ingame_change: true
+  title: "M\u0101ui"
+'12064':
+  change: null
+  id: bug-out-bag
+  ingame_change: false
+  title: Bug Out Bag
+'12065':
+  change: null
+  id: keros-mcintyre
+  ingame_change: false
+  title: Keros Mcintyre
+'12066':
+  change: null
+  id: daredevil
+  ingame_change: false
+  title: Daredevil
+'12067':
+  change: MU 2->1
+  id: mass-driver
+  ingame_change: true
+  title: Mass-Driver
+'12068':
+  change: null
+  id: warroid-tracker
+  ingame_change: false
+  title: Warroid Tracker
+'12069':
+  change: null
+  id: loki
+  ingame_change: false
+  title: Loki
+'12070':
+  change: Net Damage 4->3
+  id: obokata-protocol
+  ingame_change: true
+  title: Obokata Protocol
+'12071':
+  change: null
+  id: miraju
+  ingame_change: false
+  title: "Mir\u0101ju"
+'12072':
+  change: null
+  id: shipment-from-tennin
+  ingame_change: false
+  title: Shipment from Tennin
+'12073':
+  change: null
+  id: escalate-vitriol
+  ingame_change: false
+  title: Escalate Vitriol
+'12074':
+  change: null
+  id: reeducation
+  ingame_change: false
+  title: Reeducation
+'12075':
+  change: Credits Gained 1->4
+  id: traffic-analyzer
+  ingame_change: true
+  title: Traffic Analyzer
+'12076':
+  change: Advancement Requirement 5->4
+  id: meteor-mining
+  ingame_change: true
+  title: Meteor Mining
+'12077':
+  change: null
+  id: standoff
+  ingame_change: false
+  title: Standoff
+'12078':
+  change: null
+  id: success
+  ingame_change: false
+  title: Success
+'12079':
+  change: Ability now Costs a click to use
+  id: whampoa-reclamation
+  ingame_change: true
+  title: Whampoa Reclamation
+'12080':
+  change: null
+  id: mass-commercialization
+  ingame_change: false
+  title: Mass Commercialization
+'12081':
+  change: Maximum 7 Credits
+  id: mars-for-martians
+  ingame_change: true
+  title: Mars for Martians
+'12082':
+  change: null
+  id: god-of-war
+  ingame_change: false
+  title: God of War
+'12083':
+  change: null
+  id: leave-no-trace
+  ingame_change: false
+  title: Leave No Trace
+'12084':
+  change: null
+  id: rip-deal
+  ingame_change: false
+  title: Rip Deal
+'12085':
+  change: null
+  id: flashbang
+  ingame_change: false
+  title: Flashbang
+'12086':
+  change: Cost 2->1
+  id: lean-and-mean
+  ingame_change: true
+  title: Lean and Mean
+'12087':
+  change: null
+  id: maven
+  ingame_change: false
+  title: Maven
+'12088':
+  change: Strength 1->0
+  id: na-not-k
+  ingame_change: true
+  title: Na'Not'K
+'12089':
+  change: Cards Removed 1->4
+  id: bloo-moose
+  ingame_change: true
+  title: Bloo Moose
+'12090':
+  change: Cards Trashed 1->3
+  id: o-shortage
+  ingame_change: true
+  title: "O\u2082 Shortage"
+'12091':
+  change: null
+  id: helheim-servers
+  ingame_change: false
+  title: Helheim Servers
+'12092':
+  change: null
+  id: mandatory-seed-replacement
+  ingame_change: false
+  title: Mandatory Seed Replacement
+'12093':
+  change: null
+  id: water-monopoly
+  ingame_change: false
+  title: Water Monopoly
+'12094':
+  change: Cost 3->0
+  id: metamorph
+  ingame_change: true
+  title: Metamorph
+'12095':
+  change: null
+  id: data-loop
+  ingame_change: false
+  title: Data Loop
+'12096':
+  change: null
+  id: biased-reporting
+  ingame_change: false
+  title: Biased Reporting
+'12097':
+  change: null
+  id: open-forum
+  ingame_change: false
+  title: Open Forum
+'12098':
+  change: null
+  id: tithonium
+  ingame_change: false
+  title: Tithonium
+'12099':
+  change: Credits Gained 1->2
+  id: transparency-initiative
+  ingame_change: true
+  title: Transparency Initiative
+'12100':
+  change: Cost 2->0
+  id: rover-algorithm
+  ingame_change: true
+  title: Rover Algorithm
+'12101':
+  change: Credits 5->4
+  id: mining-accident
+  ingame_change: true
+  title: Mining Accident
+'12102':
+  change: Counters before trashing 3->5
+  id: respirocytes
+  ingame_change: true
+  title: Respirocytes
+'12103':
+  change: Maximum 5 Cards
+  id: salvaged-vanadis-armory
+  ingame_change: true
+  title: Salvaged Vanadis Armory
+'12104':
+  change: No longer triggers on expose or remote servers
+  id: aumakua
+  ingame_change: true
+  title: Aumakua
+'12105':
+  change: null
+  id: caldera
+  ingame_change: false
+  title: Caldera
+'12106':
+  change: Cost 4->1
+  id: diana-s-hunt
+  ingame_change: true
+  title: Diana's Hunt
+'12107':
+  change: Cost 3->1
+  id: reshape
+  ingame_change: true
+  title: Reshape
+'12108':
+  change: Limit Once Per Turn
+  id: dummy-box
+  ingame_change: true
+  title: Dummy Box
+'12109':
+  change: null
+  id: corporate-defector
+  ingame_change: false
+  title: Corporate Defector
+'12110':
+  change: Credits Gained 2->4
+  id: cfc-excavation-contract
+  ingame_change: true
+  title: CFC Excavation Contract
+'12111':
+  change: Trash Cost 3->2
+  id: mca-austerity-policy
+  ingame_change: true
+  title: MCA Austerity Policy
+'12112':
+  change: Cost 1->0
+  id: restore
+  ingame_change: true
+  title: Restore
+'12113':
+  change: Limit 1 Per Deck
+  id: breached-dome
+  ingame_change: false
+  title: Breached Dome
+'12114':
+  change: null
+  id: sand-storm
+  ingame_change: false
+  title: Sand Storm
+'12115':
+  change: null
+  id: ar-enhanced-security
+  ingame_change: false
+  title: AR-Enhanced Security
+'12116':
+  change: null
+  id: rolling-brownout
+  ingame_change: false
+  title: Rolling Brownout
+'12117':
+  change: null
+  id: threat-level-alpha
+  ingame_change: false
+  title: Threat Level Alpha
+'12118':
+  change: null
+  id: priority-construction
+  ingame_change: false
+  title: Priority Construction
+'12119':
+  change: null
+  id: fractal-threat-matrix
+  ingame_change: false
+  title: Fractal Threat Matrix
+'12120':
+  change: Cost 8->6
+  id: conundrum
+  ingame_change: true
+  title: Conundrum
+'50001':
+  change: New card
+  id: molotov
+  ingame_change: true
+  title: Molotov
+'50002':
+  change: New card
+  id: human-rights-riot
+  ingame_change: true
+  title: Human Rights Riot
+'50003':
+  change: Cost 3->2
+  id: bhagat
+  ingame_change: true
+  title: Bhagat
+'50004':
+  change: New card
+  id: on-the-trail
+  ingame_change: true
+  title: On the Trail
+'50005':
+  change: New card
+  id: sniper
+  ingame_change: true
+  title: Sniper
+'50006':
+  change: Limit 1 Per deck
+  id: crowdfunding
+  ingame_change: false
+  title: Crowdfunding
+'50007':
+  change: Cost 6->5
+  id: high-stakes-job
+  ingame_change: true
+  title: High-Stakes Job
+'50008':
+  change: New card
+  id: connect-the-dots
+  ingame_change: true
+  title: Connect the Dots
+'50009':
+  change: New card
+  id: subsidized-processor
+  ingame_change: true
+  title: Subsidized Processor
+'50010':
+  change: Deck Size 45->40
+  id: akiko-nisei-head-case
+  ingame_change: false
+  title: "Akiko Nisei: Head Case"
+'50011':
+  change: null
+  id: nyashia
+  ingame_change: false
+  title: Nyashia
+'50012':
+  change: null
+  id: psych-mike
+  ingame_change: false
+  title: Psych Mike
+'50013':
+  change: Credits Gained 1->2
+  id: build-script
+  ingame_change: true
+  title: Build Script
+'50014':
+  change: Cost 3->2
+  id: sports-hopper
+  ingame_change: true
+  title: Sports Hopper
+'50015':
+  change: New card
+  id: next-level-clearance
+  ingame_change: true
+  title: NEXT Level Clearance
+'50016':
+  change: New card
+  id: waldemar-1-0
+  ingame_change: true
+  title: Waldemar 1.0
+'50017':
+  change: Limit 1 Per deck
+  id: ikawah-project
+  ingame_change: false
+  title: Ikawah Project
+'50018':
+  change: null
+  id: ravana-1-0
+  ingame_change: false
+  title: Ravana 1.0
+'50019':
+  change: New card
+  id: thistle
+  ingame_change: true
+  title: Thistle
+'50020':
+  change: New card
+  id: anglerfish
+  ingame_change: true
+  title: Anglerfish
+'50021':
+  change: Cost 4->2
+  id: political-dealings
+  ingame_change: true
+  title: Political Dealings
+'50022':
+  change: Trash 3->4
+  id: ben-musashi
+  ingame_change: true
+  title: Ben Musashi
+'50023':
+  change: New card
+  id: snickerdoodle
+  ingame_change: true
+  title: Snickerdoodle
+'50024':
+  change: New card
+  id: kampala-city-grid
+  ingame_change: true
+  title: Kampala City Grid
+'50025':
+  change: Tags 1->2
+  id: fly-on-the-wall
+  ingame_change: True
+  title: Fly on the Wall
+'50026':
+  change: Cost 0->1
+  id: exchange-of-information
+  ingame_change: false
+  title: Exchange of Information
+'50027':
+  change: New card
+  id: bouncer
+  ingame_change: true
+  title: Bouncer
+'50028':
+  change: New card
+  id: kwolek
+  ingame_change: true
+  title: Kwolek
+'50029':
+  change: null
+  id: commercial-bankers-group
+  ingame_change: false
+  title: Commercial Bankers Group
+'50030':
+  change: Influence 0->2
+  id: ipo
+  ingame_change: false
+  title: IPO
+'51001':
+  card_id: echo-memvaults-reality-reimagined
+  change: New card
+  ingame_change: true
+  title: 'Echo Memvaults: Reality Reimagined'
+'51002':
+  card_id: nostalgiologists
+  change: New card
+  ingame_change: true
+  title: Nostalgiologists
+'51003':
+  card_id: microtransactions
+  change: New card
+  ingame_change: true
+  title: Microtransactions
+'51004':
+  card_id: nootropics-campaign
+  change: New card
+  ingame_change: true
+  title: Nootropics Campaign
+'51005':
+  card_id: vulcan-1-0
+  change: New card
+  ingame_change: true
+  title: Vulcan 1.0
+'51006':
+  card_id: magnet
+  change: null
+  ingame_change: false
+  title: Magnet
+'51007':
+  card_id: o-shortage
+  change: Cost 3->0
+  ingame_change: true
+  title: O2 Shortage
+'51008':
+  card_id: lateral-growth
+  change: Inf 2->1
+  ingame_change: false
+  title: Lateral Growth
+'51009':
+  card_id: caterpillar
+  change: New card
+  ingame_change: true
+  title: Caterpillar
+'51010':
+  card_id: thicket
+  change: New card
+  ingame_change: true
+  title: Thicket
+'51011':
+  card_id: talent-scout
+  change: New card
+  ingame_change: true
+  title: Talent Scout
+'51012':
+  card_id: amani-senai
+  change: null
+  ingame_change: false
+  title: Amani Senai
+'51013':
+  card_id: foxtrot
+  change: New card
+  ingame_change: true
+  title: Foxtrot
+'51014':
+  card_id: armed-intimidation
+  change: Tags given 2->3
+  ingame_change: false
+  title: Armed Intimidation
+'51015':
+  card_id: the-horde
+  change: New card
+  ingame_change: true
+  title: 'The Horde: Defiant Disenfrancistos'
+'51016':
+  card_id: p4inappl3
+  change: New card
+  ingame_change: true
+  title: P4inappl3
+'51017':
+  card_id: stim-graft
+  change: New card
+  ingame_change: true
+  title: Stim Graft
+'51018':
+  card_id: glee
+  change: New card
+  ingame_change: true
+  title: Glee
+'51019':
+  card_id: termite
+  change: New card
+  ingame_change: true
+  title: Termite
+'51020':
+  card_id: for-the-laughs
+  change: New card
+  ingame_change: true
+  title: For the Laughs
+'51021':
+  card_id: system-outage
+  change: Cost 1->0
+  ingame_change: true
+  title: System Outage
+'51022':
+  card_id: frantic-coding
+  change: Cost 3->2
+  ingame_change: true
+  title: Frantic Coding
+'51023':
+  card_id: walrus
+  change: New card
+  ingame_change: true
+  title: Walrus
+'51024':
+  card_id: pad-tap
+  change: Cost 0->1
+  ingame_change: True
+  title: PAD Tap
+'51025':
+  card_id: futureproofing
+  change: New card
+  ingame_change: true
+  title: Futureproofing
+'51026':
+  card_id: patron
+  change: Cost 3->2
+  ingame_change: true
+  title: Patron
+'51027':
+  card_id: repurpose
+  change: New card
+  ingame_change: true
+  title: Repurpose
+'51028':
+  card_id: synaptic-remodulator
+  change: New card
+  ingame_change: true
+  title: Synaptic Remodulator
+'51029':
+  card_id: cloudburst
+  change: New card
+  ingame_change: true
+  title: Cloudburst
+'51030':
+  card_id: process-automation
+  change: Credits Gained 2->3
+  ingame_change: True
+  title: Process Automation
+'52001':
+  card_id: chronal-retrofitting
+  change: New card
+  ingame_change: true
+  title: Chronal Retrofitting
+'52002':
+  card_id: ultraviolet-clearance
+  change: null
+  ingame_change: false
+  title: Ultraviolet Clearance
+'52003':
+  card_id: kyuudoka
+  change: New card
+  ingame_change: true
+  title: Kyuudoka
+'52004':
+  card_id: recycling-plant
+  change: New card
+  ingame_change: true
+  title: Recycling Plant
+'52005':
+  card_id: sizzler-igniting-the-discourse
+  change: New card
+  ingame_change: true
+  title: "Sizzler: Igniting The Discourse"
+'52006':
+  card_id: smear-campaign
+  change: New card
+  ingame_change: true
+  title: Smear Campaign
+'52007':
+  card_id: gish-gallop
+  change: New card
+  ingame_change: true
+  title: Gish Gallop
+'52008':
+  card_id: plausible-deniability
+  change: New card
+  ingame_change: true
+  title: Plausible Deniability
+'52009':
+  card_id: retrospective
+  change: New card
+  ingame_change: true
+  title: Retrospective
+'52010':
+  card_id: due-diligence
+  change: New card
+  ingame_change: true
+  title: Due Diligence
+'52011':
+  card_id: anklebiter
+  change: New card
+  ingame_change: true
+  title: Anklebiter
+'52012':
+  card_id: self-growth-program
+  change: null
+  ingame_change: false
+  title: Self-growth Program
+'52013':
+  card_id: cdo-portfolio
+  change: New card
+  ingame_change: true
+  title: CDO Portfolio
+'52014':
+  card_id: bailiff
+  change: Strength 0->2
+  ingame_change: true
+  title: Bailiff
+'52015':
+  card_id: power-grid-reroute
+  change: New card
+  ingame_change: true
+  title: Power Grid Reroute
+'52016':
+  card_id: psychomagnetic-pulse
+  change: New card
+  ingame_change: true
+  title: Psychomagnetic Pulse
+'52017':
+  card_id: adaptive-netbranes
+  change: New card
+  ingame_change: true
+  title: Adaptive Netbranes
+'52018':
+  card_id: long-term-investment
+  change: Cost 2->1
+  ingame_change: true
+  title: Long-term Investment
+'52019':
+  card_id: trojan-stable
+  change: New card
+  ingame_change: true
+  title: Trojan Stable
+'52020':
+  card_id: respirocytes
+  change: Cards Drawn 1->2
+  ingame_change: true
+  title: Respirocytes
+'52021':
+  card_id: dionysus-bagbiter-luxe-larcenist
+  change: New card
+  ingame_change: true
+  title: "Dionysus Bagbiter: Luxe Larcenist"
+'52022':
+  card_id: elysium
+  change: New card
+  ingame_change: true
+  title: Elysium
+'52023':
+  card_id: zdnet-access
+  change: New card
+  ingame_change: true
+  title: ZDNet Access
+'52024':
+  card_id: stolen-contacts
+  change: New card
+  ingame_change: true
+  title: Stolen Contacts
+'52025':
+  card_id: gemon
+  change: New card
+  ingame_change: true
+  title: Gemon
+'52026':
+  card_id: maron
+  change: New card
+  ingame_change: true
+  title: Maron
+'52027':
+  card_id: lamis
+  change: New card
+  ingame_change: true
+  title: Lamis
+'52028':
+  card_id: exclusive-party
+  change: Credits Gained X -> X+1
+  ingame_change: true
+  title: Exclusive Party
+'52029':
+  card_id: reverse-engineering
+  change: New card
+  ingame_change: true
+  title: Reverse Engineering
+'52030':
+  card_id: ubax
+  change: null
+  ingame_change: false
+  title: Ubax
+"53001":
+  card_id: "curator"
+  change: New card
+  ingame_change: true
+  title: Curator
+"53002":
+  card_id: "fairchild-2-0"
+  change: null
+  ingame_change: false
+  title: Fairchild 2.0
+"53003":
+  card_id: "carrington-flare"
+  change: New card
+  ingame_change: true
+  title: Carrington Flare
+"53004":
+  card_id: "tenuki"
+  change: New card
+  ingame_change: true
+  title: Tenuki
+"53005":
+  card_id: "engagement-metrics"
+  change: New card
+  ingame_change: true
+  title: Engagement Metrics
+"53006":
+  card_id: "iris-capital-trading-tomorrow"
+  change: New card
+  ingame_change: true
+  title: "Iris Capital: Trading Tomorrow"
+"53007":
+  card_id: "patent-acquisition"
+  change: New card
+  ingame_change: true
+  title: Patent Acquisition
+"53008":
+  card_id: "project-camb"
+  change: New card
+  ingame_change: true
+  title: Project CAMB
+"53009":
+  card_id: "double-down"
+  change: New card
+  ingame_change: true
+  title: Double Down
+"53010":
+  card_id: "natural-monopoly"
+  change: New card
+  ingame_change: true
+  title: Natural Monopoly
+"53011":
+  card_id: "rate-hike"
+  change: New card
+  ingame_change: true
+  title: Rate Hike
+"53012":
+  card_id: "dark-pool"
+  change: New card
+  ingame_change: true
+  title: Dark Pool
+"53013":
+  card_id: "rasmin-bridger"
+  change: Cost 4->0 (from ONR)
+  ingame_change: true
+  title: Rasmin Bridger
+"53014":
+  card_id: "project-oskoreia"
+  change: New card
+  ingame_change: true
+  title: Project Oskoreia
+"53015":
+  card_id: "oddly-specific-horoscope"
+  change: New card
+  ingame_change: true
+  title: Oddly Specific Horoscope
+"53016":
+  card_id: "smashing-spree"
+  change: New card
+  ingame_change: true
+  title: Smashing Spree
+"53017":
+  card_id: "p3tri"
+  change: New card
+  ingame_change: true
+  title: P3tri
+"53018":
+  card_id: "company-mixer"
+  change: New card
+  ingame_change: true
+  title: Company Mixer
+"53019":
+  card_id: "exploit"
+  change: null
+  ingame_change: false
+  title: Exploit
+"53020":
+  card_id: "sonia-nahar-steadfast-salvager"
+  change: New card
+  ingame_change: true
+  title: "Sonia Nahar: Steadfast Salvager"
+"53021":
+  card_id: "chronicle"
+  change: New card
+  ingame_change: true
+  title: Chronicle
+"53022":
+  card_id: "refragmenter"
+  change: New card
+  ingame_change: true
+  title: Refragmenter
+"53023":
+  card_id: "cartographer"
+  change: New card
+  ingame_change: true
+  title: Cartographer
+"53024":
+  card_id: "hype"
+  change: New card
+  ingame_change: true
+  title: Hype
+"53025":
+  card_id: "trailblazer"
+  change: New card
+  ingame_change: true
+  title: Trailblazer
+"53026":
+  card_id: "karim-hamdan"
+  change: New card
+  ingame_change: true
+  title: Karim Hamdan
+"53027":
+  card_id: "fuzzing"
+  change: New card
+  ingame_change: true
+  title: Fuzzing
+"53028":
+  card_id: "furnace"
+  change: New card
+  ingame_change: true
+  title: Furnace
+"53029":
+  card_id: "gyrodrive-soles"
+  change: New card
+  ingame_change: true
+  title: GyroDrive Soles
+"53030":
+  card_id: "multitasking"
+  change: New card
+  ingame_change: true
+  title: Multitasking
+"54001":
+  card_id: "mako-shuusei-black-sheep"
+  change: New card
+  ingame_change: true
+  title: "Mako Shuusei: Black Sheep"
+"54002":
+  card_id: "market-disruption"
+  change: New card
+  ingame_change: true
+  title: Market Disruption
+"54003":
+  card_id: "downsizing"
+  change: New card
+  ingame_change: true
+  title: Downsizing
+"54004":
+  card_id: "bad-seed"
+  change: New card
+  ingame_change: true
+  title: Bad Seed
+"54005":
+  card_id: "spite"
+  change: New card
+  ingame_change: true
+  title: Spite
+"54006":
+  card_id: "moha"
+  change: New card
+  ingame_change: true
+  title: Moha
+"54007":
+  card_id: "raga"
+  change: New card
+  ingame_change: true
+  title: Raga
+"54008":
+  card_id: "dvesha"
+  change: New card
+  ingame_change: true
+  title: Dvesha
+"54009":
+  card_id: "neutralizing-agent"
+  change: New card
+  ingame_change: true
+  title: Neutralizing Agent
+"54010":
+  card_id: "vipaka"
+  change: New card
+  ingame_change: true
+  title: Vipaka
+"54011":
+  card_id: "snikr"
+  change: New card
+  ingame_change: true
+  title: Snikr
+"54012":
+  card_id: "guinea-pig"
+  change: Credits Gained 10->11
+  ingame_change: true
+  title: Guinea Pig
+"54013":
+  card_id: "blue-monday"
+  change: New card
+  ingame_change: true
+  title: Blue Monday
+"54014":
+  card_id: "stakeout"
+  change: New card
+  ingame_change: true
+  title: Stakeout
+"54015":
+  card_id: "negative-space"
+  change: New card
+  ingame_change: true
+  title: Negative Space
+"54016":
+  card_id: "gandiva-therapeutics-tailored-security"
+  change: New card
+  ingame_change: true
+  title: "Gandiva Therapeutics: Tailored Security"
+"54017":
+  card_id: "uncanny-compulsion"
+  change: New card
+  ingame_change: true
+  title: Uncanny Compulsion
+"54018":
+  card_id: "kaede-ueno"
+  change: New card
+  ingame_change: true
+  title: Kaede Ueno
+"54019":
+  card_id: "project-genesis"
+  change: New card
+  ingame_change: true
+  title: Project Genesis
+"54020":
+  card_id: "mise-en-place"
+  change: New card
+  ingame_change: true
+  title: Mise en Place
+"54021":
+  card_id: "psychokinesis"
+  change: Cost 1->0
+  ingame_change: true
+  title: Psychokinesis
+"54022":
+  card_id: "mastiff"
+  change: New card
+  ingame_change: true
+  title: Mastiff
+"54023":
+  card_id: "the-sisters"
+  change: New card
+  ingame_change: true
+  title: The Sisters
+"54024":
+  card_id: "mindmap-optimization"
+  change: New card
+  ingame_change: true
+  title: Mindmap Optimization
+"54025":
+  card_id: "tulpa"
+  change: New card
+  ingame_change: true
+  title: Tulpa
+"54026":
+  card_id: "almenara"
+  change: New card
+  ingame_change: true
+  title: Almenara
+"54027":
+  card_id: "election-day"
+  change: Cards Drawn 5->6
+  ingame_change: true
+  title: Election Day
+"54028":
+  card_id: "communalink-rollout"
+  change: New card
+  ingame_change: true
+  title: CommunaLink Rollout
+"54029":
+  card_id: "billboard"
+  change: New card
+  ingame_change: true
+  title: Billboard
+"54030":
+  card_id: "flood-the-zone"
+  change: New card
+  ingame_change: true
+  title: Flood the Zone

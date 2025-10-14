@@ -1,0 +1,15 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "kaede-ueno"
+ :influence-cost 3
+ :side :corp
+ :subtype [:ambush :character :unorthodox]
+ :text "If Kaede Ueno is accessed from R&D, the Runner must reveal it. When the Runner accesses Kaede Ueno from R&D or while installed, do 1 net damage.\nWhen your turn begins, add Kaede Ueno to HQ and gain 2[credit]."
+
+ :title "Kaede Ueno"
+ :flavor "\"Obviously, an intrusion can't be resolved at -1.4s. They must've failed to correct for lunar lag.\" -Akitaro Watanabe"
+ :trash-cost 1
+ :font-fudge-factor 0.89
+ :type :asset
+ :uniqueness true}

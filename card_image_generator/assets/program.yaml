@@ -1,0 +1,161 @@
+atoms:
+  influence-pip: atoms/influence_pip.png
+cost:
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 255
+  - 255
+  - 255
+  fontsize: 124
+  loc:
+  - 208
+  - 164
+influence-1:
+  loc:
+    anarch: &inf1dot
+      - 1633
+      - 2125
+    criminal: *inf1dot
+    shaper: *inf1dot
+    neutral-runner: &nr-inf1
+      - 1636
+      - 2117
+    apex: *nr-inf1
+    adam: *nr-inf1
+    sunny-lebeau: *nr-inf1
+    mako: *nr-inf1
+influence-2:
+  loc:
+    anarch: &inf2dot
+      - 1633
+      - 2032
+    criminal: *inf2dot
+    shaper: *inf2dot
+    neutral-runner: &nr-inf2
+      - 1636
+      - 2025
+    apex: *nr-inf2
+    adam: *nr-inf2
+    sunny-lebeau: *nr-inf2
+    mako: *nr-inf2
+
+memory-cost:
+  backdrop:
+    color:
+    - 0
+    - 0
+    - 0
+    offset:
+    - 0
+    - 0
+    width: 3
+  center: true
+  font: fonts/numeralfont.otf
+  fontcolor:
+  - 240
+  - 240
+  - 240
+  fontsize: 81
+  loc:
+  - 480
+  - 102
+strength:
+  center: true
+  font: fonts/numeralfont.otf
+  fontsize: 160
+  loc:
+  - 167
+  - 2179
+subtype:
+  font: fonts/subtypefont2.otf
+  fontsize: 69
+  loc:
+  - 594
+  - 1304
+template_image:
+  adam: program/program_adam.png
+  anarch: program/program_anarch.png
+  apex: program/program_apex.png
+  criminal: program/program_criminal.png
+  neutral-runner: program/program_neutral_runner.png
+  shaper: program/program_shaper.png
+  sunny-lebeau: program/program_sunny.png
+  mako: program/program_mako3.png
+text:
+  font: fonts/textfont.ttf
+  fontsize: 76
+  height: 695
+  loc:
+  - 221
+  - 1446
+  width: 1314
+flavor:
+  font: fonts/flavorfont.ttf
+  fontsize: 60
+  loc:
+    below-of: text
+illustrator:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 195
+    - 195
+    - 195
+
+  fontsize: 47
+  loc:
+    anarch: &illusloc
+      - 512
+      - 2262
+    criminal: *illusloc
+    shaper: *illusloc
+    neutral-runner: &nr-illus
+      - 512
+      - 2252
+    apex: *nr-illus
+    adam: *nr-illus
+    sunny-lebeau: *nr-illus
+    mako: *nr-illus
+set-sym-num:
+  font: fonts/illustratorfont.ttf
+  fontcolor:
+    - 195
+    - 195
+    - 195
+  fontsize: 47
+  loc:
+    anarch: &setsymloc
+      - 1350
+      - 2262
+    criminal: *setsymloc
+    shaper: *setsymloc
+    neutral-runner: &nr-setsymloc
+      - 1350
+      - 2252
+    apex: *nr-setsymloc
+    adam: *nr-setsymloc
+    sunny-lebeau: *nr-setsymloc
+    mako: *nr-setsymloc
+title:
+  font: fonts/titlefont.otf
+  fontsize: 70
+  loc:
+  - 89
+  - 1128
+type:
+  font: fonts/typefont.ttf
+  fontsize: 80
+  loc:
+  - 178
+  - 1276
+backside-title:
+  center: true
+  font: fonts/titlefont.otf
+  fontsize: 42
+  fontcolor:
+    - 255
+    - 255
+    - 255
+  loc:
+  - 1202
+  - 1023

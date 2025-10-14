@@ -1,0 +1,11 @@
+{:cost 5
+ :deck-limit 3
+ :faction :shaper
+ :id "laguna-velasco-district"
+ :influence-cost 2
+ :side :runner
+ :subtype [:location :ritzy]
+ :text "Whenever you would draw cards with a basic action, draw an additional card."
+ :title "Laguna Velasco District"
+ :type :resource
+ :uniqueness true}

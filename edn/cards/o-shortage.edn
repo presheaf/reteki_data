@@ -1,0 +1,11 @@
+{:cost 0
+ :deck-limit 3
+ :faction :haas-bioroid
+ :id "o-shortage"
+ :influence-cost 2
+ :side :corp
+ :text "The Runner may trash 1 card from their grip at random. If they do not, gain [click][click]."
+ :title "O2 Shortage"
+ :flavor "\"Is the lack of oxygen causing distress, friend?\" <br> <ral00> -Gregory 3D3R6Z"
+ :type :operation
+ :uniqueness false}

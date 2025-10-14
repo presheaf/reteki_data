@@ -1,0 +1,10 @@
+{:cost 0
+ :deck-limit 3
+ :faction :shaper
+ :id "cybsoft-macrodrive"
+ :influence-cost 1
+ :side :runner
+ :text "1[recurring-credit]\nUse this credit to install programs."
+ :title "Cybsoft MacroDrive"
+ :type :hardware
+ :uniqueness false}

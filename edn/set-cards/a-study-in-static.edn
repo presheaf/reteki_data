@@ -1,0 +1,157 @@
+[{:card-id "disrupter"
+  :code "02061"
+  :flavor "\"Saved my bacon more than once, but gives a wicked sense of déjà vu.\" -Whizzard"
+  :illustrator "Adam S. Doyle"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02061.jpg"
+  :position 61
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "force-of-nature"
+  :code "02062"
+  :flavor "It always strikes twice."
+  :illustrator "Ed Mattinian"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02062.jpg"
+  :position 62
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "scrubber"
+  :code "02063"
+  :flavor "\"They're mindless tools of destruction, good for little else. Nice guys, though. Some of my best friends are scrubbers.\" -Ji \"Noise\" Reilly"
+  :illustrator "Mike Nesbitt"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02063.jpg"
+  :position 63
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "doppelganger"
+  :code "02064"
+  :flavor "Twice the fun."
+  :illustrator "Howard Schechlman"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02064.jpg"
+  :position 64
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "crescentus"
+  :code "02065"
+  :flavor "Cyberspace's strongest glue."
+  :illustrator "Adam S. Doyle"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02065.jpg"
+  :position 65
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "deus-x"
+  :code "02066"
+  :flavor "Didn't see that coming."
+  :illustrator "Andrew Mar"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02066.jpg"
+  :position 66
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "all-nighter"
+  :code "02067"
+  :flavor "\"I don't care what the studies show. From my experience, I can ingest three cans of Diesel an hour for up to twelve hours before going into cardiac arrest.\" -heard during the eleventh hour"
+  :illustrator "Outland Entertainment LLC"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02067.jpg"
+  :position 67
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "inside-man"
+  :code "02068"
+  :flavor "Few corporate employees have such wide-sweeping security clearance as the janitorial staff. Most corps foolishly think they're too dim-witted to take advantage of it."
+  :illustrator "Mauricio Herrera"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02068.jpg"
+  :position 68
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "underworld-contact"
+  :code "02069"
+  :flavor "\"My boss rewards quality work. If you know what's good for you, you'll keep it up.\""
+  :illustrator "Nate Stefan"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02069.jpg"
+  :position 69
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "green-level-clearance"
+  :code "02070"
+  :flavor "Green-two clearance is the highest level of security a corp can gain access to. Legally, anyway."
+  :illustrator "Mauricio Herrera"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02070.jpg"
+  :position 70
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "hourglass"
+  :code "02071"
+  :flavor "Time just slips away."
+  :illustrator "JuanManuel Tumburus"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02071.jpg"
+  :position 71
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "dedicated-server"
+  :code "02072"
+  :flavor "so very still, even\ncherry blossoms are not stirred\nby the temple bell\n-Fuhaku"
+  :illustrator "Emilio Rodriguez"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02072.jpg"
+  :position 72
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "bullfrog"
+  :code "02073"
+  :illustrator "Christina Davis"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02073.jpg"
+  :position 73
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "uroboros"
+  :code "02074"
+  :flavor "Where one thing ends, another begins."
+  :illustrator "Liiga Smilshkalne"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02074.jpg"
+  :position 74
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "net-police"
+  :code "02075"
+  :flavor "This is the net. We work here. We're cops."
+  :illustrator "Amelie Hutt"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02075.jpg"
+  :position 75
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "weyland-consortium-because-we-built-it"
+  :code "02076"
+  :flavor "Constructing Cyberspace."
+  :image-url "https://nrdb.reteki.fun/card_image//large/02076.jpg"
+  :position 76
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "government-contracts"
+  :code "02077"
+  :flavor "It's really hard to lose a government contract."
+  :illustrator "Mitchell Malloy"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02077.jpg"
+  :position 77
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "tyrant"
+  :code "02078"
+  :flavor "Thou shall not pass."
+  :illustrator "Isuardi Therianto"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02078.jpg"
+  :position 78
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "oversight-ai"
+  :code "02079"
+  :illustrator "Mark Anthony Taduran"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02079.jpg"
+  :position 79
+  :quantity 3
+  :set-id "a-study-in-static"}
+ {:card-id "false-lead"
+  :code "02080"
+  :flavor "It didn't look like the headquarters of a multi-billion cred company. Probably because it wasn't."
+  :illustrator "Bruno Balixa"
+  :image-url "https://nrdb.reteki.fun/card_image//large/02080.jpg"
+  :position 80
+  :quantity 3
+  :set-id "a-study-in-static"}]

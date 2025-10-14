@@ -1,0 +1,11 @@
+{:cost 2
+ :deck-limit 3
+ :faction :criminal
+ :id "account-siphon"
+ :influence-cost 4
+ :side :runner
+ :subtype [:run :sabotage]
+ :text "Make a run on HQ. If successful, instead <br> of accessing cards you may force the Corp to lose up to 5[credit], then you gain 2[credit] for each credit lost and take 2 tags."
+ :title "Account Siphon"
+ :type :event
+ :uniqueness false}

@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :mako
+ :id "dvesha"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 1
+ :subtype [:icebreaker :fracter :klesha]
+ :text "0[credit]: Break <strong>barrier</strong> subroutine on a piece of ice with a hosted virus counter.\n3[credit]: Place 1 virus counter on a <strong>barrier</strong> currently being encountered.\n1[credit]: +1 strength."
+ :title "Dvesha"
+ :flavor "In the end, mercy required mercilessness."
+ :type :program
+ :uniqueness false}

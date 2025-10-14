@@ -1,0 +1,14 @@
+{:cost 3
+ :deck-limit 3
+ :faction :shaper
+ :id "borrowed-storage"
+ :influence-cost 2
+ :side :runner
+ :text "+3[mu]"
+ :title "Borrowed Storage"
+ :subtype [:chip]
+ :flavor "A simple overflow exploit proved sufficient for turning the link to her own purposes: cat vids."
+ :type :hardware
+ :illustrator "DALL-E"
+ :is-flip-side true
+ :uniqueness false}

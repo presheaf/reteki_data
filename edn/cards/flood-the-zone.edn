@@ -1,0 +1,16 @@
+{:advancement-requirement 5
+ :deck-limit 1
+ :agenda-points 3
+ :faction :neutral-corp                 ;nbn/weyland
+ :id "flood-the-zone"
+ :side :corp
+ :subtype [:collaboration]
+ :text "When your turn ends, you may reveal Flood the Zone from HQ. If it is still in HQ when your next turn begins, shuffle it into R&D, gain 2[credit], and draw 1 card.\nLimit 1 per deck."
+ :title "Flood the Zone"
+ :type :agenda
+ :uniqueness true
+ :flavor "A scandal a day keeps prying eyes away."
+ :font-fudge-factor 0.93
+ }
+
+

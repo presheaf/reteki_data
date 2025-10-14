@@ -1,0 +1,16 @@
+{:cost 1
+ :deck-limit 3
+ :faction :jinteki
+ :id "dedicated-server"
+ :influence-cost 2
+ :side :corp
+ :subtype [:facility]
+ :text "2[recurring-credit]\nUse these credits to rez ice."
+ :title "Dedicated Server"
+ :flavor "so very still, even
+ cherry blossoms are not stirred
+ by the temple bell <br>
+<ral54>  -Fuhaku"
+ :trash-cost 3
+ :type :asset
+ :uniqueness false}

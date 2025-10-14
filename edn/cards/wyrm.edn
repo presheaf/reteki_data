@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :anarch
+ :id "wyrm"
+ :influence-cost 2
+ :memory-cost 1
+ :side :runner
+ :strength 2
+ :subtype [:icebreaker :ai]
+ :text "3[credit]: Break ice subroutine on a piece of ice with 0 or less strength.\n1[credit]: The ice currently being encountered has -1 strength until the end of the encounter.\n1[credit]: +1 strength."
+ :title "Wyrm"
+ :type :program
+ :uniqueness false}

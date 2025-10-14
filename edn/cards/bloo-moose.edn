@@ -1,0 +1,11 @@
+{:cost 4
+ :deck-limit 3
+ :faction :neutral-runner
+ :id "bloo-moose"
+ :influence-cost 0
+ :side :runner
+ :subtype [:location :seedy]
+ :text "When your turn begins, you may remove 4 cards in the heap from the game. If you do, gain 2[credit]."
+ :title "Bloo Moose"
+ :type :resource
+ :uniqueness true}

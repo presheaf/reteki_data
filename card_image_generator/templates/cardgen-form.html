@@ -1,0 +1,318 @@
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/purecss@2.1.0/build/pure-min.css" integrity="sha384-yHIFVG6ClnONEA5yB5DJXfW2/KC173DIQrYoZMEtBvGzmf0PKiGyNEqe9N6BNDBH" crossorigin="anonymous">
+<style>
+  .bg {
+      /* The image used */
+      background-image: url({{ url_for('static', filename='Draco.jpg') }});
+
+      /* Full height */
+      height: 100%;
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
+  .monocolor-bg {
+      background-color: rgba(200,200,220,0.7);
+      /* opacity: 60%; */
+      padding: 20px ;
+      border: 1px solid blue ;
+  }
+  input.larger {
+      width: 17px;
+      height: 17px;
+  }
+</style>
+<title>Generate custom Netrunner cards</title>
+<div class="bg">
+  <div class="monocolor-bg" style="font-size:1.1vw">
+    <div style="margin-bottom: 3vw">
+      This is the proxy generator used for the <a href="https://sites.google.com/view/netrunner-reboot-project/">Netrunner Reboot Project</a>. It has its rough edges, but should work okay. If you found it helpful, check out the project!
+    </div>
+    <p>
+      <script>
+	function setCorpFactionsDisabled(disable_val){
+	    [0, 1, 2, 3, 4].forEach(function (choice, idx) {card_form[2].options[choice].disabled = disable_val});
+	}
+	function setRunnerFactionsDisabled(disable_val){
+	    [5, 6, 7, 8, 9, 10, 11].forEach(function (choice, idx) {card_form[2].options[choice].disabled = disable_val});
+	};
+	function onTypeChange(){
+	    // elt. 2: faction
+	    // elt. 4: cost/advancement/min. deck size
+	    // elt. 5: trash cost
+	    // elt. 6: strength/pts/inf limit
+	    // elt. 7: mem cost/base link
+	    
+	    chosen_type = card_form[0]["value"];
+	    if (chosen_type == "program") {
+		card_form[4].disabled = false;
+		card_form[5].disabled = true;
+		card_form[6].disabled = false;
+		card_form[7].disabled = false;
+		card_form[4].labels[0].textContent = "Cost";
+		card_form[5].labels[0].textContent = "---";
+		card_form[6].labels[0].textContent = "Strength";
+		card_form[7].labels[0].textContent = "Memory cost";
+		setRunnerFactionsDisabled(false);
+		setCorpFactionsDisabled(true);
+	    } else if (chosen_type == "hardware") {
+		card_form[4].disabled = false;
+		card_form[5].disabled = true;
+		card_form[6].disabled = true;
+		card_form[7].disabled = true;
+		card_form[4].labels[0].textContent = "Cost";
+		card_form[5].labels[0].textContent = "---";
+		card_form[6].labels[0].textContent = "---";
+		card_form[7].labels[0].textContent = "---";
+		setRunnerFactionsDisabled(false);
+		setCorpFactionsDisabled(true);
+	    } else if (chosen_type == "event") {
+		card_form[4].disabled = false;
+		card_form[5].disabled = true;
+		card_form[6].disabled = true;
+		card_form[7].disabled = true;
+		card_form[4].labels[0].textContent = "Cost";
+		card_form[5].labels[0].textContent = "---";
+		card_form[6].labels[0].textContent = "---";
+		card_form[7].labels[0].textContent = "---";
+		setRunnerFactionsDisabled(false);
+		setCorpFactionsDisabled(true);
+	    } else if (chosen_type == "resource") {
+		card_form[4].disabled = false;
+		card_form[5].disabled = true;
+		card_form[6].disabled = true;
+		card_form[7].disabled = true;
+		card_form[4].labels[0].textContent = "Cost";
+		card_form[5].labels[0].textContent = "---";
+		card_form[6].labels[0].textContent = "---";
+		card_form[7].labels[0].textContent = "---";
+		setRunnerFactionsDisabled(false);
+		setCorpFactionsDisabled(true);
+	    } else if (chosen_type == "agenda") {
+		card_form[4].disabled = false;
+		card_form[5].disabled = true;
+		card_form[6].disabled = false;
+		card_form[7].disabled = true;
+		card_form[4].labels[0].textContent = "Advancement requirement";
+		card_form[5].labels[0].textContent = "---";
+		card_form[6].labels[0].textContent = "Agenda points";
+		card_form[7].labels[0].textContent = "---";
+		setRunnerFactionsDisabled(true);
+		setCorpFactionsDisabled(false);
+	    } else if (chosen_type == "asset") {
+		card_form[4].disabled = false;
+		card_form[5].disabled = false;
+		card_form[6].disabled = true;
+		card_form[7].disabled = true;
+		card_form[4].labels[0].textContent = "Cost";
+		card_form[5].labels[0].textContent = "Trash cost";
+		card_form[6].labels[0].textContent = "---";
+		card_form[7].labels[0].textContent = "---";
+		setRunnerFactionsDisabled(true);
+		setCorpFactionsDisabled(false);
+	    } else if (chosen_type == "upgrade") {
+		card_form[4].disabled = false;
+		card_form[5].disabled = false;
+		card_form[6].disabled = true;
+		card_form[7].disabled = true;
+		card_form[4].labels[0].textContent = "Cost";
+		card_form[5].labels[0].textContent = "Trash cost";
+		card_form[6].labels[0].textContent = "---";
+		card_form[7].labels[0].textContent = "---";
+		setRunnerFactionsDisabled(true);
+		setCorpFactionsDisabled(false);
+	    } else if (chosen_type == "ice") {
+		card_form[4].disabled = false;
+		card_form[5].disabled = true;
+		card_form[6].disabled = false;
+		card_form[7].disabled = true;
+		card_form[4].labels[0].textContent = "Cost";
+		card_form[5].labels[0].textContent = "---";
+		card_form[6].labels[0].textContent = "Strength";
+		card_form[7].labels[0].textContent = "---";
+		setRunnerFactionsDisabled(true);
+		setCorpFactionsDisabled(false);
+	    } else if (chosen_type == "operation") {
+		card_form[4].disabled = false;
+		card_form[5].disabled = true;
+		card_form[6].disabled = true;
+		card_form[7].disabled = true;
+		card_form[4].labels[0].textContent = "Cost";
+		card_form[5].labels[0].textContent = "---";
+		card_form[6].labels[0].textContent = "---";
+		card_form[7].labels[0].textContent = "---";
+		setRunnerFactionsDisabled(true);
+		setCorpFactionsDisabled(false);
+	    } else if (chosen_type == "identity") {
+		card_form[4].disabled = false;
+		card_form[5].disabled = true;
+		card_form[6].disabled = false;
+		card_form[7].disabled = false;
+		card_form[4].labels[0].textContent = "Minimum deck size";
+		card_form[5].labels[0].textContent = "---";
+		card_form[6].labels[0].textContent = "Influence limit";
+		card_form[7].labels[0].textContent = "Base link";
+		setRunnerFactionsDisabled(false);
+		setCorpFactionsDisabled(false);
+	    } else {
+		console.log("Unknown card type: " + card_type);
+	    }
+	    
+	}
+      </script>
+      <form method="POST" class="pure-form-stacked pure-g" enctype="multipart/form-data" id="card_form" onchange="onTypeChange()">
+	<p>
+	  <div class="pure-u-1-2">
+	    <label for="type">Card type</label>
+	    <select name="type" id="type">
+	      <option value="not-chosen"> --select this first--</option>
+	      <option value="agenda">Agenda</option>
+	      <option value="asset">Asset</option>
+	      <option value="event">Event</option>
+	      <option value="hardware">Hardware</option>
+	      <option value="ice">Ice</option>
+	      <option value="identity">Identity</option>
+	      <option value="operation">Operation</option>
+	      <option value="program">Program</option>
+	      <option value="resource">Resource</option>
+	      <option value="upgrade">Upgrade</option>
+	    </select>
+	  </div>
+
+	  <div class="pure-u-1-2">
+	    <label for="subtype">Subtypes (comma-separated): </label>
+	    <input name="subtype" id="subtype" placeholder="Barrier,AP"></input>
+	  </div>
+	  
+	  <div class="pure-u-1-2">
+	    <label for="faction">Faction</label>
+	    <select name="faction" id="card-faction">
+	      <option value="haas-bioroid">Haas-Bioroid</option>
+	      <option value="jinteki">Jinteki</option>
+	      <option value="nbn">NBN</option>
+	      <option value="weyland-consortium">Weyland Consortium</option>
+	      <option value="neutral-corp">Neutral Corp</option>
+	      <option value="anarch">Anarch</option>
+	      <option value="criminal">Criminal</option>
+	      <option value="shaper">Shaper</option>
+	      <option value="neutral-runner">Neutral Runner</option>
+	      <option value="apex">Apex</option>
+	      <option value="adam">Adam</option>
+	      <option value="sunny-lebeau">Sunny</option>
+	    </select>
+	  </div>
+	  <div class="pure-u-1-2">
+	    <label for="influence-cost">Influence cost: </label>
+	    <input name="influence-cost" id="influence-cost" type="number" min="0" max="5"></input>
+	  </div>
+
+
+	  <div class="pure-u-1-2">
+	    <label for="cost-or-advancement-req-or-decksize">Cost/Advancement requirement/Minimum deck size: </label>
+	    <input name="cost-or-advancement-req-or-decksize" id="cost-or-advancement-req-or-decksize"></input>
+	  </div>
+	  <div class="pure-u-1-2">
+	    <label for="trash-cost">Trash cost: </label>
+	    <input name="trash-cost" id="trash-cost"></input>
+	  </div>
+	  
+	  <div class="pure-u-1-2">
+	    <label for="strength-or-pts-or-inflimit">Strength/Agenda points/Influence Limit: </label>
+	    <input name="strength-or-pts-or-inflimit" id="strength-or-pts-or-inflimit" ></input>
+	  </div>
+	  
+	  <div class="pure-u-1-2">
+	    <label for="memory-cost-or-base-link">Memory cost/ID base link: </label>
+	    <input name="memory-cost-or-base-link" id="memory-cost-or-base-link"></input>
+	  </div>
+	  
+
+	  
+	  
+	  <div class="pure-u-1-2">
+	    <label for="title">Title: </label>
+	    <input name="title" id="title"></input>
+	  </div>
+
+	  <div class="pure-u-1-2">
+	    <label for="uniqueness" type="pure-checkbox">Uniqueness</label>
+	    <input type="checkbox" name="uniqueness" class="larger"/>
+	  </div>
+
+	  <div class="pure-u-1-2">
+	    <label for="text">Card textbox: </label>
+	    <textarea
+	      cols="36"
+	      rows="8"
+	      name="text"
+	      id="text"
+	      placeholder="[click]: Gain 2[credit]."></textarea>
+	  </div>
+	  <div class="pure-u-1-2">
+	    <label for="flavor">Flavortext: </label>
+	    <textarea
+	      cols="36"
+	      rows="8"
+	      name="flavor"
+	      id="flavor"
+	      placeholder="Flavor text here!"></textarea> 
+	  </div>
+
+	  <div class="pure-u-1-2">
+	    <label for="bg-image">Card art: </label>
+	    <input type="file" id="bg-image" name="bg-image">
+	  </div>
+
+	  <div class="pure-u-1-2">
+	    <label for="font-scaling-factor">Font scaling: </label>
+	    <input name="font-scaling-factor" id="font-scaling-factor" type="number" value="1.0" min="0.0" max="1.0" step="0.01"></input>
+	  </div>
+
+	  <div class="pure-u-1-2">
+	    <label for="illustrator">Illustrator: </label>
+	    <input name="illustrator" id="illustrator"></input>
+	  </div>
+
+	  <div class="pure-u-1-2">
+	    <label for="full-art" type="pure-checkbox">Full-art</label>
+	    <input type="checkbox" name="full-art" class="larger"/>
+	  </div>
+
+	<p style="margin-bottom:6vw">
+	  <div class="pure-u-1-3"></div>
+	  <div class="pure-u-1-3">
+	    <input type="submit" value="Generate card" class="pure-button pure-button-primary">
+	  </div>
+
+  </div>
+  </form>
+  <p>
+    <div class="pure-g monocolor-bg" style="font-size:1.1vw">
+      <div class="pure-u-1-1">
+	<b>Card text syntax guide (subroutines, credit icons, etc.o)</b>
+      </div>
+      <div class="pure-u-1-1">
+	(Note: except for bold, cannot be used in flavor text)
+      </div>
+      <p>
+	<div class="pure-u-1-3">Bold text:</div>
+	<div class="pure-u-2-3">
+	  <code>&lt;strong&gt; this is bold &lt;/strong&gt;  </code>
+	</div>
+      <p>
+	<div class="pure-u-1-3">Trace:</div>
+	<div class="pure-u-2-3">
+	  <code>&lt;trace&gt;Trace 123&lt;/trace&gt; Effect   </code>   (Note: digits, X only)
+	</div>
+      <p>
+	<div class="pure-u-1-3">Icons for credit, click, subroutine, etc:</div>
+	<div class="pure-u-2-3">
+	  <code>[credit], [link], [subroutine], [recurring-credit], [trash], [click], [mu], [shaper], [criminal], [anarch], [haas-bioroid], [jinteki], [nbn], [weyland-consortium]</code>
+	</div>
+      <p>
+	<div class="pure-u-1-3">Bulleted lists:</div>
+	<div class="pure-u-2-3">
+	  <code>&lt;li&gt; First item &lt;li&gt; Second item &lt;li&gt; Third item</code>
+	</div>
+    </div>
+</div>

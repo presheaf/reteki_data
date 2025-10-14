@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :shaper
+ :id "cartographer"
+ :influence-cost 2
+ :side :runner
+ :subtype [:virtual :connection]
+ :text "When Cartographer is installed, place 4 power counters on it. When there are no power counters left on Cartographer, trash it.\n 
+[click], [click], [click]: Gain 6[credit], then for each hosted power counter, lose 1[credit] and draw 1 card. Then remove 1 hosted power counter."
+ :title "Cartographer"
+ :flavor "The Network is a product of algorithms incomprehensible even to their developers, and arguably mostly unexplored." 
+ :type :resource
+ :uniqueness false
+ :font-fudge-factor 0.92}

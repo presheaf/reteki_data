@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 3
+ :faction :nbn
+ :id "free-lunch"
+ :influence-cost 3
+ :side :corp
+ :strength 4
+ :subtype [:code-gate]
+ :text "<strong>Hosted power counter:</strong> The Runner loses 1[credit].\n[subroutine] Place 1 power counter on Free Lunch.\n[subroutine] Place 1 power counter on Free Lunch."
+ :title "Free Lunch"
+ :type :ice
+ :uniqueness false}

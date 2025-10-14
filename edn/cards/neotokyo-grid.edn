@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :jinteki
+ :id "neotokyo-grid"
+ :influence-cost 2
+ :side :corp
+ :subtype [:region]
+ :text "The first time an advancement token is a placed on a card in this server each turn, gain 1[credit].\nLimit 1 <strong>region</strong> per server."
+ :title "NeoTokyo Grid"
+ :trash-cost 5
+ :type :upgrade
+ :uniqueness false}

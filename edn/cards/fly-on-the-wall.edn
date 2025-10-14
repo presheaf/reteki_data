@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :nbn
+ :id "fly-on-the-wall"
+ :side :corp
+ :subtype [:initiative]
+ :text "When you score Fly on the Wall, give the Runner 2 tags."
+ :flavor "Twice as annoying as the real thing."
+ :title "Fly on the Wall"
+ :type :agenda
+ :uniqueness false}

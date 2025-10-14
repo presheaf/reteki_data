@@ -1,0 +1,13 @@
+{:cost 4
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "negotiator"
+ :influence-cost 2
+ :side :corp
+ :strength 4
+ :subtype [:sentry :destroyer]
+ :text "The Runner can pay 2[credit] to break any subroutine on Negotiator.\n[subroutine] The Corp gains 2[credit].\n[subroutine] Trash 1 program."
+ :flavor "\"Negotiation is an art, so never negotiate when you can intimidate instead.\" <br> <ral00> -Thiago Reyes, VP Strategic Operations"
+ :title "Negotiator"
+ :type :ice
+ :uniqueness false}

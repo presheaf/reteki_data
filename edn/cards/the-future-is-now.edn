@@ -1,0 +1,12 @@
+{:advancement-requirement 3
+ :agenda-points 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "the-future-is-now"
+ :influence-cost 0
+ :side :corp
+ :subtype [:initiative]
+ :text "When you score The Future is Now, search R&D for up to 2 cards and add them to HQ. Shuffle R&D."
+ :title "The Future is Now"
+ :type :agenda
+ :uniqueness false}

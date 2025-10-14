@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "p3tri"
+ :influence-cost 2
+ :side :runner
+ :subtype [:chip]
+ :text "+1[mu]\n You may remove a virus counter from an installed card to reduce the cost to install P3tri by 2.\n[trash]: Place 1 virus counter on an installed card."
+ :title "P3tri"
+ :type :hardware
+ :font-fudge-factor 0.94
+ :flavor "\"Ever cleaned your desk to help you think? Me neither.\" <br> <ral02> -Princess Space Kitten"
+ 
+ :uniqueness true}

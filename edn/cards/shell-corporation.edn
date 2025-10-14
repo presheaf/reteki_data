@@ -1,0 +1,11 @@
+{:cost 1
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "shell-corporation"
+ :influence-cost 0
+ :side :corp
+ :text "You cannot use Shell Corporation more than once per turn.\n[click]: Place 3[credit] on Shell Corporation.\n[click]: Take all credits from Shell Corporation."
+ :title "Shell Corporation"
+ :trash-cost 3
+ :type :upgrade
+ :uniqueness false}

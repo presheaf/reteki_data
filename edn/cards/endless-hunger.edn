@@ -1,0 +1,13 @@
+{:cost 0
+ :deck-limit 3
+ :faction :apex
+ :id "endless-hunger"
+ :influence-cost 2
+ :memory-cost 3
+ :side :runner
+ :strength 11
+ :subtype [:icebreaker]
+ :text "<strong>Trash one of your installed cards:</strong> Break \"[subroutine] End the run.\" subroutine."
+ :title "Endless Hunger"
+ :type :program
+ :uniqueness false}

@@ -1,0 +1,10 @@
+{:cost 3
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "audacity"
+ :influence-cost 4
+ :side :corp
+ :text "Play only if there are at least 3 cards in HQ.\nTrash all cards in HQ. Place a total of 2 advancement tokens on up to 2 cards that can be advanced."
+ :title "Audacity"
+ :type :operation
+ :uniqueness false}

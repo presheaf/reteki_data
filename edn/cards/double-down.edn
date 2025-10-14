@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :weyland-consortium
+ :id "double-down"
+ :influence-cost 4
+ :side :corp
+ :subtype [:current :terminal :transaction]
+ :text "After you resolve this operation, end your action phase. This card is not trashed until another <strong>current</strong> is played or an agenda is stolen.\nWhen you score an agenda, trash Double Down. For each advancement token on that agenda, the Runner loses 1[credit] and you gain 1[credit]."
+ :title "Double Down"
+ :type :operation
+ :font-fudge-factor 0.88
+ :flavor "Iris employees all eventually learn the value of accountability."
+ :uniqueness false}

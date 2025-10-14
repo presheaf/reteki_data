@@ -1,0 +1,12 @@
+{:cost 3
+ :deck-limit 3
+ :faction :nbn
+ :id "old-hollywood-grid"
+ :influence-cost 2
+ :side :corp
+ :subtype [:region]
+ :text "Agendas accessed from this server cannot be stolen unless the Runner already has an identically named agenda in their score area. This applies even during the run on which the Runner trashes Old Hollywood Grid.\nLimit 1 <strong>region</strong> per server."
+ :title "Old Hollywood Grid"
+ :trash-cost 4
+ :type :upgrade
+ :uniqueness false}

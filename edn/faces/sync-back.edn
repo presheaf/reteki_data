@@ -1,0 +1,12 @@
+{:deck-limit 1
+ :faction :nbn
+ :id "sync-back"
+ :influence-limit 15
+ :minimum-deck-size 40
+ :side :corp
+ :subtype [:division]
+ :text "[click]: Flip this identity.\nYou may pay 2[credit] fewer when spending a [click] to trash a resource (not through a card ability)."
+ :title "SYNC: Everything, Everywhere"
+ :illustrator "Maciej Rebisz"
+ :type :identity
+ :uniqueness false}

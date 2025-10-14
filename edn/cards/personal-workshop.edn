@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "personal-workshop"
+ :influence-cost 4
+ :side :runner
+ :subtype [:location]
+ :text "[click]: Host a program or a piece of hardware from your grip on Personal Workshop and place power counters on it equal to its install cost.\n1[credit]: Remove 1 power counter from a hosted card.\nWhen your turn begins, remove 1 power counter from a hosted card.\nWhen there are no power counters left on a hosted card, install it, ignoring all costs."
+ :font-fudge-factor 0.8
+ :title "Personal Workshop"
+ :type :resource
+ :uniqueness false}
