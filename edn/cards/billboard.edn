@@ -10,6 +10,5 @@
  :title "Billboard"
  :flavor "\"I had no idea what language it spoke, much less what it was saying. I just felt... hungry.\"-Nasir Meidan "
  :font-fudge-factor 0.90
-
  :type :ice
  :uniqueness false}

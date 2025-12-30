@@ -1,0 +1,13 @@
+{:cost 1
+ :deck-limit 3
+ :faction :shaper
+ :id "24-hour-stream"
+ :influence-cost 2
+ :side :runner
+ :subtype [:terminal :run]
+ :text "After you resolve this event, end your <br> action phase.\nMake a run. Make a run. Make a run. Make a run."
+ :flavor "\"The only thing worse than a micromanager is 26,196 <br> of th- ooh, 26,197.\" -Matjaz \"TAS\" Adeyemi"
+ :title "By Popular Demand"
+ :illustrator "AI"
+ :type :event
+ :uniqueness false}

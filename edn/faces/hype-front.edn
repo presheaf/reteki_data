@@ -5,7 +5,7 @@
  :influence-cost 2
  :memory-cost 1
  :side :runner
- :text "When you steal an agenda, trash Hype, draw 3 cards and gain 4[credit].\nWhen you install Hype from your heap, flip it."
+ :text "When you steal an agenda, trash Hype, draw 3 cards and gain 5[credit].\nWhen you install Hype from your heap, flip it."
  :title "Hype"
  :type :program
  :illustrator ""

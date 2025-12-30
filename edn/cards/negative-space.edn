@@ -7,7 +7,7 @@
  :side :runner
  :text "+2[mu]\nUse the MU on Negative Space only for non-<strong>virus</strong>, non-<strong>icebreaker</strong> programs."
  :title "Negative Space"
- :flavor "\"The point isn't where the data is. It's where it <strong>isn't</strong>.\" <br> <ral00> -Hayley Kaplan "
+ :flavor "\"The point isn't where the data is. It's where it <strong>isn't</strong>.\" <br> <ral00> -Hayley Kaplan"
  
  ;; :flavor "\"Regular compression is like folding the data up all nicely so it doesn't fill up your drive. This is putting some more data into the folds. \" "
  :type :program

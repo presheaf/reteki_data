@@ -1,0 +1,11 @@
+{:advancement-requirement 4
+ :agenda-points 2
+ :deck-limit 3
+ :faction :jinteki
+ :id "zero-waste-agrefineries"
+ :side :corp
+ :text "When your turn begins, you may make each player draw 1 card.\nThe first time the Runner draws a card each turn, gain 1[credit]."
+ :title "Zero-waste AgRefineries"
+ :illustrator "AI"
+ :type :agenda
+ :uniqueness false}

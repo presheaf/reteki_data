@@ -6,7 +6,7 @@
  :memory-cost 1
  :side :runner
  :text "<strong>Front face (Hype):</strong>\n
-When you steal an agenda, trash this program, draw 3 cards and gain 4[credit].
+When you steal an agenda, trash this program, draw 3 cards and gain 5[credit].
 When you install this program from your heap, flip it.\n
 <strong>Back face (Hope):</strong>\n
 Whenever you access cards from R&D, access one additional card. When you steal an agenda, trash this program."

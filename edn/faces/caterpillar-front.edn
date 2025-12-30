@@ -4,7 +4,7 @@
  :id "caterpillar"
  :influence-cost 3
  :side :corp
- :strength 1
+ :strength 2
  :subtype [:mythic]
  :text "When you rez Caterpillar, place 3 power counters on it. When your turn begins, remove 1 power counter from Caterpillar, then flip it if there are no power counters left.\n[subroutine] The runner loses 1[credit]."
  :title "Caterpillar"

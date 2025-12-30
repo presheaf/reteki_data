@@ -9,6 +9,6 @@
  :font-fudge-factor 0.83
 
  :title "Project Genesis"
- :trash-cost 2
+ :trash-cost 3
  :type :asset
  :uniqueness false}

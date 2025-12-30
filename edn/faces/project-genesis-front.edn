@@ -15,7 +15,7 @@
  ;; :flavor "\"Cloning is inherently imitative. This is true innovation. \" <br> <ral06> -???, Head Researcher" 
  
  :title "Project Genesis"
- :trash-cost 2
+ :trash-cost 3
  :type :asset
  :backside-title "?"
 

@@ -1,0 +1,12 @@
+{:cost 0
+ :deck-limit 3
+ :faction :neutral-corp
+ :id "crunch-time"
+ :influence-cost 1
+ :side :corp
+ :text "Search R&D or Archives for a piece of ice with a printed rez cost of 6[credit] or less, reveal it, and add it to HQ. Shuffle R&D if you searched it."
+ :title "Crunch Time"
+ :flavor "Leadership. Noun. The art of knowing whether to scream 'better', 'faster' or 'cheaper'. <br> <ral00> -The Anarch's Dictionary, Volume Who's Counting?"
+ :illustrator "AI"
+ :type :operation
+ :uniqueness false}

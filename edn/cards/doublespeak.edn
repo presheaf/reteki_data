@@ -1,0 +1,15 @@
+{:cost 3
+ :deck-limit 3
+ :faction :nbn
+ :id "doublespeak"
+ :influence-cost 4
+ :side :corp
+ :strength 4
+ :subtype [:barrier :tracer :illicit]
+ :text "When you rez Doublespeak, take 1 bad publicity.\nSubroutines on Doublespeak cannot be broken if there is no installed <strong>decoder</strong>.\n[subroutine] <trace>Trace 6</trace> If successful, end the run."
+ :title "Doublespeak"
+ :flavor "\"I'm no liar. I just have an outcome-oriented communicaton style.\" -Bex Gleeson"
+ :illustrator "AI"
+ :font-fudge-factor 0.97
+ :type :ice
+ :uniqueness false}

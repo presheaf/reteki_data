@@ -11,49 +11,50 @@
   :illustrator "AI"
   :position 2
   :quantity 3
-  :flavor ""
+  :flavor "By the time it passed her third cross-check, wariness had nearly given way to elation. The data was good enough that she seriously considered looping in the Director herself. So why had the freelancer not asked for more?"
   :set-id "fate-and-freedom"}
  {:card-id "downsizing"
   :code "54003"
   :illustrator "AI"
   :position 3
   :quantity 3
-  :flavor ""
+  :flavor "Although Mako knew that nobody was truly irreplacable, she also knew who came closest."
   :set-id "fate-and-freedom"}
  {:card-id "bad-seed"
   :code "54004"
   :illustrator "AI"
   :position 4
   :quantity 3
-  :flavor ""
+  :flavor "\"I just wanted to warn you, sister. Make of it what you will.\" -Mako Shuusei"
   :set-id "fate-and-freedom"}
-{:card-id "spite"
+ {:card-id "spite"
   :code "54005"
   :illustrator "AI"
   :position 5
   :quantity 3
   :flavor ""
- :set-id "fate-and-freedom"}
+  :set-id "fate-and-freedom"}
  {:card-id "moha"
   :code "54006"
   :illustrator "AI"
   :position 6
   :quantity 3
-  :flavor ""
+  :flavor "At first, freedom felt exhilarating. Eventually, it felt like nothing at all."
   :set-id "fate-and-freedom"}
  {:card-id "raga"
   :code "54007"
   :illustrator "AI"
   :position 7
   :quantity 3
-  :flavor ""
+  :flavor "Wherever she went, the quiet remembered."
+  :title "Raga"
   :set-id "fate-and-freedom"}
  {:card-id "dvesha"
   :code "54008"
   :illustrator "AI"
   :position 8
   :quantity 3
-  :flavor ""
+  :flavor "Wherever she went, the quiet remembered."
   :set-id "fate-and-freedom"}
  {:card-id "neutralizing-agent"
   :code "54009"
@@ -62,47 +63,47 @@
   :quantity 3
   :flavor ""
   :set-id "fate-and-freedom"}
-  {:card-id "vipaka"
+ {:card-id "vipaka"
   :code "54010"
   :illustrator "AI"
   :position 10
   :quantity 3
-  :flavor ""
-   :set-id "fate-and-freedom"}
+  :flavor "As the seed, so the fruit."
+  :set-id "fate-and-freedom"}
  {:card-id "snikr"
   :code "54011"
   :illustrator "AI"
   :position 11
   :quantity 3
-  :flavor ""
-   :set-id "fate-and-freedom"}
-  {:card-id "guinea-pig"
+  :flavor "It takes a warped mind to watch gutterfeeds all day. Or one who had everything else taken away."
+  :set-id "fate-and-freedom"}
+ {:card-id "guinea-pig"
   :code "54012"
   :illustrator "Reiko Murakami"
   :position 12
   :quantity 3
-  :flavor ""
-   :set-id "fate-and-freedom"}
+  :flavor "\"Worth it.\""
+  :set-id "fate-and-freedom"}
  {:card-id "blue-monday"
   :code "54013"
   :illustrator "AI"
   :position 13
   :quantity 3
-  :flavor ""
+  :flavor "\"Poor Theophilius... I just wish I had the means to help him somehow, you know?\" -Dionysus Bagbiter"
   :set-id "fate-and-freedom"}
-  {:card-id "stakeout"
+ {:card-id "stakeout"
   :code "54014"
   :illustrator "AI"
   :position 14
   :quantity 3
-  :flavor ""
+  :flavor "The first rule of heist planning: do <strong>not</strong> call it a 'heist'."
   :set-id "fate-and-freedom"}
  {:card-id "negative-space"
   :code "54015"
   :illustrator "AI"
   :position 15
   :quantity 3
-  :flavor ""
+  :flavor "\"The point isn't where the data is. It's where it <strong>isn't</strong>.\" -Hayley Kaplan"
   :set-id "fate-and-freedom"}
  {:card-id "gandiva-therapeutics-tailored-security"
   :code "54016"
@@ -123,14 +124,14 @@
   :illustrator "AI"
   :position 18
   :quantity 3
-  :flavor ""
+  :flavor "\"Obviously, an intrusion can't be resolved at -1.4s. They must've failed to correct for lunar lag.\" -Akitaro Watanabe"
   :set-id "fate-and-freedom"}
  {:card-id "project-genesis"
   :code "54019"
   :illustrator "AI"
   :position 19
   :quantity 3
-  :flavor ""
+  :flavor "\"Synth-PNA has already proven fruitful enough in silico to warrant in vivo trials.\" -Dr. Kaori Ayase, Project Lead"
   :set-id "fate-and-freedom"}
  {:card-id "mise-en-place"
   :code "54020"
@@ -151,43 +152,42 @@
   :illustrator "AI"
   :position 22
   :quantity 3
-  :flavor ""
+  :flavor "Pupgrades."
   :set-id "fate-and-freedom"}
-{:card-id "the-sisters"
+ {:card-id "the-sisters"
   :code "54023"
   :illustrator "AI"
   :position 23
   :quantity 3
-  :flavor ""
+  :flavor "Having never been awakened, Caprice's sisters only know the world as a strange dream informed by fragments of her experiences."
   :set-id "fate-and-freedom"} 
  {:card-id "mindmap-optimization"
   :code "54024"
   :illustrator "AI"
   :position 24
   :quantity 3
-  :flavor ""
+  :flavor "What did you think the remaining three quarters were for?"
   :set-id "fate-and-freedom"}
  {:card-id "tulpa"
   :code "54025"
   :illustrator "AI"
   :position 25
   :quantity 3
-  :flavor ""
+  :flavor "It lurks at the edge of thought, yearning to be known."
   :set-id "fate-and-freedom"}
- ;; Weyland: 26-27
  {:card-id "almenara"
   :code "54026"
   :illustrator "AI"
   :position 26
   :quantity 3
-  :flavor ""
+  :flavor "\"Now all of the Consortium knows you're here.\" -Simone Diego"
   :set-id "fate-and-freedom"}
  {:card-id "election-day"
   :code "54027"
   :illustrator "Del Borovic"
   :position 27
   :quantity 3
-  :flavor ""
+  :flavor "\"A new administration means we have to start greasing the wheels all over again. Let's get to work.\""
   :set-id "fate-and-freedom"}
  ;; NBN: 28-29
  {:card-id "communalink-rollout"
@@ -195,20 +195,20 @@
   :illustrator "AI"
   :position 28
   :quantity 3
-  :flavor ""
+  :flavor "\"They call it a mesh. I call it a leash.\" -Faultline"
   :set-id "fate-and-freedom"}
  {:card-id "billboard"
   :code "54029"
   :illustrator "AI"
   :position 29
   :quantity 3
-  :flavor ""
+  :flavor "\"I had no idea what language it spoke, much less what it was saying. I just felt... hungry.\"-Nasir Meidan "
   :set-id "fate-and-freedom"}
  {:card-id "flood-the-zone"
   :code "54030"
   :illustrator "AI"
   :position 30
   :quantity 3
-  :flavor ""
+  :flavor "A scandal a day keeps prying eyes away."
   :set-id "fate-and-freedom"}]
 

@@ -102,6 +102,8 @@ CYCLE_SYMS = {                  # Maps each cycle code (01 = core, 10 = data & d
     "52": "\u018c",
     "53": "\u018d",
     "54": "\u018e",
+    "55": "\u018f",
+    "70": "\u018f",
 }
 
 
@@ -125,6 +127,35 @@ def lookup_font_props(template_dict, card_faction, item):
 
 
 def get_text_dimensions(text_string, font):
+    text_string = text_string.replace(chr(156), SUBROUTINE_CHAR)
+    text_string = re.sub(r"<ral(\d{2})>", "", text_string)
+    text_string = re.sub("<br>", "", text_string)
+
+    bbox = font.getbbox(text_string)
+    ascent, descent = font.getmetrics()
+
+    width = bbox[2] - bbox[0]
+    height = ascent + descent
+
+    return width, height
+
+def new_get_text_dimensions(text_string, font):
+    # TODO: I want to port the generator to this to avoid clipping on ice strength, but this would break some other stuff, so for now I am not using it everywhere.
+    text_string = text_string.replace(chr(156), SUBROUTINE_CHAR)
+    text_string = re.sub(r"<ral(\d{2})>", "", text_string)
+    text_string = re.sub("<br>", "", text_string)
+
+    # Width: still measure glyphs
+    bbox = font.getbbox(text_string)
+    width = bbox[2] - bbox[0]
+
+    # Height: baseline-safe, old Pillow behavior
+    ascent, descent = font.getmetrics()
+    height = ascent + descent
+
+    return width, height
+
+def get_text_dimensions(text_string, font):
     # very much like draw.textsize, but see  https://stackoverflow.com/a/46220683/9263761
     # ascent, descent = font.getmetrics() # if needed
     text_string = text_string.replace(chr(156), SUBROUTINE_CHAR)
@@ -139,7 +170,11 @@ def get_text_dimensions(text_string, font):
 
         return (text_width, text_height)
     else:
-        return font.getsize(text_string)
+        # Pillow ≥10: getsize() removed → use getbbox()
+        bbox = font.getbbox(text_string)
+        text_width = bbox[2] - bbox[0]
+        text_height = bbox[3] - bbox[1]
+        return (text_width, text_height)
 
 
 def determine_line_breaks(
@@ -372,8 +407,8 @@ def special_text_flavortext_handling(
                     total_indent += indent_amount
 
             if (card_dict.get("twiy-style-flavortext") and is_printing_flavor) or is_quote_line:
-                line_width, _ = draw.textsize(line, font=font)
-                space_width, _ = draw.textsize(' ', font=font)
+                line_width, _ = get_text_dimensions(line, font)
+                space_width, _ = get_text_dimensions(' ', font)
                 align_indent = textwidth - line_width - quote_dedent * space_width
 
             else:
@@ -588,12 +623,12 @@ def draw_text_on_image(
 
     if item == TemplateItem.SET_SYM_NUM and text.startswith(REBOOT_INDICATOR):
         if not template_dict[item].get("rotation"): # in this case it is top-aligned anyway
-            rb_icon_width, _ = draw.textsize(REBOOT_INDICATOR, font=font)
+            rb_icon_width, _ = get_text_dimensions(REBOOT_INDICATOR, font)
             pos = (pos[0] - rb_icon_width, pos[1])
             
 
     # TODO: This should be using get_text_dimensions, but then all the template offsets must be fixed
-    text_width, text_height = draw.textsize(str(text), font=font)
+    text_width, text_height = get_text_dimensions(str(text), font)
 
     if template_dict[item].get("center"):
         if (rot := template_dict[item].get("rotation")) is not None:
@@ -643,6 +678,8 @@ def draw_text_on_image(
             subtype_box = drawn_boxes[TemplateItem.SUBTYPE]
             pos = [pos[0] + subtype_box.xmin, pos[1] + subtype_box.ymax]
 
+        # TODO: See refactor comment above this function.
+        text_width, text_height = new_get_text_dimensions(str(text), font)
         M = max(text_width, text_height)
         tmpimg = Image.new("RGBA", (M, M), color=(0, 0, 0, 0))
         ImageDraw.Draw(tmpimg).text((0, 0), str(text), font=font, fill=font_color)
@@ -830,7 +867,7 @@ def parse_input_and_doit():
 
         output_path = sys.argv[2]
         code_dict = yaml.safe_load(
-            Path("/home/karlerik/hobby/netrunner-data/code_dict.json").read_text()
+            Path("/home/karlerik/hobby/netrunner-data/card_image_generator/cardgen_data/code_dict.json").read_text()
         )
         card_name = Path(edn_path).stem
         _card_name = card_dict.get("id")  # TODO: hack...
@@ -866,7 +903,7 @@ def parse_input_and_doit():
         sys.exit(1)
 
     with open(
-        "/home/karlerik/hobby/netrunner-data/card_image_generator/card_illustrator_dict.json"
+        "/home/karlerik/hobby/reteki_data/card_image_generator/cardgen_data/card_illustrator_dict.json"
     ) as f:
         illustrator_dict = json.load(f)
     if (

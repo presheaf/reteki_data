@@ -49,7 +49,12 @@
   :rotated false
   :size 1}
  {:id "reboot-boosters"
-  :name "Reboot Boosters"
+  :name "Regenesis"
   :position 10
   :rotated false
-  :size 5}]
+  :size 5}
+ {:id "limit"
+  :name "Limit"
+  :position 11
+  :rotated false
+  :size 1}]

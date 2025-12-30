@@ -1,0 +1,12 @@
+{:cost 1
+ :deck-limit 3
+ :faction :criminal
+ :id "calling-card"
+ :influence-cost 1
+ :side :runner
+ :text "Place 3 power counters on Calling Card and choose a server when it is installed.\nWhen your turn begins, remove 1 hosted power counter. Then if there are no hosted power counters, trash Calling Card and run the chosen server. When the run ends, gain 6[credit] if it was successful."
+ :flavor "Surprise is cheap. Panic is expensive."
+ :title "Calling Card"
+ :illustrator "AI"
+ :type :resource
+ :uniqueness false}

@@ -1,0 +1,57 @@
+[{:card-id "lab-rat"
+  :code "55001"
+  :illustrator "AI"
+  :position 1
+  :quantity 3
+  :flavor "\" 'Side effects include hallucinations, synesthesia, mania...' Surely there's a catch?\" -Ji \"Noise\" Reilly "
+  :set-id "new-normal"}
+ {:card-id "calling-card"
+  :code "55002"
+  :illustrator "AI"
+  :position 2
+  :quantity 3
+  :flavor "Surprise is cheap. Panic is expensive."
+  :set-id "new-normal"}
+ {:card-id "by-popular-demand"
+  :code "55003"
+  :illustrator "AI"
+  :position 3
+  :quantity 3
+  :flavor "\"The only thing worse than a micromanager is 26,196 <br> of th- ooh, 26,197.\" -Matjaz \"TAS\" Adeyemi"
+  :set-id "new-normal"}
+ {:card-id "cerevue-campaign"
+  :code "55004"
+  :illustrator "AI"
+  :position 4
+  :quantity 3
+  :flavor "The Cerevue Neural Regulator helps your brain rest optimally by reinforcing the memories that matter and discarding those that do not."
+  :set-id "new-normal"}
+{:card-id "zero-waste-agrefineries"
+  :code "55005"
+  :illustrator "AI"
+  :position 5
+  :quantity 3
+  :flavor ""
+ :set-id "new-normal"}
+ {:card-id "doublespeak"
+  :code "55006"
+  :illustrator "AI"
+  :position 6
+  :quantity 3
+  :flavor "\"I'm no liar. I just have an outcome-oriented communicaton style.\" -Bex Gleeson"
+  :set-id "new-normal"}
+ {:card-id "bowstring"
+  :code "55007"
+  :illustrator "AI"
+  :position 7
+  :quantity 3
+  :flavor "\"At first I didn't get why they called it Bowstring. Then it hit me.\" -Exile"
+  :set-id "new-normal"}
+ {:card-id "crunch-time"
+  :code "55008"
+  :illustrator "AI"
+  :position 8
+  :quantity 3
+  :flavor "Leadership. Noun. The art of knowing whether to scream 'better', 'faster' or 'cheaper'. -The Anarch's Dictionary, Volume Who's Counting?"
+  :set-id "new-normal"}]
+

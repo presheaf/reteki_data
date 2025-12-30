@@ -330,7 +330,7 @@
   :size 30}
  {:code "rb4"
   :cycle-id "reboot-boosters"
-  :date-release "2024-07-04"
+  :date-release "2024-09-04"
   :deluxe false
   :ffg-id 53
   :id "equity-and-eternity"
@@ -340,11 +340,21 @@
   :size 31}
  {:code "rb5"
   :cycle-id "reboot-boosters"
-  :date-release "2024-07-05"
+  :date-release "2025-05-09"
   :deluxe false
-  :ffg-id 77
+  :ffg-id 54
   :id "fate-and-freedom"
   :name "Fate and Freedom"
   :position 5
   :set-type :data-pack
-  :size 30}]
+  :size 30}
+ {:code "rb6"
+  :cycle-id "limit"
+  :date-release "2025-12-30"
+  :deluxe false
+  :ffg-id 55
+  :id "new-normal"
+  :name "New Normal"
+  :position 6
+  :set-type :data-pack
+  :size 8}]

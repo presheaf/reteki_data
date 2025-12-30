@@ -6,7 +6,7 @@
  :side :corp
  :strength 2
  :subtype [:code-gate]
- :text "If the Runner has spent or lost [click] this run, this ice has +2 strength.\n[subroutine] End the run."
+ :text "If the Runner has spent or lost [click] this run, Tulpa has +2 strength.\n[subroutine] End the run."
  :title "Tulpa"
  :flavor "It lurks at the edge of thought, yearning to be known."
  :font-fudge-factor 0.92

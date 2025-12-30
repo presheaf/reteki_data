@@ -1,0 +1,14 @@
+{:cost 2
+ :deck-limit 3
+ :faction :anarch
+ :id "lab-rat"
+ :influence-cost 3
+ :side :runner
+ :subtype [:job]
+ :text "Place 5 power counters on Lab Rat when it is installed. When there are no power counters left on Lab Rat, trash it.\nWhen your turn begins, remove a power counter from Lab Rat and gain 2[credit].\nYour maximum hand size is reduced by 1 for every power counter on Lab Rat."
+ :flavor "\" 'Side effects include hallucinations, synesthesia, mania...' Surely there's a catch?\" -Ji \"Noise\" Reilly "
+ :font-fudge-factor 0.95
+ :title "Lab Rat"
+ :illustrator "AI"
+ :type :resource
+ :uniqueness false}
