@@ -19,27 +19,17 @@ from proxygen_utils import card_dict_from_edn_text, dict_pyfy, pyfy
 
 # Store outputs as cardcode.jpg, or cardcode-{front,back}.jpg
 
-NR_DATA_DIR = Path("/home/karlerik/hobby/netrunner-data/")
+
+OLD_NR_DATA_DIR = Path("/home/karlerik/hobby/netrunner-data/")
+NR_DATA_DIR = Path("/home/karlerik/hobby/reteki_data/")
 EDN_DIR = NR_DATA_DIR / "edn/cards/"
 FACES_DIR = NR_DATA_DIR / "edn/faces/"
-BG_IMG_DIR = NR_DATA_DIR / "new_cards/pretexts/"
-AUTOGEN_BG_IMG_PICKLE = NR_DATA_DIR / "new_cards/pretexts/generated.pkl"
+BG_IMG_DIR = OLD_NR_DATA_DIR / "new_cards/pretexts/"
+AUTOGEN_BG_IMG_PICKLE = OLD_NR_DATA_DIR / "new_cards/pretexts/generated.pkl"
 PROXYGEN_PATH = NR_DATA_DIR / "card_image_generator/proxygen.py"
 
-SET_EDN_PATH = NR_DATA_DIR / "edn/set-cards/equity-and-eternity.edn"
-# OUTPUT_PATH = NR_DATA_DIR / "scratch/ee_set_240527/"
-OUTPUT_PATH = NR_DATA_DIR / "scratch/ee_set_final/"
-
-
-# SET_EDN_PATH = NR_DATA_DIR / "edn/set-cards/reboot-booster-1.edn"
-# OUTPUT_PATH = NR_DATA_DIR / "scratch/boosters/reflections/"
-
-# SET_EDN_PATH = NR_DATA_DIR / "edn/set-cards/mind-and-mayhem.edn"
-# OUTPUT_PATH = NR_DATA_DIR / "scratch/boosters/mind-and-mayhem/"
-
-# SET_EDN_PATH = NR_DATA_DIR / "edn/set-cards/style-and-slander.edn"
-# OUTPUT_PATH = NR_DATA_DIR / "scratch/boosters/style-and-slander/"
-
+SET_EDN_PATH = NR_DATA_DIR / "edn/set-cards/new-normal.edn"
+OUTPUT_PATH = NR_DATA_DIR / "scratch/limit-cycle-1/251230/"
 
 OUTPUT_PATH.mkdir(exist_ok=True)
 try:
