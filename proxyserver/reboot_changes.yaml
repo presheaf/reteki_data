@@ -6583,3 +6583,43 @@
   change: New card
   ingame_change: true
   title: Flood the Zone
+"55001":
+  card_id: "lab-rat"
+  change: New card
+  ingame_change: true
+  title: Lab Rat
+"55002":
+  card_id: "calling-card"
+  change: New card
+  ingame_change: true
+  title: Calling Card
+"55003":
+  card_id: "by-popular-demand"
+  change: New card
+  ingame_change: true
+  title: By Popular Demand
+"55004":
+  card_id: "cerevue-campaign"
+  change: New card
+  ingame_change: true
+  title: Cerevue Campaign
+"55005":
+  card_id: "zero-waste-agrefineries"
+  change: New card
+  ingame_change: true
+  title: Zero-waste AgRefineries
+"55006":
+  card_id: "doublespeak"
+  change: New card
+  ingame_change: true
+  title: Doublespeak
+"55007":
+  card_id: "bowstring"
+  change: New card
+  ingame_change: true
+  title: Bowstring
+"55008":
+  card_id: "crunch-time"
+  change: New card
+  ingame_change: true
+  title: Crunch Time
