@@ -8,7 +8,8 @@ from pathlib import Path
 from typing import Optional, Literal
 
 import PIL
-from flask import Flask, escape, make_response, render_template, request
+from flask import Flask, make_response, render_template, request
+from markupsafe import escape
 from fpdf import FPDF
 from proxy_data import (CORP_CARDBACK_BLEED, CORP_CARDBACK_NONBLEED,
                         RUNNER_CARDBACK_BLEED, RUNNER_CARDBACK_NONBLEED,
